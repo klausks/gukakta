@@ -32,3 +32,6 @@ Unknown; not directly interacted with by the party beyond presence.
 
 ### Session 9
 Appeared as [Bildrat's]({{< ref "/npcs/bildrat" >}}) personal bodyguard when the party visited the merchant's shop. Appears in [Session 9]({{< ref "/sessions/session-9" >}}).
+
+### Session 16
+[Perwimple]({{< ref "/npcs/perwimple" >}}) was encountered deep within [Svalich Forest]({{< ref "/locations/svalich-forest" >}}) alongside [Dirko]({{< ref "/npcs/dirko" >}}) and [Bildrat]({{< ref "/npcs/bildrat" >}}). His presence in the forest far from [Village of Barovia]({{< ref "/locations/village-of-barovia" >}}) is unexplained. [Dirko]({{< ref "/npcs/dirko" >}}) made a cryptic suggestion that it would be beneficial if someone were to challenge [Perwimple]({{< ref "/npcs/perwimple" >}}) to a duel, though the reasoning behind this remark remains unclear. Appears in [Session 16]({{< ref "/sessions/session-16" >}}).

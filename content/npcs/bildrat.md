@@ -34,3 +34,6 @@ Arrogant and dismissive. Bildrat is contemptuous of those he doesn't know and sh
 
 ### Session 9
 The party visited [Bildrat's]({{< ref "/npcs/bildrat" >}}) shop seeking to appraise and trade items from the [Durst House]({{< ref "/locations/durst-house" >}}). [Bildrat]({{< ref "/npcs/bildrat" >}}) refused to deal with them, citing that he traded only with known acquaintances. He suggested they prove their moral character by eliminating zombies infesting a house in the village, but offered no compensation for this task. When [Jimmy Slit]({{< ref "/players/jimmy-slit" >}}) pressed for rewards, [Bildrat]({{< ref "/npcs/bildrat" >}}) declined. Appears in [Session 9]({{< ref "/sessions/session-9" >}}).
+
+### Session 16
+[Bildrat]({{< ref "/npcs/bildrat" >}}) was encountered deep within [Svalich Forest]({{< ref "/locations/svalich-forest" >}}) alongside [Dirko]({{< ref "/npcs/dirko" >}}) and [Perwimple]({{< ref "/npcs/perwimple" >}}). His presence in the forest far from [Village of Barovia]({{< ref "/locations/village-of-barovia" >}}) is unexplained. The party's discovery of [Bildrat]({{< ref "/npcs/bildrat" >}}) well into the cursed forest raises questions about his true allegiances and knowledge of this land. Appears in [Session 16]({{< ref "/sessions/session-16" >}}).
