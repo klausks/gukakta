@@ -21,3 +21,10 @@ The forest is perpetually shrouded in thick mist. The party discovered that the 
 - [Durst House]({{< ref "/locations/durst-house" >}}) — a house that emerged from the mist along the one fog-free path.
 
 ## Key NPCs
+
+## Key Events
+
+### Session 1 - Discovery
+The party was travelling through this forest when the mists pulled them into Barovia. During their travels, [Monel]({{< ref "/players/monel" >}}) detected that the ground was absorbing objects and slowly pulling them downward. He alerted the rest of the party, preventing the loss of most belongings, though their horses disappeared without a trace.
+
+As the party travelled deeper into the forest, they found that aside from a single clear path, the entire area was covered in thick fog. This path eventually revealed the [Durst House]({{< ref "/locations/durst-house" >}}), where they made their first contact with Barovia's inhabitants.

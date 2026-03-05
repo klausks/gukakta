@@ -18,6 +18,19 @@ Thornboldt Durst is a young boy who, along with his sister [Rosalva]({{< ref "/n
 
 Appears frightened. Sought help from the party alongside his sister.
 
+## Goals and Motivations
+
+Unknown; scared of the house and its contents.
+
+## Connections
+
+- [Rosalva Durst]({{< ref "/npcs/rosalva-durst" >}}) — his sister
+
 ## Key Events 
 
-First NPC contact in Barovia alongside [Rosalva]({{< ref "/npcs/rosalva-durst" >}}). First mentioned in [Session 1]({{< ref "/sessions/session-1" >}}).
+### Session 1
+First NPC contact in Barovia alongside [Rosalva]({{< ref "/npcs/rosalva-durst" >}}).
+
+### Session 2
+While exploring the [Durst House]({{< ref "/locations/durst-house" >}}), [Monel]({{< ref "/players/monel" >}}) discovered a broken mirror with his sister's name and [Elizabeth Durst's]({{< ref "/npcs/elizabeth-durst" >}}) name written behind it.
+

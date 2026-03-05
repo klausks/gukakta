@@ -43,4 +43,4 @@ Approaching the house, the party encountered two children: siblings [Rosalva Dur
 - What happened to all who previously sought the chest in the great tree?
 - How does the party escape Barovia?
 
-## XP & Rewards
+## Rewards

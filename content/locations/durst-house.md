@@ -19,8 +19,24 @@ Outside the house, the party met two children — [Rosalva]({{< ref "/npcs/rosal
 ## Notable Locations
 
 - **Basement** — reportedly where the Durst family keeps a monster imprisoned.
+- **Small Room with Mirror** — contained a broken mirror with two names written behind it: [Elizabeth Durst]({{< ref "/npcs/elizabeth-durst" >}}) and [Rosalva Durst]({{< ref "/npcs/rosalva-durst" >}}) (name crossed out).
 
 ## Key NPCs
 
 - [Rosalva Durst]({{< ref "/npcs/rosalva-durst" >}})
 - [Thornboldt Durst]({{< ref "/npcs/thornboldt-durst" >}})
+- [Margaret Durst]({{< ref "/npcs/margaret-durst" >}}) — spirit of the nurse who cared for [Walter Durst]({{< ref "/npcs/walter-durst" >}}) (defeated in [Session 2]({{< ref "/sessions/session-2" >}})
+- [Walter Durst]({{< ref "/npcs/walter-durst" >}}) — deceased child; the "last sacrifice" made by his parents
+- [Elizabeth Durst]({{< ref "/npcs/elizabeth-durst" >}}) — mentioned on documents; identity unclear
+
+## Key Events
+
+### Session 2 - Discoveries
+- 3 Scrolls found: *Blessing*, *Protection Against Poison*, and *Spiritual Weapon*
+- 2 Deeds recovered: One for the house, one for a windmill
+- 1 Will discovered: Only [Elizabeth Durst's]({{< ref "/npcs/elizabeth-durst" >}}) name not crossed out
+- 1 Letter from [Zé]({{< ref "/npcs/ze" >}}) (unopened)
+- 3 Leather-bound Books: Blank covers
+- 1 Broken Mirror: With names written behind it
+- [Walter Durst's]({{< ref "/npcs/walter-durst" >}}) Music Box: Broken and non-functional
+
