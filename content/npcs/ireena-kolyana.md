@@ -35,3 +35,6 @@ Gracious and composed. Despite being the target of a vampire lord's obsession, [
 
 ### Session 9
 Met in person by the party at the [Burgomaster's Mansion]({{< ref "/locations/burgomaster-mansion" >}}). Confirmed to be red-haired and wearing excellent quality armor. She welcomed the party warmly with food and drink. She agreed to the immediate escape plan and was disguised using [Pepino's]({{< ref "/players/pepino-falstaff" >}}) disguise kit and the purple cloak from the [Durst House]({{< ref "/locations/durst-house" >}}). She departed [Barovia]({{< ref "/locations/village-of-barovia" >}}) with the party immediately following the Burgomaster's funeral. Appears in [Session 9]({{< ref "/sessions/session-9" >}}).
+
+### Session 10
+Witnessed the encounter with [Count Strahd von Zarovich]({{< ref "/npcs/strahd-von-zarovich" >}}) as he revealed himself during the party's departure from [Barovia]({{< ref "/locations/village-of-barovia" >}}). Remained with [Jimmy Slit]({{< ref "/players/jimmy-slit" >}}) and [Dirko]({{< ref "/npcs/dirko" >}}) while the rest of the party engaged [Strahd]({{< ref "/npcs/strahd-von-zarovich" >}}) in combat. After [Strahd's]({{< ref "/npcs/strahd-von-zarovich" >}}) departure, joined the party to assess damages and plan next steps. Appears in [Session 10]({{< ref "/sessions/session-10" >}}).

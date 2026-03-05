@@ -32,6 +32,7 @@ Determined and driven. Though grieving, Ismark is focused on his responsibilitie
 - [Ireena Kolyana]({{< ref "/npcs/ireena-kolyana" >}}) — his sister; target of [Strahd's]({{< ref "/npcs/strahd-von-zarovich" >}}) obsession
 - [Count Strahd von Zarovich]({{< ref "/npcs/strahd-von-zarovich" >}}) — the vampire lord of [Barovia]({{< ref "/locations/village-of-barovia" >}}); major threat
 - [Donavich]({{< ref "/npcs/donavich" >}}) — the village priest; assisting with funeral arrangements
+- [Dirko]({{< ref "/npcs/dirko" >}}) — his "secret" partner/associate
 - The Party: [Jimmy Slit]({{< ref "/players/jimmy-slit" >}}), [Pepino Falstaff]({{< ref "/players/pepino-falstaff" >}}), [Monel]({{< ref "/players/monel" >}}), [Agares]({{< ref "/players/agares" >}})
 
 ## Key Events
@@ -45,3 +46,10 @@ The party visited the [Burgomaster's Mansion]({{< ref "/locations/burgomaster-ma
 - New shields to [Monel]({{< ref "/players/monel" >}}) and [Agares]({{< ref "/players/agares" >}})
 
 He supplied the party with a regional map and a sealed letter to be opened in [Vallaki]({{< ref "/locations/vallaki" >}}) if the escort was successful. He accompanied the Burgomaster's coffin to the church for the funeral ceremony. Appears in [Session 9]({{< ref "/sessions/session-9" >}}).
+
+### Session 10
+Introduced the party to [Dirko]({{< ref "/npcs/dirko" >}}), described as his "secret" partner.
+
+As the party prepared to depart [Barovia]({{< ref "/locations/village-of-barovia" >}}) with [Ireena]({{< ref "/npcs/ireena-kolyana" >}}), [Count Strahd von Zarovich]({{< ref "/npcs/strahd-von-zarovich" >}}) appeared and directly confronted the party. [Strahd]({{< ref "/npcs/strahd-von-zarovich" >}}) cast an enchantment on [Ismark]({{< ref "/npcs/ismark" >}}), rendering him unable to act during the vampire's discourse and subsequent combat with the party.
+
+Appears in [Session 10]({{< ref "/sessions/session-10" >}}).
