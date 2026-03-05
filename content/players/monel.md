@@ -40,3 +40,8 @@ Monel is a member of the party and a leader figure. He is pragmatic, decisive, a
 - **Key Tactical Discovery:** [Strahd]({{< ref "/npcs/strahd-von-zarovich" >}}) will only enter a dwelling when explicitly invited. The party can use this as a defensive tactic by entering houses and simply not inviting him inside
 
 Appears in [Session 10]({{< ref "/sessions/session-10" >}}).
+
+### Session 11 - Recovery and Repairs
+[Monel]({{< ref "/players/monel" >}}) purchased pies with [Jimmy Slit]({{< ref "/players/jimmy-slit" >}}) from a local vendor in [Barovia]({{< ref "/locations/village-of-barovia" >}}). At the inn, he spent the evening attempting to repair the armor damaged by [Strahd]({{< ref "/npcs/strahd-von-zarovich" >}}) in the previous session's encounter.
+
+Appears in [Session 11]({{< ref "/sessions/session-11" >}}).

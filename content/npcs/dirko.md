@@ -33,3 +33,6 @@ Unknown; appears to be aligned with [Ismark's]({{< ref "/npcs/ismark" >}}) inter
 
 ### Session 10
 Met by the party as [Ismark's]({{< ref "/npcs/ismark" >}}) "secret" partner during preparations to leave [Barovia]({{< ref "/locations/village-of-barovia" >}}). Was present with [Ireena]({{< ref "/npcs/ireena-kolyana" >}}) and [Jimmy Slit]({{< ref "/players/jimmy-slit" >}}) after the encounter with [Strahd]({{< ref "/npcs/strahd-von-zarovich" >}}) to assess damages. Appears in [Session 10]({{< ref "/sessions/session-10" >}}).
+
+### Session 11
+At the inn in [Barovia]({{< ref "/locations/village-of-barovia" >}}), had a private conversation with [Ismark]({{< ref "/npcs/ismark" >}}) before departing to scout the perimeter of the village. [Ismark]({{< ref "/npcs/ismark" >}}) explained that [Dirko]({{< ref "/npcs/dirko" >}}) had volunteered to conduct reconnaissance around the village, mapping potential threats and escape routes. The party agreed to delay departure until morning to allow [Dirko]({{< ref "/npcs/dirko" >}}) time to complete his survey. Appears in [Session 11]({{< ref "/sessions/session-11" >}}).

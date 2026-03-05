@@ -51,3 +51,12 @@ By the age of twenty-two, Jimmy had become a successful criminal. But the existe
 ### Session 3
 Heard his inner demon's voice again in the attic of the [Durst House]({{< ref "/locations/durst-house" >}}). The spirit [Thornboldt]({{< ref "/npcs/thornboldt-durst" >}}) demanded he take his hand; Jimmy refused and suffered damage. Afterwards, chose to reveal to the rest of the party that he carries a demonic entity that makes demands of him — acknowledging that the relationship is not one of trust. See [Session 3]({{< ref "/sessions/session-3" >}}).
 
+### Session 11
+Purchased pies with [Monel]({{< ref "/players/monel" >}}) from a local vendor in [Barovia]({{< ref "/locations/village-of-barovia" >}}). Took shelter at the inn with the party. [Agares]({{< ref "/players/agares" >}}) sensed an unusual chill from [Ireena]({{< ref "/npcs/ireena-kolyana" >}}), which [Jimmy]({{< ref "/players/jimmy-slit" >}}) observed and investigated. His demonic companion manifested, urging him to make physical contact with [Ireena]({{< ref "/npcs/ireena-kolyana" >}}) to discern her condition.
+
+**Critical Discovery:** Through a touch and the demon's perception, [Jimmy]({{< ref "/players/jimmy-slit" >}}) learned that [Ireena]({{< ref "/npcs/ireena-kolyana" >}}) has been **enchanted by [Count Strahd von Zarovich]({{< ref "/npcs/strahd-von-zarovich" >}})**. The enchantment presents two possible magical effects:
+1. She may be cursed to never awaken from sleep
+2. She serves as [Strahd's]({{< ref "/npcs/strahd-von-zarovich" >}}) remote eyes, ears, and nose from a distance
+
+Appears in [Session 11]({{< ref "/sessions/session-11" >}}).
+
