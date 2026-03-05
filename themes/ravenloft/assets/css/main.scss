@@ -1,0 +1,1070 @@
+// ============================================================
+// Ravenloft Theme — Dark Fantasy SCSS
+// ============================================================
+
+// -----------------------------------------------------------
+// 1. Design Tokens
+// -----------------------------------------------------------
+$c-bg:           #080507;        // near-black with a blood undertone
+$c-bg-surface:   #0f080a;        // coffin-dark surface
+$c-bg-raised:    #190c0f;        // clotted shadow
+$c-bg-card:      #200e12;        // card background
+$c-border:       #3d1a1d;        // dried-blood border
+$c-border-glow:  #8b0000;        // deep crimson glow
+
+$c-text:         #e8ddd5;        // aged bone / parchment
+$c-text-muted:   #9a7572;        // dusty rose ash
+$c-text-dim:     #5c3235;        // dim crimson shadow
+
+$c-accent:       #9b1b1b;        // blood red
+$c-accent-light: #c0392b;        // bright crimson
+$c-gold:         #b8956a;        // tarnished aristocratic gold
+$c-gold-light:   #d4b07a;        // candlelight gold
+$c-blood:        #6b0f0f;        // darkest blood
+$c-blood-light:  #a01515;        // fresh crimson
+$c-mist:         rgba(139, 27, 27, 0.05);
+
+$font-display: 'Cinzel Decorative', 'Cinzel', serif;
+$font-heading: 'Cinzel', serif;
+$font-body:    'IM Fell English', 'Georgia', serif;
+$font-mono:    'Fira Code', 'Consolas', monospace;
+
+$radius-sm:  4px;
+$radius-md:  8px;
+$radius-lg:  12px;
+
+$shadow-sm:  0 2px 8px rgba(0, 0, 0, 0.6);
+$shadow-md:  0 4px 20px rgba(0, 0, 0, 0.8);
+$shadow-glow: 0 0 18px rgba(155, 27, 27, 0.45);
+
+$sidebar-w: 260px;
+$header-h:  64px;
+
+$bp-md: 768px;
+$bp-lg: 1100px;
+
+// -----------------------------------------------------------
+// 2. Reset & Base
+// -----------------------------------------------------------
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: 17px;
+  scroll-behavior: smooth;
+  scrollbar-color: $c-border $c-bg;
+  scrollbar-width: thin;
+}
+
+body.ravenloft-body {
+  background-color: $c-bg;
+  color: $c-text;
+  font-family: $font-body;
+  line-height: 1.75;
+  min-height: 100vh;
+  position: relative;
+  overflow-x: hidden;
+}
+
+// Mist atmospheric overlay
+.mist-overlay {
+  pointer-events: none;
+  position: fixed;
+  inset: 0;
+  background:
+    radial-gradient(ellipse at 20% 0%,   rgba(155, 27, 27, 0.07) 0%, transparent 65%),
+    radial-gradient(ellipse at 80% 100%, rgba(100, 10, 10, 0.06) 0%, transparent 65%);
+  z-index: 0;
+}
+
+a {
+  color: $c-accent-light;
+  text-decoration: none;
+  transition: color 0.2s, text-shadow 0.2s;
+
+  &:hover {
+    color: $c-gold-light;
+    text-shadow: 0 0 8px rgba($c-gold, 0.4);
+  }
+}
+
+img { max-width: 100%; height: auto; display: block; }
+
+// -----------------------------------------------------------
+// 3. Typography
+// -----------------------------------------------------------
+h1, h2, h3, h4, h5, h6 {
+  font-family: $font-heading;
+  color: $c-gold-light;
+  line-height: 1.25;
+  letter-spacing: 0.03em;
+  text-shadow: 0 2px 12px rgba($c-gold, 0.2);
+}
+
+h1 { font-size: 2.2rem; margin-bottom: 1rem; }
+h2 { font-size: 1.65rem; margin: 2rem 0 0.75rem; border-bottom: 1px solid $c-border; padding-bottom: 0.4rem; }
+h3 { font-size: 1.3rem; margin: 1.5rem 0 0.5rem; color: $c-gold; }
+h4 { font-size: 1.1rem; margin: 1.25rem 0 0.4rem; }
+
+p { margin-bottom: 1.1rem; }
+
+blockquote {
+  border-left: 3px solid $c-accent;
+  margin: 1.5rem 0;
+  padding: 0.75rem 1.25rem;
+  background: $c-bg-raised;
+  border-radius: 0 $radius-md $radius-md 0;
+  font-style: italic;
+  color: $c-text-muted;
+  box-shadow: $shadow-sm;
+
+  p:last-child { margin-bottom: 0; }
+}
+
+code {
+  font-family: $font-mono;
+  font-size: 0.85em;
+  background: $c-bg-raised;
+  border: 1px solid $c-border;
+  border-radius: $radius-sm;
+  padding: 0.1em 0.4em;
+  color: $c-accent-light;
+}
+
+pre {
+  background: $c-bg-surface;
+  border: 1px solid $c-border;
+  border-radius: $radius-md;
+  padding: 1.25rem;
+  overflow-x: auto;
+  margin-bottom: 1.25rem;
+
+  code { background: none; border: none; padding: 0; color: $c-text; }
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 1.5rem;
+  font-size: 0.95rem;
+
+  th {
+    background: $c-bg-raised;
+    color: $c-gold;
+    font-family: $font-heading;
+    text-align: left;
+    padding: 0.6rem 0.9rem;
+    border-bottom: 2px solid $c-border-glow;
+  }
+
+  td {
+    padding: 0.55rem 0.9rem;
+    border-bottom: 1px solid $c-border;
+  }
+
+  tr:hover td { background: $c-bg-raised; }
+}
+
+ul, ol {
+  padding-left: 1.5rem;
+  margin-bottom: 1rem;
+
+  li { margin-bottom: 0.3rem; }
+}
+
+hr {
+  border: none;
+  border-top: 1px solid $c-border;
+  margin: 2rem 0;
+  position: relative;
+
+  &::before {
+    content: '⚜';
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    background: $c-bg;
+    color: $c-text-dim;
+    padding: 0 0.75rem;
+  }
+}
+
+// -----------------------------------------------------------
+// 4. Layout
+// -----------------------------------------------------------
+.site-wrapper {
+  display: grid;
+  grid-template-columns: $sidebar-w 1fr;
+  min-height: calc(100vh - $header-h - 60px);
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 0 1rem;
+  position: relative;
+  z-index: 1;
+
+  @media (max-width: $bp-md) {
+    grid-template-columns: 1fr;
+  }
+}
+
+.main-content {
+  min-width: 0;
+  padding: 2.5rem 2rem 3rem;
+
+  @media (max-width: $bp-md) {
+    padding: 1.5rem 1rem 2rem;
+  }
+}
+
+// -----------------------------------------------------------
+// 5. Header
+// -----------------------------------------------------------
+.site-header {
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  background: rgba($c-bg-surface, 0.96);
+  backdrop-filter: blur(10px);
+  border-bottom: 1px solid $c-border;
+  height: $header-h;
+  box-shadow: 0 4px 24px rgba(0,0,0,0.7);
+}
+
+.header-inner {
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 0 1.5rem;
+  height: 100%;
+}
+
+.site-brand {
+  flex: 0 0 auto;
+}
+
+.site-title {
+  font-family: $font-display;
+  font-size: 1.05rem;
+  color: $c-gold-light;
+  letter-spacing: 0.06em;
+  text-shadow: 0 0 12px rgba($c-gold, 0.5);
+
+  .title-crest { margin-right: 0.4rem; color: $c-blood-light; }
+
+  &:hover { color: $c-gold-light; text-shadow: 0 0 20px rgba($c-gold, 0.7); }
+}
+
+.site-tagline {
+  font-size: 0.72rem;
+  color: $c-text-muted;
+  font-style: italic;
+  margin-top: 2px;
+}
+
+.main-nav {
+  margin-left: auto;
+
+  @media (max-width: $bp-md) {
+    display: none;
+    position: absolute;
+    top: $header-h;
+    left: 0;
+    right: 0;
+    background: $c-bg-surface;
+    border-bottom: 1px solid $c-border;
+    padding: 1rem;
+    z-index: 99;
+
+    &.is-open { display: block; }
+  }
+}
+
+.nav-list {
+  display: flex;
+  align-items: center;
+  gap: 0.25rem;
+  list-style: none;
+  padding: 0;
+
+  @media (max-width: $bp-md) {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0;
+  }
+}
+
+.nav-link {
+  display: block;
+  padding: 0.4rem 0.75rem;
+  font-family: $font-heading;
+  font-size: 0.82rem;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: $c-text-muted;
+  border-radius: $radius-sm;
+  transition: color 0.2s, background 0.2s;
+
+  &:hover, .nav-item--active & {
+    color: $c-gold-light;
+    background: rgba($c-gold, 0.07);
+    text-shadow: none;
+  }
+}
+
+.nav-toggle {
+  display: none;
+  background: none;
+  border: 1px solid $c-border;
+  color: $c-text;
+  padding: 0.35rem 0.65rem;
+  border-radius: $radius-sm;
+  cursor: pointer;
+  font-size: 1.1rem;
+  margin-left: auto;
+
+  @media (max-width: $bp-md) { display: block; }
+}
+
+// -----------------------------------------------------------
+// 6. Sidebar
+// -----------------------------------------------------------
+.sidebar {
+  border-right: 1px solid $c-border;
+  padding: 2rem 0;
+  position: sticky;
+  top: $header-h;
+  height: calc(100vh - $header-h);
+  overflow-y: auto;
+
+  scrollbar-width: thin;
+  scrollbar-color: $c-border transparent;
+
+  @media (max-width: $bp-md) { display: none; }
+}
+
+.sidebar-heading {
+  font-family: $font-heading;
+  font-size: 0.7rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: $c-text-dim;
+  padding: 0 1rem 0.5rem;
+  border-bottom: 1px solid $c-border;
+  margin-bottom: 0.5rem;
+}
+
+.sidebar-toc {
+  margin-top: 2rem;
+  padding-top: 1rem;
+  border-top: 1px solid $c-border;
+}
+
+.sidebar-list {
+  list-style: none;
+  padding: 0;
+}
+
+.sidebar-item { margin-bottom: 0.1rem; }
+
+.sidebar-link {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.45rem 1rem;
+  font-family: $font-heading;
+  font-size: 0.85rem;
+  color: $c-text-muted;
+  transition: color 0.2s, background 0.2s;
+
+  &:hover, &--active {
+    color: $c-gold-light;
+    background: rgba($c-gold, 0.06);
+    text-shadow: none;
+  }
+}
+
+.sidebar-count {
+  font-size: 0.7rem;
+  color: $c-text-dim;
+}
+
+.sidebar-sublist {
+  list-style: none;
+  padding: 0 0 0.5rem 1rem;
+  border-left: 2px solid $c-border;
+  margin-left: 1rem;
+}
+
+.sidebar-sublink {
+  display: block;
+  padding: 0.3rem 0.75rem;
+  font-size: 0.8rem;
+  color: $c-text-muted;
+
+  &:hover, &--current {
+    color: $c-accent-light;
+    text-shadow: none;
+  }
+}
+
+// Table of contents generated by Hugo
+#TableOfContents {
+  font-size: 0.82rem;
+  padding: 0 1rem;
+
+  ul { list-style: none; padding-left: 0.75rem; }
+  a { color: $c-text-muted; &:hover { color: $c-accent-light; text-shadow: none; } }
+  li { margin-bottom: 0.25rem; }
+}
+
+// -----------------------------------------------------------
+// 7. Article / Single Page
+// -----------------------------------------------------------
+.wiki-article {
+  max-width: 820px;
+}
+
+.article-header {
+  margin-bottom: 2rem;
+  border-bottom: 1px solid $c-border;
+  padding-bottom: 1.25rem;
+}
+
+.article-category {
+  display: inline-block;
+  font-family: $font-heading;
+  font-size: 0.7rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: $c-accent-light;
+  margin-bottom: 0.5rem;
+}
+
+.article-title {
+  margin-bottom: 0.4rem;
+  font-size: 2.4rem;
+}
+
+.article-subtitle {
+  font-style: italic;
+  color: $c-text-muted;
+  font-size: 1.05rem;
+  margin-bottom: 0.75rem;
+}
+
+.article-meta {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  flex-wrap: wrap;
+  margin-top: 0.75rem;
+}
+
+.article-date {
+  font-size: 0.8rem;
+  color: $c-text-dim;
+  font-style: italic;
+}
+
+.article-hero {
+  margin: 1.5rem 0 0;
+  border-radius: $radius-md;
+  overflow: hidden;
+  border: 1px solid $c-border;
+  box-shadow: $shadow-md;
+}
+
+.article-body {
+  h2::before { content: '▸ '; color: $c-blood-light; font-size: 0.8em; }
+}
+
+// Stat block (D&D style info box)
+.stat-block {
+  background: linear-gradient(135deg, $c-bg-raised, $c-bg-card);
+  border: 1px solid $c-border-glow;
+  border-radius: $radius-md;
+  padding: 1.25rem 1.5rem;
+  margin-bottom: 2rem;
+  box-shadow: $shadow-glow, $shadow-sm;
+  position: relative;
+
+  &::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    border-radius: $radius-md;
+    background: linear-gradient(135deg, rgba($c-accent, 0.05), transparent);
+    pointer-events: none;
+  }
+}
+
+.stat-block__title {
+  font-family: $font-heading;
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: $c-text-dim;
+  margin-bottom: 0.75rem;
+  border-bottom: 1px solid $c-border;
+  padding-bottom: 0.4rem;
+}
+
+// Tags
+.tag {
+  display: inline-block;
+  background: rgba($c-accent, 0.15);
+  border: 1px solid rgba($c-accent, 0.3);
+  color: $c-accent-light;
+  font-family: $font-heading;
+  font-size: 0.7rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  padding: 0.15rem 0.55rem;
+  border-radius: 20px;
+  transition: background 0.2s, border-color 0.2s;
+
+  &:hover {
+    background: rgba($c-accent, 0.28);
+    border-color: $c-accent;
+    color: $c-accent-light;
+    text-shadow: none;
+  }
+}
+
+.article-tags { display: flex; flex-wrap: wrap; gap: 0.4rem; }
+
+// Related pages
+.related-pages {
+  margin-top: 3rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid $c-border;
+
+  h3 { font-size: 1rem; color: $c-text-muted; margin-bottom: 0.75rem; }
+  ul { list-style: none; padding: 0; display: flex; flex-wrap: wrap; gap: 0.5rem; }
+}
+
+// -----------------------------------------------------------
+// 8. List / Section Page
+// -----------------------------------------------------------
+.wiki-section {
+  max-width: 960px;
+}
+
+.section-header {
+  margin-bottom: 2.5rem;
+  border-bottom: 1px solid $c-border;
+  padding-bottom: 1.25rem;
+}
+
+.section-title {
+  font-size: 2.2rem;
+}
+
+.section-intro {
+  color: $c-text-muted;
+  font-style: italic;
+  margin-top: 0.75rem;
+}
+
+.entry-list {
+  list-style: none;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 1.25rem;
+}
+
+.entry-card {
+  background: $c-bg-card;
+  border: 1px solid $c-border;
+  border-radius: $radius-lg;
+  overflow: hidden;
+  transition: border-color 0.2s, box-shadow 0.2s, transform 0.15s;
+
+  &:hover {
+    border-color: $c-border-glow;
+    box-shadow: $shadow-glow;
+    transform: translateY(-2px);
+  }
+}
+
+.entry-card__link {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  color: $c-text;
+
+  &:hover { color: $c-text; text-shadow: none; }
+}
+
+.entry-card__image img {
+  width: 100%;
+  height: 160px;
+  object-fit: cover;
+}
+
+.entry-card__body {
+  padding: 1rem 1.1rem 1.25rem;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+.entry-card__title {
+  font-size: 1.1rem;
+  color: $c-gold-light;
+  margin-bottom: 0.3rem;
+}
+
+.entry-card__subtitle {
+  font-style: italic;
+  font-size: 0.87rem;
+  color: $c-text-muted;
+  margin-bottom: 0.5rem;
+}
+
+.entry-card__summary {
+  font-size: 0.88rem;
+  color: $c-text-muted;
+  flex: 1;
+  margin-bottom: 0.75rem;
+}
+
+.entry-card__tags { display: flex; flex-wrap: wrap; gap: 0.35rem; margin-top: auto; }
+
+.empty-section {
+  color: $c-text-dim;
+  font-style: italic;
+  padding: 2rem 0;
+  text-align: center;
+}
+
+// -----------------------------------------------------------
+// 9. Home Page
+// -----------------------------------------------------------
+.hero {
+  text-align: center;
+  padding: 4rem 2rem 3rem;
+  position: relative;
+
+  &::after {
+    content: '';
+    display: block;
+    width: 80px;
+    height: 2px;
+    background: linear-gradient(90deg, transparent, $c-gold, transparent);
+    margin: 2rem auto 0;
+  }
+}
+
+.hero__title {
+  font-family: $font-display;
+  font-size: clamp(1.8rem, 5vw, 3.2rem);
+  color: $c-gold-light;
+  text-shadow:
+    0 0 30px rgba($c-gold, 0.4),
+    0 4px 24px rgba(0,0,0,0.9);
+  margin-bottom: 1rem;
+}
+
+.hero__tagline {
+  font-style: italic;
+  font-size: 1.1rem;
+  color: $c-text-muted;
+  max-width: 520px;
+  margin: 0 auto 1.25rem;
+}
+
+.hero__intro {
+  max-width: 600px;
+  margin: 0 auto;
+  color: $c-text-muted;
+}
+
+.section-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 1rem;
+  margin-bottom: 3rem;
+  padding: 0 1rem;
+}
+
+.section-tile {
+  background: linear-gradient(145deg, $c-bg-card, $c-bg-raised);
+  border: 1px solid $c-border;
+  border-radius: $radius-lg;
+  padding: 1.75rem 1.25rem;
+  text-align: center;
+  color: $c-text;
+  transition: border-color 0.2s, transform 0.15s, box-shadow 0.2s;
+
+  &:hover {
+    border-color: $c-border-glow;
+    box-shadow: $shadow-glow;
+    transform: translateY(-3px);
+    color: $c-text;
+    text-shadow: none;
+  }
+}
+
+.section-tile__icon {
+  font-size: 2.2rem;
+  margin-bottom: 0.75rem;
+  line-height: 1;
+}
+
+.section-tile__title {
+  font-size: 1rem;
+  color: $c-gold-light;
+  margin-bottom: 0.3rem;
+  border: none;
+  padding: 0;
+}
+
+.section-tile__count {
+  font-size: 0.78rem;
+  color: $c-text-dim;
+  font-style: italic;
+}
+
+.recent-updates {
+  padding: 0 1rem 2rem;
+  max-width: 640px;
+  margin: 0 auto;
+}
+
+.recent-updates__heading {
+  font-size: 1rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: $c-text-dim;
+  margin-bottom: 1rem;
+  border-bottom: 1px solid $c-border;
+  padding-bottom: 0.5rem;
+}
+
+.recent-list { list-style: none; padding: 0; }
+
+.recent-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.5rem 0;
+  border-bottom: 1px solid rgba($c-border, 0.5);
+  font-size: 0.9rem;
+}
+
+.recent-section {
+  font-size: 0.72rem;
+  font-family: $font-heading;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: $c-text-dim;
+}
+
+// -----------------------------------------------------------
+// 10. Footer
+// -----------------------------------------------------------
+.site-footer {
+  border-top: 1px solid $c-border;
+  padding: 1.5rem 1.5rem;
+  text-align: center;
+  background: $c-bg-surface;
+  position: relative;
+  z-index: 1;
+}
+
+.footer-quote {
+  font-style: italic;
+  color: $c-text-dim;
+  font-size: 0.9rem;
+  margin-bottom: 0.4rem;
+}
+
+.footer-credit {
+  font-size: 0.78rem;
+  color: $c-text-dim;
+
+  a { color: $c-text-dim; &:hover { color: $c-accent-light; text-shadow: none; } }
+}
+
+// -----------------------------------------------------------
+// 11. 404 Page
+// -----------------------------------------------------------
+.error-page {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 60vh;
+  text-align: center;
+  padding: 3rem 1rem;
+}
+
+.error-page__inner { max-width: 480px; }
+
+.error-page__code {
+  font-family: $font-display;
+  font-size: 6rem;
+  color: $c-blood-light;
+  line-height: 1;
+  text-shadow: 0 0 40px rgba($c-blood, 0.5);
+  margin-bottom: 0.5rem;
+}
+
+.error-page__title {
+  font-size: 2rem;
+  color: $c-gold-light;
+  margin-bottom: 1rem;
+}
+
+.error-page__message {
+  color: $c-text-muted;
+  font-style: italic;
+  margin-bottom: 2rem;
+  line-height: 1.8;
+}
+
+.error-page__back {
+  display: inline-block;
+  padding: 0.6rem 1.5rem;
+  background: rgba($c-accent, 0.15);
+  border: 1px solid $c-border-glow;
+  border-radius: $radius-md;
+  font-family: $font-heading;
+  font-size: 0.85rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: $c-accent-light;
+  transition: background 0.2s, box-shadow 0.2s;
+
+  &:hover {
+    background: rgba($c-accent, 0.28);
+    box-shadow: $shadow-glow;
+    color: $c-accent-light;
+    text-shadow: none;
+  }
+}
+
+// -----------------------------------------------------------
+// 12. Shortcode Components
+// -----------------------------------------------------------
+
+// Callout
+.callout {
+  border-left: 3px solid $c-gold;
+  padding: 0.75rem 1.25rem;
+  background: rgba($c-gold, 0.05);
+  border-radius: 0 $radius-md $radius-md 0;
+  margin: 1.5rem 0;
+
+  &--warning {
+    border-color: darken($c-gold, 10%);
+    background: rgba($c-gold, 0.08);
+  }
+
+  &--danger {
+    border-color: $c-blood;
+    background: rgba($c-blood, 0.07);
+    .callout__title { color: $c-blood-light; }
+  }
+
+  &--lore {
+    border-color: $c-accent;
+    background: rgba($c-accent, 0.06);
+    .callout__title { color: $c-accent-light; }
+  }
+}
+
+.callout__title {
+  font-family: $font-heading;
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: $c-gold;
+  margin-bottom: 0.5rem;
+}
+
+.callout__body { p:last-child { margin-bottom: 0; } }
+
+// Spoiler / details
+.spoiler {
+  border: 1px solid $c-border;
+  border-radius: $radius-md;
+  margin: 1.25rem 0;
+  overflow: hidden;
+}
+
+.spoiler__toggle {
+  display: block;
+  padding: 0.7rem 1rem;
+  background: $c-bg-raised;
+  cursor: pointer;
+  font-family: $font-heading;
+  font-size: 0.85rem;
+  color: $c-text-muted;
+  user-select: none;
+  transition: background 0.2s, color 0.2s;
+  list-style: none;
+
+  &:hover { background: $c-bg-card; color: $c-gold-light; }
+  &::before { content: '▸ '; color: $c-accent-light; }
+
+  details[open] > &::before { content: '▾ '; }
+}
+
+.spoiler__content {
+  padding: 1rem 1.25rem;
+  border-top: 1px solid $c-border;
+  p:last-child { margin-bottom: 0; }
+}
+
+// Wiki quote (shortcode)
+.wiki-quote {
+  border-left: 3px solid $c-accent;
+  margin: 1.5rem 0;
+  padding: 0.75rem 1.25rem;
+  background: $c-bg-raised;
+  border-radius: 0 $radius-md $radius-md 0;
+  font-style: italic;
+  color: $c-text-muted;
+
+  p { margin-bottom: 0.3rem; }
+}
+
+.wiki-quote__attr {
+  font-style: normal;
+  font-family: $font-heading;
+  font-size: 0.8rem;
+  color: $c-text-dim;
+  margin-top: 0.5rem;
+}
+
+// -----------------------------------------------------------
+// 13. Search
+// -----------------------------------------------------------
+
+// Header search form
+.header-search {
+  display: flex;
+  align-items: center;
+  gap: 0;
+  flex: 0 1 200px;
+  position: relative;
+
+  @media (max-width: $bp-md) { display: none; }
+}
+
+.header-search__input {
+  width: 100%;
+  background: $c-bg;
+  border: 1px solid $c-border;
+  border-right: none;
+  border-radius: $radius-sm 0 0 $radius-sm;
+  color: $c-text;
+  font-family: $font-body;
+  font-size: 0.82rem;
+  padding: 0.35rem 0.65rem;
+  outline: none;
+  transition: border-color 0.2s, box-shadow 0.2s;
+
+  &::placeholder { color: $c-text-dim; }
+
+  &:focus {
+    border-color: $c-border-glow;
+    box-shadow: 0 0 0 2px rgba($c-accent, 0.15);
+  }
+
+  // Remove default browser X button on search inputs
+  &::-webkit-search-cancel-button { display: none; }
+}
+
+.header-search__btn {
+  background: $c-bg-raised;
+  border: 1px solid $c-border;
+  border-radius: 0 $radius-sm $radius-sm 0;
+  color: $c-text-muted;
+  cursor: pointer;
+  font-size: 0.9rem;
+  padding: 0.35rem 0.6rem;
+  transition: background 0.2s, color 0.2s, border-color 0.2s;
+
+  &:hover {
+    background: rgba($c-accent, 0.15);
+    border-color: $c-border-glow;
+    color: $c-gold-light;
+  }
+}
+
+// Dedicated search page
+.search-page { max-width: 820px; }
+
+.search-controls { margin-bottom: 2rem; }
+
+.search-input {
+  width: 100%;
+  background: $c-bg-surface;
+  border: 1px solid $c-border;
+  border-radius: $radius-md;
+  color: $c-text;
+  font-family: $font-body;
+  font-size: 1.05rem;
+  padding: 0.75rem 1rem;
+  outline: none;
+  transition: border-color 0.2s, box-shadow 0.2s;
+
+  &::placeholder { color: $c-text-dim; }
+
+  &:focus {
+    border-color: $c-border-glow;
+    box-shadow: 0 0 0 3px rgba($c-accent, 0.18);
+  }
+
+  &::-webkit-search-cancel-button { display: none; }
+}
+
+.search-hint {
+  margin-top: 0.6rem;
+  font-size: 0.82rem;
+  color: $c-text-dim;
+  font-style: italic;
+  min-height: 1.2em;
+}
+
+.search-results { margin-top: 0; }
+
+.search-result__meta {
+  margin-bottom: 0.2rem;
+}
+
+.search-result__section {
+  display: inline-block;
+  font-family: $font-heading;
+  font-size: 0.68rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: $c-accent-light;
+}
+
+// -----------------------------------------------------------
+// 14. Utility Classes
+// -----------------------------------------------------------
+.text-muted   { color: $c-text-muted; }
+.text-gold    { color: $c-gold-light; font-family: $font-heading; }
+.text-danger  { color: $c-blood-light; }
+.callout {
+  border-left: 3px solid $c-gold;
+  padding: 0.75rem 1.25rem;
+  background: rgba($c-gold, 0.05);
+  border-radius: 0 $radius-md $radius-md 0;
+  margin: 1.5rem 0;
+}
+.callout--danger {
+  border-color: $c-blood;
+  background: rgba($c-blood, 0.05);
+}

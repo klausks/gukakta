@@ -1,0 +1,62 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "Curse of Strahd — Campaign Wiki"
+theme = "ravenloft"
+enableRobotsTXT = true
+enableEmoji = true
+summarylength = 30
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel = 4
+    ordered = false
+  [markup.highlight]
+    style = "dracula"
+    lineNos = false
+
+[params]
+  description = "A living wiki for the Curse of Strahd D&D campaign."
+  tagline = "\"There is no escape from Barovia.\""
+  author = "The Party"
+  footerQuote = "\"I am the Ancient. I am the Land.\""
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "Locations"
+    url = "/locations/"
+    weight = 2
+  [[menu.main]]
+    name = "NPCs"
+    url = "/npcs/"
+    weight = 3
+  [[menu.main]]
+    name = "Monsters"
+    url = "/monsters/"
+    weight = 4
+  [[menu.main]]
+    name = "Lore"
+    url = "/lore/"
+    weight = 5
+  [[menu.main]]
+    name = "Sessions"
+    url = "/sessions/"
+    weight = 6
+  [[menu.main]]
+    name = "Players"
+    url = "/players/"
+    weight = 7
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]

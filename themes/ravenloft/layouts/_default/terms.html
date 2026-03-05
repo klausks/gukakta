@@ -1,0 +1,19 @@
+{{- define "main" }}
+<section class="taxonomy-page">
+  <header class="section-header">
+    <h1 class="section-title">{{ .Title }}</h1>
+  </header>
+  <ul class="entry-list">
+    {{- range .Data.Terms.Alphabetical }}
+    <li class="entry-card">
+      <a href="{{ .Page.Permalink }}" class="entry-card__link">
+        <div class="entry-card__body">
+          <h2 class="entry-card__title">{{ .Page.Title }}</h2>
+          <p class="entry-card__summary">{{ .Count }} {{ if eq .Count 1 }}entry{{ else }}entries{{ end }}</p>
+        </div>
+      </a>
+    </li>
+    {{- end }}
+  </ul>
+</section>
+{{- end }}

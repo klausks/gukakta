@@ -1,0 +1,13 @@
+{{- define "main" }}
+<div class="error-page">
+  <div class="error-page__inner">
+    <p class="error-page__code">404</p>
+    <h1 class="error-page__title">Lost in the Mists</h1>
+    <p class="error-page__message">
+      The page you seek has been swallowed by Barovia's eternal fog.<br />
+      Even the Dark Lord cannot find it.
+    </p>
+    <a href="{{ "/" | relURL }}" class="error-page__back">Return to the Wiki</a>
+  </div>
+</div>
+{{- end }}

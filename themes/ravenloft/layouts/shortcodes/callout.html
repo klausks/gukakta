@@ -1,0 +1,12 @@
+{{/* callout shortcode
+  Usage: {{< callout type="warning" title="Optional Title" >}} content {{< /callout >}}
+  type: info (default) | warning | danger | lore
+*/}}
+{{- $type  := .Get "type"  | default "info" }}
+{{- $title := .Get "title" }}
+<aside class="callout callout--{{ $type }}" role="note">
+  {{- if $title }}
+  <p class="callout__title">{{ $title }}</p>
+  {{- end }}
+  <div class="callout__body">{{ .Inner | markdownify }}</div>
+</aside>

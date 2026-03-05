@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+{{- partial "head.html" . }}
+<body class="ravenloft-body">
+  {{- partial "header.html" . }}
+  <div class="site-wrapper">
+    <aside class="sidebar">
+      {{- partial "sidebar.html" . }}
+    </aside>
+    <main class="main-content" id="main-content">
+      {{- block "main" . }}{{- end }}
+    </main>
+  </div>
+  {{- partial "footer.html" . }}
+  <div class="mist-overlay" aria-hidden="true"></div>
+</body>
+</html>

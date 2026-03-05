@@ -1,0 +1,32 @@
+<nav class="sidebar-nav" aria-label="Section navigation">
+  {{- $sections := .Site.Sections }}
+  {{- if $sections }}
+  <h3 class="sidebar-heading">Wiki Sections</h3>
+  <ul class="sidebar-list">
+    {{- range $sections }}
+    <li class="sidebar-item">
+      <a href="{{ .Permalink }}" class="sidebar-link {{ if ($.IsDescendant .) }}sidebar-link--active{{ end }}">
+        {{ .Title }}
+        <span class="sidebar-count">({{ .Pages.Len }})</span>
+      </a>
+      {{- if ($.IsDescendant .) }}
+      <ul class="sidebar-sublist">
+        {{- range .Pages }}
+        <li class="sidebar-subitem">
+          <a href="{{ .Permalink }}" class="sidebar-sublink{{ if $.Eq . }} sidebar-sublink--current{{ end }}">{{ .Title }}</a>
+        </li>
+        {{- end }}
+      </ul>
+      {{- end }}
+    </li>
+    {{- end }}
+  </ul>
+  {{- end }}
+
+  {{- if .Page.TableOfContents }}
+  <div class="sidebar-toc">
+    <h3 class="sidebar-heading">On This Page</h3>
+    {{ .Page.TableOfContents }}
+  </div>
+  {{- end }}
+</nav>

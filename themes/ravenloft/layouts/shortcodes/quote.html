@@ -1,0 +1,8 @@
+{{/* quote shortcode
+  Usage: {{< quote attribution="Strahd von Zarovich" >}} text {{< /quote >}}
+*/}}
+{{- $attr := .Get "attribution" }}
+<blockquote class="wiki-quote">
+  <p>{{ .Inner | markdownify }}</p>
+  {{- if $attr }}<footer class="wiki-quote__attr">— {{ $attr }}</footer>{{- end }}
+</blockquote>

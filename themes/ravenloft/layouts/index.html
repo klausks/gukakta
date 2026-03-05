@@ -1,0 +1,45 @@
+{{- define "main" }}
+<div class="home-page">
+  <section class="hero">
+    <div class="hero__inner">
+      <h1 class="hero__title">{{ .Site.Title }}</h1>
+      <p class="hero__tagline">{{ .Site.Params.tagline | safeHTML }}</p>
+      {{- with .Content }}<div class="hero__intro">{{ . }}</div>{{- end }}
+    </div>
+  </section>
+
+  <section class="section-grid">
+    {{- range .Site.Sections }}
+    <a href="{{ .Permalink }}" class="section-tile">
+      <div class="section-tile__icon">
+        {{- if eq .Section "locations" }}🏰
+        {{- else if eq .Section "npcs" }}🧛
+        {{- else if eq .Section "monsters" }}💀
+        {{- else if eq .Section "lore" }}📜
+        {{- else if eq .Section "sessions" }}⚔️
+        {{- else if eq .Section "players" }}🎲
+        {{- else }}📖
+        {{- end }}
+      </div>
+      <h2 class="section-tile__title">{{ .Title }}</h2>
+      <p class="section-tile__count">{{ .Pages.Len }} {{ if eq .Pages.Len 1 }}entry{{ else }}entries{{ end }}</p>
+    </a>
+    {{- end }}
+  </section>
+
+  {{- $recent := where .Site.RegularPages "Section" "ne" "" | first 6 }}
+  {{- if $recent }}
+  <section class="recent-updates">
+    <h2 class="recent-updates__heading">Recent Updates</h2>
+    <ul class="recent-list">
+      {{- range $recent }}
+      <li class="recent-item">
+        <a href="{{ .Permalink }}" class="recent-link">{{ .Title }}</a>
+        <span class="recent-section">{{ .Section | title }}</span>
+      </li>
+      {{- end }}
+    </ul>
+  </section>
+  {{- end }}
+</div>
+{{- end }}

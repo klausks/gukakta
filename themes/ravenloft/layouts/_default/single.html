@@ -1,0 +1,54 @@
+{{- define "main" }}
+<article class="wiki-article">
+  <header class="article-header">
+    {{- with .Params.category }}
+    <span class="article-category">{{ . }}</span>
+    {{- end }}
+    <h1 class="article-title">{{ .Title }}</h1>
+    {{- with .Params.subtitle }}
+    <p class="article-subtitle">{{ . }}</p>
+    {{- end }}
+    <div class="article-meta">
+      {{- with .Params.tags }}
+      <div class="article-tags">
+        {{- range . }}
+        <a href="{{ "/tags/" | relURL }}{{ . | urlize }}/" class="tag">{{ . }}</a>
+        {{- end }}
+      </div>
+      {{- end }}
+      {{- if not .Params.hide_date }}
+      <time class="article-date" datetime="{{ .Date.Format "2006-01-02" }}">
+        Last updated: {{ .Date.Format "January 2, 2006" }}
+      </time>
+      {{- end }}
+    </div>
+    {{- with .Params.image }}
+    <figure class="article-hero">
+      <img src="{{ . }}" alt="{{ $.Title }}" loading="lazy" />
+    </figure>
+    {{- end }}
+  </header>
+
+  {{- with .Params.summary_box }}
+  <aside class="stat-block">
+    <h3 class="stat-block__title">At a Glance</h3>
+    {{ . | markdownify }}
+  </aside>
+  {{- end }}
+
+  <div class="article-body">
+    {{ .Content }}
+  </div>
+
+  {{- with .Params.related }}
+  <section class="related-pages">
+    <h3>Related Pages</h3>
+    <ul>
+      {{- range . }}
+      <li><a href="{{ . | relURL }}">{{ . }}</a></li>
+      {{- end }}
+    </ul>
+  </section>
+  {{- end }}
+</article>
+{{- end }}

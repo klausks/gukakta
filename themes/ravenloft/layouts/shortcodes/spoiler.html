@@ -1,0 +1,8 @@
+{{/* spoiler shortcode — collapses hidden/spoiler content
+  Usage: {{< spoiler label="Show spoiler" >}} hidden content {{< /spoiler >}}
+*/}}
+{{- $label := .Get "label" | default "Show hidden content" }}
+<details class="spoiler">
+  <summary class="spoiler__toggle">{{ $label }}</summary>
+  <div class="spoiler__content">{{ .Inner | markdownify }}</div>
+</details>

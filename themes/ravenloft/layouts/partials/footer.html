@@ -1,0 +1,9 @@
+<footer class="site-footer" role="contentinfo">
+  <div class="footer-inner">
+    <p class="footer-quote">{{ .Site.Params.footerQuote | safeHTML }}</p>
+    <p class="footer-credit">
+      Built with <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a>
+      &mdash; {{ .Site.Params.author }} &mdash; {{ now.Format "2006" }}
+    </p>
+  </div>
+</footer>

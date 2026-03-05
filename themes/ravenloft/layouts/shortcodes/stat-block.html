@@ -1,0 +1,8 @@
+{{/* stat-block shortcode
+  Usage: {{< stat-block title="At a Glance" >}} markdown content {{< /stat-block >}}
+*/}}
+{{- $title := .Get "title" | default "At a Glance" }}
+<aside class="stat-block">
+  <h3 class="stat-block__title">{{ $title }}</h3>
+  <div class="stat-block__body">{{ .Inner | markdownify }}</div>
+</aside>

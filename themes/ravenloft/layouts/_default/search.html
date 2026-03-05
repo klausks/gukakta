@@ -1,0 +1,29 @@
+{{- define "main" }}
+{{/* Pass the index URL via a data attribute — avoids HTML minifier mangling Hugo template output inside <script> tags */}}
+<div id="search-config" data-index-url="{{ "/index.json" | relURL }}" hidden></div>
+
+<div class="search-page">
+  <header class="section-header">
+    <h1 class="section-title">Search the Wiki</h1>
+  </header>
+
+  <div class="search-controls">
+    <input
+      id="search-input"
+      class="search-input"
+      type="search"
+      placeholder="Search locations, NPCs, lore…"
+      autofocus
+      autocomplete="off"
+      aria-label="Search wiki"
+    />
+    <p class="search-hint" id="search-hint" aria-live="polite"></p>
+  </div>
+
+  <ul class="search-results entry-list" id="search-results" role="list" aria-label="Search results"></ul>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/fuse.js@7/dist/fuse.min.js"></script>
+<script src="{{ "/js/search.js" | relURL }}" defer></script>
+{{- end }}
+

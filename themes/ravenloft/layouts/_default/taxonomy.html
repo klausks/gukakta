@@ -1,0 +1,27 @@
+{{- define "main" }}
+<section class="taxonomy-page">
+  <header class="section-header">
+    <h1 class="section-title">
+      {{- if eq .Data.Plural "tags" }}Tagged:
+      {{- else if eq .Data.Plural "categories" }}Category:
+      {{- end }}
+      <em>{{ .Title }}</em>
+    </h1>
+    <p class="section-intro">{{ .Pages.Len }} {{ if eq .Pages.Len 1 }}entry{{ else }}entries{{ end }}</p>
+  </header>
+
+  <ul class="entry-list">
+    {{- range .Pages.ByTitle }}
+    <li class="entry-card">
+      <a href="{{ .Permalink }}" class="entry-card__link">
+        <div class="entry-card__body">
+          <h2 class="entry-card__title">{{ .Title }}</h2>
+          {{- with .Params.subtitle }}<p class="entry-card__subtitle">{{ . }}</p>{{- end }}
+          {{- with .Summary }}<p class="entry-card__summary">{{ . }}</p>{{- end }}
+        </div>
+      </a>
+    </li>
+    {{- end }}
+  </ul>
+</section>
+{{- end }}

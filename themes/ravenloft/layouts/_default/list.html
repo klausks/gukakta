@@ -1,0 +1,38 @@
+{{- define "main" }}
+<section class="wiki-section">
+  <header class="section-header">
+    <h1 class="section-title">{{ .Title }}</h1>
+    {{- with .Content }}
+    <div class="section-intro">{{ . }}</div>
+    {{- end }}
+  </header>
+
+  {{- if .Pages }}
+  <ul class="entry-list">
+    {{- range .Pages.ByTitle }}
+    <li class="entry-card">
+      <a href="{{ .Permalink }}" class="entry-card__link">
+        {{- with .Params.image }}
+        <div class="entry-card__image">
+          <img src="{{ . }}" alt="{{ $.Title }}" loading="lazy" />
+        </div>
+        {{- end }}
+        <div class="entry-card__body">
+          <h2 class="entry-card__title">{{ .Title }}</h2>
+          {{- with .Params.subtitle }}<p class="entry-card__subtitle">{{ . }}</p>{{- end }}
+          {{- with .Summary }}<p class="entry-card__summary">{{ . }}</p>{{- end }}
+          {{- with .Params.tags }}
+          <div class="entry-card__tags">
+            {{- range . }}<span class="tag">{{ . }}</span>{{- end }}
+          </div>
+          {{- end }}
+        </div>
+      </a>
+    </li>
+    {{- end }}
+  </ul>
+  {{- else }}
+  <p class="empty-section"><em>No entries yet. The mists conceal all…</em></p>
+  {{- end }}
+</section>
+{{- end }}
