@@ -18,7 +18,8 @@ Outside the house, the party met two children — [Rosalva]({{< ref "/npcs/rosal
 
 ## Notable Locations
 
-- **Basement** — reportedly where the Durst family keeps a monster imprisoned.
+- **Basement** — reportedly where the Durst family keeps a monster imprisoned. The children warned it is too powerful for the party of four.
+- **Attic** — discovered in Session 3. Contains the spirits of [Rosalva]({{< ref "/npcs/rosalva-durst" >}}) and [Thornboldt]({{< ref "/npcs/thornboldt-durst" >}}), and a chest housing [Margaret's]({{< ref "/npcs/margaret-durst" >}}) body. A staircase from the attic leads directly down to the basement.
 - **Small Room with Mirror** — contained a broken mirror with two names written behind it: [Elizabeth Durst]({{< ref "/npcs/elizabeth-durst" >}}) and [Rosalva Durst]({{< ref "/npcs/rosalva-durst" >}}) (name crossed out).
 
 ## Key NPCs
@@ -38,4 +39,12 @@ Outside the house, the party met two children — [Rosalva]({{< ref "/npcs/rosal
 - 3 Leather-bound Books: Blank covers
 - 1 Broken Mirror: With names written behind it
 - [Walter Durst's]({{< ref "/npcs/walter-durst" >}}) Music Box: Broken and non-functional
+
+### Session 3 - The Attic
+- [Margaret's]({{< ref "/npcs/margaret-durst" >}}) body found in a chest — bloodied. A letter discovered alongside it.
+- Spirits of [Rosalva]({{< ref "/npcs/rosalva-durst" >}}) and [Thornboldt]({{< ref "/npcs/thornboldt-durst" >}}) encountered in the attic — confirmed to be ghosts.
+- Party promised to deal with the monster in the basement and return to the spirits.
+- Lancelot (the party's dog) left with the spirits.
+- [Walter's]({{< ref "/npcs/walter-durst" >}}) music box repaired (barely) by [Pepino]({{< ref "/players/pepino-falstaff" >}}) and [Agares]({{< ref "/players/agares" >}}).
+- Basement access confirmed: a staircase descends from the attic.
 

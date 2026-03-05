@@ -22,7 +22,3 @@ summary_box: |
 - [Jimmy Slit]({{< ref "/players/jimmy-slit" >}}) — a rogue Jimmy worked with on several criminal jobs before the campaign.
 
 ## Key Events
-
-### Session 2
-Explored the [Durst House]({{< ref "/locations/durst-house" >}}) and picked up a piece of ornate armor, which made him violently ill. [Monel]({{< ref "/players/monel" >}}) and [Agares]({{< ref "/players/agares" >}}) asked him to drop it. Recovered three scrolls during exploration (*Blessing*, *Protection Against Poison*, and *Spiritual Weapon*), which all went into his possession.
-

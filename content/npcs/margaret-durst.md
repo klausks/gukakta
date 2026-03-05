@@ -31,3 +31,6 @@ Dedicated and sorrowful. Her primary concern was [Walter Durst's]({{< ref "/npcs
 
 ### Session 2
 Encountered by the party during their exploration of the [Durst House]({{< ref "/locations/durst-house" >}}). Before her defeat, she revealed crucial information: [Walter Durst]({{< ref "/npcs/walter-durst" >}}) was the "last sacrifice" made by the Durst couple — their own son. Defeated by the party in [Session 2]({{< ref "/sessions/session-2" >}}).
+
+### Session 3
+The party discovered what appears to be Margaret's physical body — bloodied — locked inside a chest in the attic of the [Durst House]({{< ref "/locations/durst-house" >}}). A letter was found alongside the chest. See [Session 3]({{< ref "/sessions/session-3" >}}).
