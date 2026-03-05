@@ -7,7 +7,6 @@ tags: ["location"]
 # summary_box: |
 #   **Region:**  
 #   **Ruler:**  
-#   **Danger Level:**  
 #   **Population:**
 # image: ""
 # related: []
@@ -19,5 +18,5 @@ tags: ["location"]
 
 ## Key NPCs
 
-## Key Events
+## Key Events and Discoveries
 
