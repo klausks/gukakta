@@ -6,7 +6,7 @@ draft: false
 tags: ["location"]
 summary_box: |
   **Region:** [Svalich Forest]({{< ref "/locations/svalich-forest" >}}) / Barovia  
-  **Danger Level:** Unknown  
+  **Danger Level:** Cleared (as of Session 7)  
   **First Encountered:** [Session 1]({{< ref "/sessions/session-1" >}})
 ---
 
@@ -77,4 +77,10 @@ Outside the house, the party met two children — [Rosalva]({{< ref "/npcs/rosal
   - 1 yellow leather-bound book (claimed by [Pepino Falstaff]({{< ref "/players/pepino-falstaff" >}}))
 - **Mr. Durst's Final Gift:** [Mr. Durst's]({{< ref "/npcs/mr-durst" >}}) spirit appeared again, thanked the party for the burials, and delivered [Walter's]({{< ref "/npcs/walter-durst" >}}) repaired music box. He indicated it would be useful for "calming spirits" in the monster's chamber.
 - The party reached the door to the monster's chamber and debated strategy before entering.
+
+### Session 7 - The Final Battle & The Curse Lifted
+- The party defeated [The Durst Monster]({{< ref "/monsters/durst-monster" >}}).
+- With the monster vanquished and all family bodies properly buried, the haunted magic binding the house dissipated entirely.
+- The oppressive fog surrounding the [Durst House]({{< ref "/locations/durst-house" >}}) lifted, revealing a clear path to the [Village of Barovia]({{< ref "/locations/village-of-barovia" >}}).
+- The party emerged from the house exhausted but victorious.
 

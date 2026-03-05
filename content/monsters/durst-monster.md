@@ -7,8 +7,8 @@ tags: ["monster", "durst", "final-threat"]
 summary_box: |
   **Type:** Humanoid (Bastard/Monster)  
   **Location:** [Durst House]({{< ref "/locations/durst-house" >}}) — Basement  
-  **Status:** Unknown (not yet encountered)  
-  **Threat Level:** Extreme — Final confrontation imminent
+  **Status:** Defeated in [Session 7]({{< ref "/sessions/session-7" >}})  
+  **Threat Level:** Defeated
 ---
 
 ## Overview
@@ -25,7 +25,7 @@ Unknown. The exact nature of the creature's power and abilities has not yet been
 
 ## Encounter Notes
 
-The party, after defeating the undead horde in the basement of the [Durst House]({{< ref "/locations/durst-house" >}}), received confirmation from [Mr. Durst's]({{< ref "/npcs/mr-durst" >}}) spirit that they would face this creature for their final confrontation. Battle is imminent as of [Session 5]({{< ref "/sessions/session-5" >}}).
+The party, after defeating the undead horde in the basement of the [Durst House]({{< ref "/locations/durst-house" >}}), received confirmation from [Mr. Durst's]({{< ref "/npcs/mr-durst" >}}) spirit that they would face this creature for their final confrontation. The party engaged the monster in [Session 7]({{< ref "/sessions/session-7" >}}) and achieved victory, vanquishing the creature and breaking the curse of the [Durst House]({{< ref "/locations/durst-house" >}}).
 
 ## Related NPCs
 
