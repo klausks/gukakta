@@ -18,6 +18,8 @@ tags: ["npc"]
 
 ## Personality
 
-## Role in the Campaign
+## Goals and Motivations
 
-## DM Notes
+## Connections
+
+## Key Events

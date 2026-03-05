@@ -19,4 +19,5 @@ tags: ["location"]
 
 ## Key NPCs
 
-## DM Notes
+## Key Events
+

@@ -17,4 +17,4 @@ players_present: []
 
 ## Loose Threads
 
-## XP & Rewards
+## Rewards
