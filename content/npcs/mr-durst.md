@@ -21,7 +21,7 @@ Solemn and resigned. He appears to have accepted the grim pattern of deaths in h
 
 ## Goals and Motivations
 
-Unknown. His focus seems to be on a cryptic concern regarding his wife — [Mrs. Durst]({{< ref "/npcs/mrs-durst" >}}).
+His focus seems to be on ensuring the party completes the proper burial rites for the undead creatures and preparing them to face his bastard son. He also harbors concern regarding his wife — [Mrs. Durst]({{< ref "/npcs/mrs-durst" >}}).
 
 ## Connections
 
@@ -34,3 +34,6 @@ Unknown. His focus seems to be on a cryptic concern regarding his wife — [Mrs.
 
 ### Session 4
 Encountered by the party in the basement of the [Durst House]({{< ref "/locations/durst-house" >}}) during their descent. He commented that "it is always the same scene: people arrive here and die to the monster." When asked by the party if they would kill his wife, he provided no useful information and then vanished. Appears in [Session 4]({{< ref "/sessions/session-4" >}}).
+
+### Session 5
+Appeared again after the party's combat with the undead horde. Instructed them to bury the bodies in their respective tombs and confirmed that it was safe for them to rest in the house basement. Revealed that the monster is his bastard son. Appears in [Session 5]({{< ref "/sessions/session-5" >}}).

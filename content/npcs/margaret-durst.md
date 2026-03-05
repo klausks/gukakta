@@ -34,3 +34,5 @@ Encountered by the party during their exploration of the [Durst House]({{< ref "
 
 ### Session 3
 The party discovered what appears to be Margaret's physical body — bloodied — locked inside a chest in the attic of the [Durst House]({{< ref "/locations/durst-house" >}}). A letter was found alongside the chest. See [Session 3]({{< ref "/sessions/session-3" >}}).
+### Session 5
+Margaret's specter appeared again in combat within the basement of the [Durst House]({{< ref \"/locations/durst-house\" >}}). She was defeated once more by the party as part of the final undead horde encounter. See [Session 5]({{< ref \"/sessions/session-5\" >}}).

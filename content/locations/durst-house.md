@@ -56,3 +56,9 @@ Outside the house, the party met two children — [Rosalva]({{< ref "/npcs/rosal
 - [Agares]({{< ref "/players/agares" >}}) detected four undead creatures moving beneath the ground.
 - Ambushed by three monsters in a corridor; combat unresolved at session end.
 
+### Session 5 - The Final Undead Battle & Mr. Durst's Revelation
+- The party completed combat against the undead horde, defeating:
+  - [Margaret Durst's]({{< ref "/npcs/margaret-durst" >}}) specter
+- After combat, [Mr. Durst's]({{< ref "/npcs/mr-durst" >}}) spirit reappeared with instructions to bury the bodies in their respective tombs.
+- He confirmed the location was safe to rest and revealed the existence of his bastard son—the true monster.
+
