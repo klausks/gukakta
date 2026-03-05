@@ -34,3 +34,6 @@ Compassionate and dutiful. Despite the darkness that surrounds [Barovia]({{< ref
 
 ### Session 8
 Met by the party as he assisted [Ismark]({{< ref "/npcs/ismark" >}}) with funeral arrangements for the Burgomaster. Appears in [Session 8]({{< ref "/sessions/session-8" >}}).
+
+### Session 9
+Presided over the Burgomaster's funeral ceremony in the [Barovia Church]({{< ref "/locations/church-barovia" >}}). The ceremony was interrupted twice by disturbing whispered screams emanating from behind a locked door within the church. The source of these sounds and the nature of what lies beyond the door remain unknown. Appears in [Session 9]({{< ref "/sessions/session-9" >}}).

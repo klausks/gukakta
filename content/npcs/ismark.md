@@ -39,5 +39,9 @@ Determined and driven. Though grieving, Ismark is focused on his responsibilitie
 ### Session 7
 Revealed as the mysterious benefactor who paid for the party's lodging at the inn after they emerged from the [Durst House]({{< ref "/locations/durst-house" >}}).
 
-### Session 8
-Became formally acquainted with the party during breakfast. Revealed his identity and role in the village. Shared information about [Barovia's]({{< ref "/locations/village-of-barovia" >}}) curse, his father's death, and [Strahd's]({{< ref "/npcs/strahd-von-zarovich" >}}) interest in [Ireena]({{< ref "/npcs/ireena-kolyana" >}}). Formally requested the party escort [Ireena]({{< ref "/npcs/ireena-kolyana" >}}) to safety. Offered breakfast, wine, and cooperation with the party. Appears in [Session 8]({{< ref "/sessions/session-8" >}}).
+### Session 9
+The party visited the [Burgomaster's Mansion]({{< ref "/locations/burgomaster-mansion" >}}) where [Ismark]({{< ref "/npcs/ismark" >}}) finalized the escape plan with [Ireena]({{< ref "/npcs/ireena-kolyana" >}}). He decided to execute the escape immediately after the Burgomaster's funeral. He provided the party with critical supplies:
+- 10 arrows, 2 flasks of oil, 1 flask of poison, and 1 poison kit to [Jimmy Slit]({{< ref "/players/jimmy-slit" >}})
+- New shields to [Monel]({{< ref "/players/monel" >}}) and [Agares]({{< ref "/players/agares" >}})
+
+He supplied the party with a regional map and a sealed letter to be opened in [Vallaki]({{< ref "/locations/vallaki" >}}) if the escort was successful. He accompanied the Burgomaster's coffin to the church for the funeral ceremony. Appears in [Session 9]({{< ref "/sessions/session-9" >}}).

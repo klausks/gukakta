@@ -6,22 +6,24 @@ tags: ["npc", "ally", "key-figure"]
 summary_box: |
   **Race:** Human  
   **Alignment:** Neutral Good  
-  **Location:** [Village of Barovia]({{< ref "/locations/village-of-barovia" >}})  
-  **Relationship:** Targeted by [Count Strahd von Zarovich]({{< ref "/npcs/strahd-von-zarovich" >}})  
-  **Status:** Alive (in danger)
+  **Location:** Travelling with the party (escaped [Barovia]({{< ref "/locations/village-of-barovia" >}}))  
+  **Relationship:** Ward of the party; targeted by [Count Strahd von Zarovich]({{< ref "/npcs/strahd-von-zarovich" >}})  
+  **Status:** Alive (escaping danger)
 ---
 
 ## Overview
 
-[Ireena Kolyana]({{< ref "/npcs/ireena-kolyana" >}}) is the sister of [Ismark]({{< ref "/npcs/ismark" >}}), the Burgomaster's son of [Barovia]({{< ref "/locations/village-of-barovia" >}}). She is the subject of an obsessive, personal interest from [Count Strahd von Zarovich]({{< ref "/npcs/strahd-von-zarovich" >}}), the vampire lord of the land. Her safety is the primary concern of her brother, who seeks aid from capable allies to protect and escort her to freedom.
+[Ireena Kolyana]({{< ref "/npcs/ireena-kolyana" >}}) is the daughter of the late Burgomaster of [Barovia]({{< ref "/locations/village-of-barovia" >}}) and the sister of [Ismark]({{< ref "/npcs/ismark" >}}). She is a beautiful, red-haired woman of considerable bearing, skilled enough to wear armor of excellent quality. She is the subject of an obsessive, personal interest from [Count Strahd von Zarovich]({{< ref "/npcs/strahd-von-zarovich" >}}), the vampire lord of the land. Her safety is the primary concern of her brother, who seeks aid from capable allies to protect and escort her to freedom.
 
 ## Personality
 
-Unknown; not yet directly encountered by the party.
+Gracious and composed. Despite being the target of a vampire lord's obsession, [Ireena]({{< ref "/npcs/ireena-kolyana" >}}) maintains hospitality and kindness toward those who come to her aid. She is willing to take decisive action to ensure her own survival, as evidenced by her swift acceptance of the escape plan.
 
 ## Goals and Motivations
 
-Unknown; but presumed to desire safety from [Count Strahd's]({{< ref "/npcs/strahd-von-zarovich" >}}) advances.
+- Escape from [Barovia]({{< ref "/locations/village-of-barovia" >}}) and [Count Strahd's]({{< ref "/npcs/strahd-von-zarovich" >}}) advances
+- Reach safety in [Vallaki]({{< ref "/locations/vallaki" >}}) or beyond
+- Survive the escape with the party's aid
 
 ## Connections
 
@@ -31,5 +33,5 @@ Unknown; but presumed to desire safety from [Count Strahd's]({{< ref "/npcs/stra
 
 ## Key Events
 
-### Session 8
-[Ismark]({{< ref "/npcs/ismark" >}}) revealed his sister's danger and requested that the party escort [Ireena]({{< ref "/npcs/ireena-kolyana" >}}) to safety outside of [Barovia]({{< ref "/locations/village-of-barovia" >}}). The party has not yet met [Ireena]({{< ref "/npcs/ireena-kolyana" >}}) directly. Appears in [Session 8]({{< ref "/sessions/session-8" >}}).
+### Session 9
+Met in person by the party at the [Burgomaster's Mansion]({{< ref "/locations/burgomaster-mansion" >}}). Confirmed to be red-haired and wearing excellent quality armor. She welcomed the party warmly with food and drink. She agreed to the immediate escape plan and was disguised using [Pepino's]({{< ref "/players/pepino-falstaff" >}}) disguise kit and the purple cloak from the [Durst House]({{< ref "/locations/durst-house" >}}). She departed [Barovia]({{< ref "/locations/village-of-barovia" >}}) with the party immediately following the Burgomaster's funeral. Appears in [Session 9]({{< ref "/sessions/session-9" >}}).
