@@ -48,3 +48,11 @@ Outside the house, the party met two children — [Rosalva]({{< ref "/npcs/rosal
 - [Walter's]({{< ref "/npcs/walter-durst" >}}) music box repaired (barely) by [Pepino]({{< ref "/players/pepino-falstaff" >}}) and [Agares]({{< ref "/players/agares" >}}).
 - Basement access confirmed: a staircase descends from the attic.
 
+### Session 4 - The Basement Explored
+- Discovered a hanging corpse with a suicide letter in one chamber.
+- Found a mysterious potion near the corpse (suspected to be blessed or cursed by [Agares]({{< ref "/players/agares" >}})).
+- Encountered the spirit of [Mr. Durst]({{< ref "/npcs/mr-durst" >}}) in the basement, who spoke of the monster claiming lives and asked a cryptic question about killing his wife.
+- Recovered treasure around a well: 11 gold pieces + 60 silver pieces, 3 moss agates, one black leather eye patch with brown attachment, one ivory brush with silver bristles, and one silver short sword (claimed by [Monel]({{< ref "/players/monel" >}})).
+- [Agares]({{< ref "/players/agares" >}}) detected four undead creatures moving beneath the ground.
+- Ambushed by three monsters in a corridor; combat unresolved at session end.
+

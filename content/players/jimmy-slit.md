@@ -50,3 +50,4 @@ By the age of twenty-two, Jimmy had become a successful criminal. But the existe
 
 ### Session 3
 Heard his inner demon's voice again in the attic of the [Durst House]({{< ref "/locations/durst-house" >}}). The spirit [Thornboldt]({{< ref "/npcs/thornboldt-durst" >}}) demanded he take his hand; Jimmy refused and suffered damage. Afterwards, chose to reveal to the rest of the party that he carries a demonic entity that makes demands of him — acknowledging that the relationship is not one of trust. See [Session 3]({{< ref "/sessions/session-3" >}}).
+

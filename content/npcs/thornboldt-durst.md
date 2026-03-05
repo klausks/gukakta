@@ -39,5 +39,5 @@ First NPC contact in Barovia alongside [Rosalva]({{< ref "/npcs/rosalva-durst" >
 While exploring the [Durst House]({{< ref "/locations/durst-house" >}}), [Monel]({{< ref "/players/monel" >}}) discovered a broken mirror with his sister's name and [Elizabeth Durst's]({{< ref "/npcs/elizabeth-durst" >}}) name written behind it.
 
 ### Session 3
-Encountered in the attic of the [Durst House]({{< ref "/locations/durst-house" >}}) as a spirit, along with [Rosalva]({{< ref "/npcs/rosalva-durst" >}}). The party nonetheless promised to deal with the basement monster and return. Provided the party with the secret of how to reach the basement. Appears in [Session 3]({{< ref "/sessions/session-3" >}}).
+Encountered in the attic of the [Durst House]({{< ref "/locations/durst-house" >}}) as a spirit, along with [Rosalva]({{< ref "/npcs/rosalva-durst" >}}). He demanded that [Jimmy Slit]({{< ref "/players/jimmy-slit" >}}) take his hand; Jimmy refused and suffered damage as a result. The party nonetheless promised to deal with the basement monster and return. Provided the party with the secret of how to reach the basement. Appears in [Session 3]({{< ref "/sessions/session-3" >}}).
 

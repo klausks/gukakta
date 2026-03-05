@@ -19,4 +19,5 @@ summary_box: |
 
 ## Connections in Barovia
 
-## Session Notes
+## Key Events
+
