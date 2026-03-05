@@ -60,3 +60,9 @@ Purchased pies with [Monel]({{< ref "/players/monel" >}}) from a local vendor in
 
 Appears in [Session 11]({{< ref "/sessions/session-11" >}}).
 
+### Session 15
+[Jimmy]({{< ref "/players/jimmy-slit" >}}) attempted to remove the magical hat from [Pepino Falstaff's]({{< ref "/players/pepino-falstaff" >}}) head, but the hat would not come free and became stuck. [Pepino]({{< ref "/players/pepino-falstaff" >}}) responded with a sharp slap and a firm warning against attempting this again.
+
+[Jimmy]({{< ref "/players/jimmy-slit" >}}) shared a deeply personal confession with the party: he revealed that his father was a chronic alcoholic who tormented the household, responsible for killing his entire family. However, he survived by killing his father.
+
+Appears in [Session 15]({{< ref "/sessions/session-15" >}}).

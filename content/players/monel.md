@@ -16,6 +16,10 @@ Monel is a member of the party and a leader figure. He is pragmatic, decisive, a
 
 ## Backstory
 
+[Monel]({{< ref "/players/monel" >}}) was born into a good family without major hardship. His father was a master brewer, and [Monel]({{< ref "/players/monel" >}}) spent much of his youth drinking excessively and engaging in foolish behavior. At some point in his life, he enlisted in the military and adopted a more disciplined, peaceful lifestyle.
+
+However, [Monel's]({{< ref "/players/monel" >}}) past contains a profound unexplained mystery: he once found himself transported to a domain consumed by never-ending war. He spent what felt like an infinite number of years in that war-torn land, yet he could never understand what was happening or discover any explanation for how he arrived there or what the domain was. As suddenly as he was transported to that domain, he was inexplicably returned to the normal plane. **[Monel]({{< ref "/players/monel" >}}) has no understanding of this episode and remains deeply frustrated by its incomprehensibility.**
+
 ## Goals & Motivations
 
 ## Connections in Barovia
@@ -45,3 +49,9 @@ Appears in [Session 10]({{< ref "/sessions/session-10" >}}).
 [Monel]({{< ref "/players/monel" >}}) purchased pies with [Jimmy Slit]({{< ref "/players/jimmy-slit" >}}) from a local vendor in [Barovia]({{< ref "/locations/village-of-barovia" >}}). At the inn, he spent the evening attempting to repair the armor damaged by [Strahd]({{< ref "/npcs/strahd-von-zarovich" >}}) in the previous session's encounter.
 
 Appears in [Session 11]({{< ref "/sessions/session-11" >}}).
+
+### Session 15 - Backstory and Tactical Response
+
+As the party traveled along the river, [Monel]({{< ref "/players/monel" >}}) asked [Pepino Falstaff]({{< ref "/players/pepino-falstaff" >}}) about his origins, prompting [Pepino]({{< ref "/players/pepino-falstaff" >}}) to reveal his backstory. In turn, [Monel]({{< ref "/players/monel" >}}) shared his own deeply troubled past, revealing his origins in a good family, his period of dissolution and drink, his military service, and most significantly—the mysterious war domain from which he cannot explain his transportation or return. When [Pepino]({{< ref "/players/pepino-falstaff" >}}) asked [Monel]({{< ref "/players/monel" >}}) why this transportation occurred, [Monel]({{< ref "/players/monel" >}}) responded with frustration that he never understood this episode in his life.
+
+Appears in [Session 15]({{< ref "/sessions/session-15" >}}).
