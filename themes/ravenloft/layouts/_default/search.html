@@ -1,6 +1,6 @@
 {{- define "main" }}
 {{/* Pass the index URL via a data attribute — avoids HTML minifier mangling Hugo template output inside <script> tags */}}
-<div id="search-config" data-index-url="{{ "/index.json" | relURL }}" hidden></div>
+<div id="search-config" data-index-url="{{ "/index.json" | absURL }}" hidden></div>
 
 <div class="search-page">
   <header class="section-header">

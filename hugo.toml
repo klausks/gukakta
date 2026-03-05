@@ -60,3 +60,18 @@ summarylength = 30
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
+
+[mediaTypes]
+  [mediaTypes."application/json"]
+    suffixes = ["json"]
+
+[outputFormats]
+  [outputFormats.JSON]
+    mediaType  = "application/json"
+    baseName   = "index"
+    isPlainText = true
+    notAlternative = true
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
