@@ -6,13 +6,14 @@ draft: false
 tags: ["npc"]
 summary_box: |
   **Race:** Human  
-  **Location:** [Durst House]({{< ref "/locations/durst-house" >}}) — Status Unknown  
-  **Relationship:** Unknown
+  **Location:** [Durst House]({{< ref "/locations/durst-house" >}}) — Basement (Deceased)  
+  **Status:** Deceased (body discovered and buried in Session 6)
+  **Relationship:** Wife of [Mr. Durst]({{< ref "/npcs/mr-durst" >}})
 ---
 
 ## Overview
 
-Mrs. Durst is the wife of [Mr. Durst]({{< ref "/npcs/mr-durst" >}}) and mother of the Durst family. Her current status and location are unknown, though her husband's spirit made cryptic references to her during an encounter with the party.
+Mrs. Durst is the wife of [Mr. Durst]({{< ref "/npcs/mr-durst" >}}) and mother of the Durst family. She was found deceased in a chamber in the southern basement of the [Durst House]({{< ref "/locations/durst-house" >}}) during [Session 6]({{< ref "/sessions/session-6" >}}).
 
 ## Personality
 
@@ -33,3 +34,12 @@ Unknown.
 
 ### Session 4
 [Mr. Durst's]({{< ref "/npcs/mr-durst" >}}) spirit asked the party if they would kill her, though he offered no explanation. Appears in [Session 4]({{< ref "/sessions/session-4" >}}).
+
+### Session 6
+The party located [Mrs. Durst's]({{< ref "/npcs/mrs-durst" >}}) body in a chamber in the southern basement of the [Durst House]({{< ref "/locations/durst-house" >}}). Alongside her body were found:
+- 1 purple hooded cloak of excellent quality
+- 1 meal kit
+- 1 set of thieves' tools
+- 1 yellow leather-bound book (claimed by [Pepino Falstaff]({{< ref "/players/pepino-falstaff" >}}))
+
+Her body was subsequently buried in her tomb by the party. Appears in [Session 6]({{< ref "/sessions/session-6" >}}).

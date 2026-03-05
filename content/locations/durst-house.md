@@ -59,6 +59,22 @@ Outside the house, the party met two children — [Rosalva]({{< ref "/npcs/rosal
 ### Session 5 - The Final Undead Battle & Mr. Durst's Revelation
 - The party completed combat against the undead horde, defeating:
   - [Margaret Durst's]({{< ref "/npcs/margaret-durst" >}}) specter
+  - A shadow
+  - A ghoul
+  - A centipede swarm
 - After combat, [Mr. Durst's]({{< ref "/npcs/mr-durst" >}}) spirit reappeared with instructions to bury the bodies in their respective tombs.
 - He confirmed the location was safe to rest and revealed the existence of his bastard son—the true monster.
+- The party conducted a long rest, fully restoring their health.
+
+### Session 6 - Burials & The Southern Basement
+- Burial rites completed for [Mr. Durst]({{< ref "/npcs/mr-durst" >}}), [Margaret Durst]({{< ref "/npcs/margaret-durst" >}}), and the spirits of [Rosalva]({{< ref "/npcs/rosalva-durst" >}}) and [Thornboldt]({{< ref "/npcs/thornboldt-durst" >}}).
+- [Agares]({{< ref "/players/agares" >}}) used Divine Sense to locate the remaining bodies.
+- **The Evil Statue:** Deep in the southern basement, the party encountered a statue radiating overwhelming evil. [Agares]({{< ref "/players/agares" >}}) recoiled in horror and vomited. [Jimmy Slit's]({{< ref "/players/jimmy-slit" >}}) demon familiar warned that touching it would result in immediate death ("turning to dust"). The party avoided it and pressed on.
+- **Mrs. Durst's Chamber:** Found [Mrs. Durst's]({{< ref "/npcs/mrs-durst" >}}) body and recovered:
+  - 1 purple hooded cloak of excellent quality
+  - 1 meal kit
+  - 1 set of thieves' tools
+  - 1 yellow leather-bound book (claimed by [Pepino Falstaff]({{< ref "/players/pepino-falstaff" >}}))
+- **Mr. Durst's Final Gift:** [Mr. Durst's]({{< ref "/npcs/mr-durst" >}}) spirit appeared again, thanked the party for the burials, and delivered [Walter's]({{< ref "/npcs/walter-durst" >}}) repaired music box. He indicated it would be useful for "calming spirits" in the monster's chamber.
+- The party reached the door to the monster's chamber and debated strategy before entering.
 

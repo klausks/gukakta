@@ -6,8 +6,8 @@ draft: false
 tags: ["npc", "child"]
 summary_box: |
   **Race:** Human (child, deceased)  
-  **Location:** [Durst House]({{< ref "/locations/durst-house" >}})  
-  **Status:** Dead / Spirit Present  
+  **Location:** [Durst House]({{< ref "/locations/durst-house" >}}) — Basement (body location unknown)  
+  **Status:** Dead / Remains Not Yet Located  
   **Caretaker:** [Margaret]({{< ref "/npcs/margaret-durst" >}})
 ---
 
@@ -29,4 +29,6 @@ Unknown.
 
 ## Key Events
 
-[Margaret]({{< ref "/npcs/margaret-durst" >}}) revealed to the party that Walter was the "last sacrifice" made by the Durst couple — they sacrificed their own son. Walter had a music box that [Margaret]({{< ref "/npcs/margaret-durst" >}}) desperately wanted to hear play again. The party was unable to repair it before encountering her spirit.
+[Margaret]({{< ref "/npcs/margaret-durst" >}}) revealed to the party that Walter was the "last sacrifice" made by the Durst couple — they sacrificed their own son. Walter had a music box that [Margaret]({{< ref "/npcs/margaret-durst" >}}) desperately wanted to hear play again. The party repaired the music box in [Session 3]({{< ref "/sessions/session-3" >}}).
+
+In [Session 6]({{< ref "/sessions/session-6" >}}), [Mr. Durst's]({{< ref "/npcs/mr-durst" >}}) spirit delivered the repaired music box, indicated it would be useful for "calming spirits" in the monster's chamber. However, Walter's body has not yet been located. The party plans to prioritize locating and burying his remains before or during the final confrontation with the monster.

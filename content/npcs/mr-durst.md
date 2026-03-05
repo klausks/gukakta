@@ -37,3 +37,6 @@ Encountered by the party in the basement of the [Durst House]({{< ref "/location
 
 ### Session 5
 Appeared again after the party's combat with the undead horde. Instructed them to bury the bodies in their respective tombs and confirmed that it was safe for them to rest in the house basement. Revealed that the monster is his bastard son. Appears in [Session 5]({{< ref "/sessions/session-5" >}}).
+
+### Session 6
+Appeared a third time after the party located [Mrs. Durst's]({{< ref "/npcs/mrs-durst" >}}) body in the southern regions of the basement. He expressed gratitude for the completion of the burial rites and delivered [Walter Durst's]({{< ref "/npcs/walter-durst" >}}) repaired music box, indicating it would be useful for "calming spirits" in the monster's chamber. Appears in [Session 6]({{< ref "/sessions/session-6" >}}).
