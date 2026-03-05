@@ -1,0 +1,31 @@
+{{- define "main" }}
+<section class="wiki-section">
+  <header class="section-header">
+    <h1 class="section-title">{{ .Title }}</h1>
+    {{- with .Content }}
+    <div class="section-intro">{{ . }}</div>
+    {{- end }}
+  </header>
+
+  {{- if .Pages }}
+  {{- $sorted := .Pages.ByParam "session_number" }}
+  <ol class="journal-list">
+    {{- range $sorted }}
+    <li class="journal-entry">
+      <a href="{{ .Permalink }}" class="journal-entry__link">
+        <span class="journal-entry__number">
+          {{- if .Params.session_number }}#{{ .Params.session_number }}{{ else }}—{{ end }}
+        </span>
+        <span class="journal-entry__title">{{ .Title }}</span>
+        {{- with .Params.in_game_date }}
+        <span class="journal-entry__date">{{ . }}</span>
+        {{- end }}
+      </a>
+    </li>
+    {{- end }}
+  </ol>
+  {{- else }}
+  <p class="empty-section"><em>No entries yet. The mists conceal all…</em></p>
+  {{- end }}
+</section>
+{{- end }}

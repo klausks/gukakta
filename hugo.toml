@@ -46,7 +46,7 @@ summarylength = 30
     url = "/lore/"
     weight = 5
   [[menu.main]]
-    name = "Sessions"
+    name = "Journal"
     url = "/sessions/"
     weight = 6
   [[menu.main]]

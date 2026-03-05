@@ -1,4 +1,4 @@
 ---
-title: "Sessions"
+title: "Journal"
 hide_date: true
 ---
