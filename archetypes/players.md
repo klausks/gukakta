@@ -17,6 +17,6 @@ tags: ["player", "character"]
 
 ## Goals & Motivations
 
-## Connections in Barovia
+## Connections
 
-## Session Notes
+## Key Events
