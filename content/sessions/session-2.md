@@ -35,7 +35,6 @@ The party recovered several items from the house:
 - **3 Scrolls** (written in Common): *Blessing*, *Protection Against Poison*, and *Spiritual Weapon* — all kept by [Pepino Falstaff]({{< ref "/players/pepino-falstaff" >}}).
 - **2 Deeds**: One for the house, one for a windmill.
 - **A Will**: Names of all people mentioned are crossed out except **Elizabeth Durst**. The heirs section is completely scribbled out and illegible.
-- **A Crumpled Letter**: Sent by someone named [Zé]({{< ref "/npcs/ze" >}}).
 - **3 Leather-bound Books**: No writing on the covers.
 
 ### Encounter with Margaret

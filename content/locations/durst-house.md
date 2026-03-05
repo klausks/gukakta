@@ -35,7 +35,6 @@ Outside the house, the party met two children — [Rosalva]({{< ref "/npcs/rosal
 - 3 Scrolls found: *Blessing*, *Protection Against Poison*, and *Spiritual Weapon*
 - 2 Deeds recovered: One for the house, one for a windmill
 - 1 Will discovered: Only [Elizabeth Durst's]({{< ref "/npcs/elizabeth-durst" >}}) name not crossed out
-- 1 Letter from [Zé]({{< ref "/npcs/ze" >}}) (unopened)
 - 3 Leather-bound Books: Blank covers
 - 1 Broken Mirror: With names written behind it
 - [Walter Durst's]({{< ref "/npcs/walter-durst" >}}) Music Box: Broken and non-functional
