@@ -31,4 +31,7 @@ Intervened in combat with [Count Strahd von Zarovich]({{< ref "/npcs/strahd-von-
 ### Session 11
 Stationed at the back door of the inn in [Barovia]({{< ref "/locations/village-of-barovia" >}}) to watch for potential threats. Sensed an unsettling chill emanating from [Ireena Kolyana]({{< ref "/npcs/ireena-kolyana" >}}), which prompted [Jimmy Slit]({{< ref "/players/jimmy-slit" >}}) to investigate. This divine sensitivity led to the discovery that [Ireena]({{< ref "/npcs/ireena-kolyana" >}}) has been **enchanted by [Count Strahd von Zarovich]({{< ref "/npcs/strahd-von-zarovich" >}})**, presenting possible magical effects related to sleep or remote observation. Appears in [Session 11]({{< ref "/sessions/session-11" >}}).
 
+### Session 20
+Had his Vistani curse lifted before the party's departure from the encampment. Received a silver coin from an unnamed lord as a symbol of hope and good faith. Appears in [Session 20]({{< ref "/sessions/session-20" >}}).
+
 

@@ -50,3 +50,6 @@ When questioned by [Jimmy Slit]({{< ref "/players/jimmy-slit" >}}), [Ismark]({{<
 
 ### Session 18
 She asked about the [Tarot reading]({{< ref "/lore/tarot-reading" >}}) and was told that none of the cards appeared to speak specifically about her. Appears in [Session 18]({{< ref "/sessions/session-18" >}}).
+
+### Session 20
+Praised [Igga Bevneros]({{< ref "/players/igga-bevneros" >}}) for his performance in the duels. Expressed discomfort at remaining at the Vistani encampment and urged the party to depart for [Vallaki]({{< ref "/locations/vallaki" >}}) as soon as possible. Remarked on her fear of heights while crossing a large stone bridge. Appears in [Session 20]({{< ref "/sessions/session-20" >}}).

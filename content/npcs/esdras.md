@@ -45,3 +45,6 @@ Encouraged the party to celebrate at the Vistani campfire. Sold two magic items 
 
 ### Session 19
 Called the party to combat for the Forest Master duels. When [Dirko]({{< ref "/npcs/dirko" >}}) and [Perwimple]({{< ref "/npcs/perwimple" >}}) appeared uninvited at the dueling ground, [Esdras]({{< ref "/npcs/esdras" >}}) noticed and remarked: *"That's not great."* After the party's victories, formally recognized [Monel]({{< ref "/players/monel" >}}) as a Forest Master. Appears in [Session 19]({{< ref "/sessions/session-19" >}}).
+
+### Session 20
+Informed [Monel]({{< ref "/players/monel" >}}) that [Lord Balkor]({{< ref "/npcs/lord-balkor" >}}) would soon be in contact and that the meeting would be amicable. Purchased several items from the party: a Pike for 270gp from [Monel]({{< ref "/players/monel" >}}), Chain Mail for 70gp from [Monel]({{< ref "/players/monel" >}}), and a magic cloth for 315gp from [Pepino Falstaff]({{< ref "/players/pepino-falstaff" >}}). Appears in [Session 20]({{< ref "/sessions/session-20" >}}).

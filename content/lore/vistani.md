@@ -39,6 +39,9 @@ Vistani curses operate under strict laws:
 #### Madame Iva
 [Madame Iva]({{< ref "/npcs/madame-iva" >}}) is a blue-eyed Vistani elder who resides at the Vistani encampment in [Svalich Forest]({{< ref "/locations/svalich-forest" >}}). She is known to possess the ability to cure curses and appears to have foreknowledge of the party's destiny—she arranged their rescue and foretold the connection between the party and [Igga Bevneros]({{< ref "/players/igga-bevneros" >}}).
 
+#### Durena
+[Durena]({{< ref "/npcs/durena" >}}) is a Vistani at the encampment. She shared information with the party about the wine shortage in Barovia, noting that suppliers are located to the northwest and that the scarcity may be due to excessive Vistani consumption or creatures opposed to drink.
+
 ### The Vistani Encampment
 
 The party's map contains a marked Vistani encampment within [Svalich Forest]({{< ref "/locations/svalich-forest" >}}). According to [Ireena Kolyana]({{< ref "/npcs/ireena-kolyana" >}}), this camp is inhabited by Vistani who wish the party well. The party reached the encampment in [Session 17]({{< ref "/sessions/session-17" >}}), escorted by [Esdras]({{< ref "/npcs/esdras" >}}).
@@ -50,5 +53,6 @@ The party's map contains a marked Vistani encampment within [Svalich Forest]({{<
 - [Thork]({{< ref "/npcs/thork" >}}) — Vistani craftsperson in [Barovia]({{< ref "/locations/village-of-barovia" >}})
 - [Esdras]({{< ref "/npcs/esdras" >}}) — Vistani merchant and diplomat
 - [Madame Iva]({{< ref "/npcs/madame-iva" >}}) — Vistani elder with curse-breaking abilities at the encampment
+- [Durena]({{< ref "/npcs/durena" >}}) — Vistani at the encampment; knowledgeable about the wine shortage
 - Vistani encampment reached in [Session 17]({{< ref "/sessions/session-17" >}})
 - First mentioned in [Session 13]({{< ref "/sessions/session-13" >}})
