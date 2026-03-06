@@ -7,7 +7,7 @@ tags: ["npc", "villain", "witch"]
 summary_box: |
   **Role:** Mill Sister  
   **Location:** The Mill (road to [Vallaki]({{< ref "/locations/vallaki" >}}))  
-  **Status:** Alive (hostile; combat ongoing)  
+  **Status:** Dead  
   **Relationship:** Hostile
 ---
 
@@ -41,3 +41,6 @@ Unknown. Appears to be connected to the mill's operations involving captives and
 
 ### Session 24
 Announced by [Bela]({{< ref "/npcs/bela" >}}) as she melted into the floor: *"Morgantha is coming."* Arrived outside the mill after [Bela]({{< ref "/npcs/bela" >}}) and [Offalia]({{< ref "/npcs/offalia" >}}) had been killed. Clapped her hands, destroying the voodoo dolls and dropping [Jimmy Slit]({{< ref "/players/jimmy-slit" >}}) and [Monel]({{< ref "/players/monel" >}}) unconscious. Put [Ireena Kolyana]({{< ref "/npcs/ireena-kolyana" >}}) to sleep. Attempted Ray of Enfeeblement on [Monel]({{< ref "/players/monel" >}}), which failed. Appears in [Session 24]({{< ref "/sessions/session-24" >}}).
+
+### Session 25
+Pursued the party into the Ethereal Plane, declaring they would die lost there. Killed swiftly — [Jimmy Slit]({{< ref "/players/jimmy-slit" >}}) landed a critical hit and [Pepino Falstaff]({{< ref "/players/pepino-falstaff" >}}) delivered the killing blow with a crossbow bolt to her throat. Looted by [Monel]({{< ref "/players/monel" >}}): a colorful leather pouch, a scratched mirror with gold borders, and a black egg. [Jimmy Slit]({{< ref "/players/jimmy-slit" >}}) separately kept her eyes and two gems. Appears in [Session 25]({{< ref "/sessions/session-25" >}}).
