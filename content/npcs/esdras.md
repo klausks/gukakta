@@ -42,3 +42,6 @@ Arrived by carriage as [Dirko]({{< ref "/npcs/dirko" >}}) was forcing the party 
 
 ### Session 18
 Encouraged the party to celebrate at the Vistani campfire. Sold two magic items to the party: a scimitar that glows in the dark to [Jimmy Slit]({{< ref "/players/jimmy-slit" >}}), and a hammer that converts Divine Smite into ally healing to [Agares]({{< ref "/players/agares" >}}). At the end of the evening, informed the party that [Monel]({{< ref "/players/monel" >}}) would be challenged to a duel the following morning, and that the duels would likely be fought in pairs across two bouts. Winning would make the party forest masters and clear their price on their heads. Appears in [Session 18]({{< ref "/sessions/session-18" >}}).
+
+### Session 19
+Called the party to combat for the Forest Master duels. When [Dirko]({{< ref "/npcs/dirko" >}}) and [Perwimple]({{< ref "/npcs/perwimple" >}}) appeared uninvited at the dueling ground, [Esdras]({{< ref "/npcs/esdras" >}}) noticed and remarked: *"That's not great."* After the party's victories, formally recognized [Monel]({{< ref "/players/monel" >}}) as a Forest Master. Appears in [Session 19]({{< ref "/sessions/session-19" >}}).

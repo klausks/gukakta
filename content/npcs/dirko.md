@@ -8,7 +8,7 @@ summary_box: |
   **Race:** Human  
   **Location:** [Village of Barovia]({{< ref "/locations/village-of-barovia" >}})  
   **Role:** [Ismark's]({{< ref "/npcs/ismark" >}}) associate  
-  **Status:** Alive
+  **Status:** Deceased (Session 19)
 ---
 
 ## Overview
@@ -51,3 +51,6 @@ During the party's journey through [Svalich Forest]({{< ref "/locations/svalich-
 
 ### Session 17
 [Dirko]({{< ref "/npcs/dirko" >}}) openly invoked [Lord Balkor's]({{< ref "/npcs/lord-balkor" >}}) authority to force the party into a duel against [Perwimple]({{< ref "/npcs/perwimple" >}}). The terms: a party loss would result in [Dirko]({{< ref "/npcs/dirko" >}}) taking [Jimmy Slit]({{< ref "/players/jimmy-slit" >}}) and [Ireena Kolyana]({{< ref "/npcs/ireena-kolyana" >}}). When [Pepino]({{< ref "/players/pepino-falstaff" >}}) attempted to outmaneuver him by bribing [Bildrat]({{< ref "/npcs/bildrat" >}}) with the magical hat, [Dirko]({{< ref "/npcs/dirko" >}}) instantly ordered [Perwimple]({{< ref "/npcs/perwimple" >}}) to suffocate [Bildrat]({{< ref "/npcs/bildrat" >}})—demonstrating his complete command over [Perwimple]({{< ref "/npcs/perwimple" >}}). When [Esdras]({{< ref "/npcs/esdras" >}}) arrived and offered to duel in the party's place, [Dirko]({{< ref "/npcs/dirko" >}}) abandoned the confrontation rather than face [Esdras]({{< ref "/npcs/esdras" >}}). Appears in [Session 17]({{< ref "/sessions/session-17" >}}).
+
+### Session 19
+[Dirko]({{< ref "/npcs/dirko" >}}) appeared uninvited at the Forest Master dueling ground alongside [Perwimple]({{< ref "/npcs/perwimple" >}}), crashing the duel. He was paired against [Agares]({{< ref "/players/agares" >}}) and [Pepino Falstaff]({{< ref "/players/pepino-falstaff" >}}) in the second duel. [Pepino]({{< ref "/players/pepino-falstaff" >}}) killed him with *Shocking Grasp*; his body melted in a bizarre and unnatural manner after death. Appears in [Session 19]({{< ref "/sessions/session-19" >}}).
