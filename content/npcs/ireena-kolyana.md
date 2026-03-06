@@ -56,3 +56,6 @@ Praised [Igga Bevneros]({{< ref "/players/igga-bevneros" >}}) for his performanc
 
 ### Session 22
 When questioned by [Makias]({{< ref "/npcs/makias" >}}), a stranger at the iron gate, she gave a false name rather than reveal her identity. Mentioned that her father had told her that structures with four white pillars—such as the monolith formation the party found—are places of great safety and good for camping. Urged [Monel]({{< ref "/players/monel" >}}) to investigate the passage beneath the central stone. Appears in [Session 22]({{< ref "/sessions/session-22" >}}).
+
+### Session 26
+Complained of a headache similar to the one she experienced at the inn in [Barovia]({{< ref "/locations/village-of-barovia" >}}). The headache preceded [Strahd's]({{< ref "/npcs/strahd-von-zarovich" >}}) arrival at camp, further supporting the theory that she serves as a conduit for his senses. Also revealed that she had been having **prophetic dreams** about [Vallaki]({{< ref "/locations/vallaki" >}}), urging her to enter the city with extreme caution. She planned to hide her hair and conceal her face there. She noted that these dreams appear to follow a cycle linked to other red-haired women, and speculated that earlier dreams may have been interrupted by Strahd-sent guards. Appears in [Session 26]({{< ref "/sessions/session-26" >}}).

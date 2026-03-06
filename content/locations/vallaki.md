@@ -5,7 +5,7 @@ date: 2026-03-04
 tags: ["location", "town", "politics"]
 summary_box: |
   **Region:** Central Barovia  
-  **Ruler:** Baron Vargas Vallakovich  
+  **Ruler:** [Baron Vargas Vallakovich]({{< ref "/npcs/baron-vallakovich" >}})  
   **Danger Level:** Low–Moderate  
   **Population:** ~800 (walled)
 ---
@@ -29,3 +29,12 @@ Home to the bones of St. Andral — a powerful holy relic. Someone has stolen th
 ### The Stockade
 
 ## Key NPCs
+
+### [Baron Vargas Vallakovich]({{< ref "/npcs/baron-vallakovich" >}})
+The ruler of [Vallaki]({{< ref "/locations/vallaki" >}}), described as a severe man. The party has been advised to avoid drawing his attention or causing trouble.
+
+### Izek
+The Burgomaster's right-hand man. Described as a knight (referenced in Infernal by [Igga Bevneros]({{< ref "/players/igga-bevneros" >}})).
+
+### Fiona
+Leads a powerful, politically ambitious family in [Vallaki]({{< ref "/locations/vallaki" >}}). Said to have great political ambitions.
