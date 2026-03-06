@@ -5,7 +5,7 @@ date: 2026-03-05
 draft: false
 tags: ["npc", "mysterious"]
 summary_box: |
-  **Race:** Unknown  
+  **Race:** Vistani  
   **Location:** Unknown (not yet encountered)  
   **Role:** Curse Breaker / Mysterious Figure  
   **Status:** Unknown
@@ -13,7 +13,7 @@ summary_box: |
 
 ## Overview
 
-[Madame Iva]({{< ref "/npcs/madame-iva" >}}) is a mysterious figure known to have the ability to curse **cure curses**. She has been mentioned by [Thork]({{< ref "/npcs/thork" >}}), the [Vistanis]({{< ref "/npcs/thork" >}}) craftsperson, as a potential solution to [Jimmy Slit's]({{< ref "/players/jimmy-slit" >}}) demonic possession. Her exact location, methods, and nature remain completely unknown to the party.
+[Madame Iva]({{< ref "/npcs/madame-iva" >}}) is a mysterious member of [The Vistani]({{< ref "/lore/vistani" >}}) known to have the ability to cure curses. She has been mentioned by [Thork]({{< ref "/npcs/thork" >}}), another member of [The Vistani]({{< ref "/lore/vistani" >}}), as a potential solution to [Jimmy Slit's]({{< ref "/players/jimmy-slit" >}}) demonic possession. Her exact location, methods, and deeper nature remain completely unknown to the party.
 
 ## Personality
 

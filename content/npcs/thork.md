@@ -13,7 +13,7 @@ summary_box: |
 
 ## Overview
 
-[Thork]({{< ref "/npcs/thork" >}}) is a [Vistanis]({{< ref "/npcs/thork" >}})—a member of a race with innate supernatural abilities. [Thork]({{< ref "/npcs/thork" >}}) operates as a craftsperson in [Barovia]({{< ref "/locations/village-of-barovia" >}}), possessing tools and equipment useful for armor repairs and similar work. His exact dwelling and deeper background remain largely unknown to the party.
+[Thork]({{< ref "/npcs/thork" >}}) is a member of [The Vistani]({{< ref "/lore/vistani" >}})—a race with innate supernatural abilities. [Thork]({{< ref "/npcs/thork" >}}) operates as a craftsperson in [Barovia]({{< ref "/locations/village-of-barovia" >}}), possessing tools and equipment useful for armor repairs and similar work. His exact dwelling and deeper background remain largely unknown to the party.
 
 ## Personality
 
