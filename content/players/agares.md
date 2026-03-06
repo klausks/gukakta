@@ -40,4 +40,7 @@ Spotted a glimpse of a creature's arm on the large stone bridge and alerted the 
 ### Session 24
 Spotted an invisible figure moving on the ground floor and identified it as [Bela]({{< ref "/npcs/bela" >}}), alerting the party. Followed [Bela]({{< ref "/npcs/bela" >}}) outside the mill when she fled and encountered a giant toad. Attacked [Bela]({{< ref "/npcs/bela" >}}) outside. Appears in [Session 24]({{< ref "/sessions/session-24" >}}).
 
+### Session 27
+Shouted a defiant challenge into the forest after defeating the wolf ambush, directly threatening Lord Strahd and declaring his intent to destroy him. Found a gold ring bound with a letter from Hianag Darastrix on the wolves' bodies. Infuriated by Strahd's mocking note on the letter, he hurled the ring into the dark woods, losing it completely to the party's dismay. Appears in [Session 27]({{< ref "/sessions/session-27" >}}).
+
 

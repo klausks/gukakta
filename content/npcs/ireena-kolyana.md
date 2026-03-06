@@ -59,3 +59,6 @@ When questioned by [Makias]({{< ref "/npcs/makias" >}}), a stranger at the iron 
 
 ### Session 26
 Complained of a headache similar to the one she experienced at the inn in [Barovia]({{< ref "/locations/village-of-barovia" >}}). The headache preceded [Strahd's]({{< ref "/npcs/strahd-von-zarovich" >}}) arrival at camp, further supporting the theory that she serves as a conduit for his senses. Also revealed that she had been having **prophetic dreams** about [Vallaki]({{< ref "/locations/vallaki" >}}), urging her to enter the city with extreme caution. She planned to hide her hair and conceal her face there. She noted that these dreams appear to follow a cycle linked to other red-haired women, and speculated that earlier dreams may have been interrupted by Strahd-sent guards. Appears in [Session 26]({{< ref "/sessions/session-26" >}}).
+
+### Session 27
+Entered a sudden, hypnotic trance after Agares shouted a defiant challenge to Strahd. She bolted toward the forest shouting, "Strahd, I will go with you to the castle!" Monel intercepted and restrained her, breaking the trance, which left her profoundly exhausted. Appears in [Session 27]({{< ref "/sessions/session-27" >}}).

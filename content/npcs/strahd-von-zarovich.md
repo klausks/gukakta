@@ -17,7 +17,7 @@ summary_box: |
 
 ## History
 
-Unknown.
+Much remains unknown. However, a letter attributed to [Hianag Darastrix]({{< ref "/npcs/hianag-darastrix" >}}) suggests [Strahd]({{< ref "/npcs/strahd-von-zarovich" >}}) waged a war against **Duke Gundar** and kept long-term servants or slaves under his banner, bound by promises of eventual freedom. See: [War with Duke Gundar]({{< ref "/lore/war-with-duke-gundar" >}}).
 
 ## Motivations
 
@@ -83,3 +83,6 @@ Appeared briefly as an apparition at the top of a closed iron gate in [Svalich F
 
 ### Session 26
 Arrived at the party's campsite atop a horse wreathed in flames — identified by [Igga Bevneros]({{< ref "/players/igga-bevneros" >}}) as an illusion. Stepped from invisibility and addressed [Igga]({{< ref "/players/igga-bevneros" >}}) directly, expressing contempt for bards as people who write about life rather than live it. Gave [Igga]({{< ref "/players/igga-bevneros" >}}) a single chance to save [Pepino Falstaff's]({{< ref "/players/pepino-falstaff" >}}) life through performance — two attempts were made (one praising [Pepino's]({{< ref "/players/pepino-falstaff" >}}) courage, one invoking [Ireena]({{< ref "/npcs/ireena-kolyana" >}})) and neither satisfied him. Declared his governing rule: **a blow for a blow**. After [Igga's]({{< ref "/players/igga-bevneros" >}}) unarmed strikes (a punch and headbutt), [Strahd]({{< ref "/npcs/strahd-von-zarovich" >}}) retaliated and left [Igga]({{< ref "/players/igga-bevneros" >}}) near death. When [Agares]({{< ref "/players/agares" >}}) cursed him and struck in turn, [Strahd]({{< ref "/npcs/strahd-von-zarovich" >}}) laid [Agares]({{< ref "/players/agares" >}}) unconscious and departed, declaring he had honored the rules. Appears in [Session 26]({{< ref "/sessions/session-26" >}}).
+
+### Session 27
+Monitored the party from a distance atop his illusory flaming horse during a wolf ambush, according to Jimmy Slit's perception. Left a mocking note signed with his name attached to the letter from [Hianag Darastrix]({{< ref "/npcs/hianag-darastrix" >}}): "Be it a dawn elf or a drow. Die slowly. Sing while you can. Strahd von Zarovich". The letter also references Strahd's war against Duke Gundar (see: [War with Duke Gundar]({{< ref "/lore/war-with-duke-gundar" >}})). Appears in [Session 27]({{< ref "/sessions/session-27" >}}).
