@@ -37,4 +37,7 @@ Had his Vistani curse lifted before the party's departure from the encampment. R
 ### Session 21
 Spotted a glimpse of a creature's arm on the large stone bridge and alerted the party, prompting the group to flee. Was troubled by [Igga's]({{< ref "/players/igga-bevneros" >}}) report of wild animals attacking Vistani, and placed food at a distance from himself before sleeping. Questioned whether [Strahd's]({{< ref "/npcs/strahd-von-zarovich" >}}) carriage letter could be interpreted as an order. Was bitten by a rat near the carriage. Expressed displeasure at not being named in [Strahd's]({{< ref "/npcs/strahd-von-zarovich" >}}) letter. Appears in [Session 21]({{< ref "/sessions/session-21" >}}).
 
+### Session 24
+Spotted an invisible figure moving on the ground floor and identified it as [Bela]({{< ref "/npcs/bela" >}}), alerting the party. Followed [Bela]({{< ref "/npcs/bela" >}}) outside the mill when she fled and encountered a giant toad. Attacked [Bela]({{< ref "/npcs/bela" >}}) outside. Appears in [Session 24]({{< ref "/sessions/session-24" >}}).
+
 

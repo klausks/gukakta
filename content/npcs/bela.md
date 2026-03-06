@@ -7,7 +7,7 @@ tags: ["npc", "villain", "witch"]
 summary_box: |
   **Role:** Mill Sister  
   **Location:** The Mill (road to [Vallaki]({{< ref "/locations/vallaki" >}}))  
-  **Status:** Alive (combat ongoing)  
+  **Status:** Dead (killed permanently)  
   **Relationship:** Hostile
 ---
 
@@ -29,8 +29,12 @@ Unknown in full, but appears to be involved in capturing people and harvesting b
 
 - [Koselina]({{< ref "/npcs/koselina" >}}) — younger sister
 - [Offalia]({{< ref "/npcs/offalia" >}}) — sister
+- [Morgantha]({{< ref "/npcs/morgantha" >}}) — sister (named by [Koselina]({{< ref "/npcs/koselina" >}}) as one of her sisters)
 
 ## Key Events
 
 ### Session 23
 Was asleep when the party entered the mill. Woke during [Koselina's]({{< ref "/npcs/koselina" >}}) conversation with the party and threatened to kill a party member if they did not drop their weapons. Paralyzed [Jimmy Slit]({{< ref "/players/jimmy-slit" >}}) in combat. Appears in [Session 23]({{< ref "/sessions/session-23" >}}).
+
+### Session 24
+Killed a first time by [Monel]({{< ref "/players/monel" >}}) on the upper floor. Rather than collapsing, melted into the floor and announced: *"Morgantha is coming."* Reappeared invisible on the ground floor; her silhouette was revealed when [Ireena Kolyana]({{< ref "/npcs/ireena-kolyana" >}}) threw slime on her. Fled outside the mill. Attacked by [Agares]({{< ref "/players/agares" >}}), then killed permanently by [Monel]({{< ref "/players/monel" >}}). Appears in [Session 24]({{< ref "/sessions/session-24" >}}).

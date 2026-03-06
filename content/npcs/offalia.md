@@ -7,7 +7,7 @@ tags: ["npc", "villain", "witch"]
 summary_box: |
   **Role:** Mill Sister  
   **Location:** The Mill (road to [Vallaki]({{< ref "/locations/vallaki" >}}))  
-  **Status:** Alive (combat ongoing)  
+  **Status:** Dead  
   **Relationship:** Hostile
 ---
 
@@ -31,8 +31,12 @@ Unknown in full, but appears to be involved in capturing people and harvesting b
 
 - [Koselina]({{< ref "/npcs/koselina" >}}) — younger sister
 - [Bela]({{< ref "/npcs/bela" >}}) — sister
+- [Morgantha]({{< ref "/npcs/morgantha" >}}) — sister
 
 ## Key Events
 
 ### Session 23
 Encountered by [Monel]({{< ref "/players/monel" >}}) and [Agares]({{< ref "/players/agares" >}}) on the second floor of the mill during combat. Quickly ascended to the third floor. Appears in [Session 23]({{< ref "/sessions/session-23" >}}).
+
+### Session 24
+Killed by [Monel]({{< ref "/players/monel" >}}) on the upper floor of the mill. Appears in [Session 24]({{< ref "/sessions/session-24" >}}).

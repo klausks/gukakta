@@ -26,7 +26,8 @@ Unknown, though she is part of the mill operation which is connected to capturin
 ## Connections
 
 - [Bela]({{< ref "/npcs/bela" >}}) — older sister
-- [Offalia]({{< ref "/npcs/offalia" >}}) — sister (may also be known as Morgantha)
+- [Morgantha]({{< ref "/npcs/morgantha" >}}) — sister (named directly by Koselina)
+- [Offalia]({{< ref "/npcs/offalia" >}}) — sister
 
 ## Key Events
 
