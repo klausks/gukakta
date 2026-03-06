@@ -34,4 +34,7 @@ Stationed at the back door of the inn in [Barovia]({{< ref "/locations/village-o
 ### Session 20
 Had his Vistani curse lifted before the party's departure from the encampment. Received a silver coin from an unnamed lord as a symbol of hope and good faith. Appears in [Session 20]({{< ref "/sessions/session-20" >}}).
 
+### Session 21
+Spotted a glimpse of a creature's arm on the large stone bridge and alerted the party, prompting the group to flee. Was troubled by [Igga's]({{< ref "/players/igga-bevneros" >}}) report of wild animals attacking Vistani, and placed food at a distance from himself before sleeping. Questioned whether [Strahd's]({{< ref "/npcs/strahd-von-zarovich" >}}) carriage letter could be interpreted as an order. Was bitten by a rat near the carriage. Expressed displeasure at not being named in [Strahd's]({{< ref "/npcs/strahd-von-zarovich" >}}) letter. Appears in [Session 21]({{< ref "/sessions/session-21" >}}).
+
 

@@ -31,3 +31,6 @@ Unknown; follows his destiny as foretold by [Madame Iva]({{< ref "/npcs/madame-i
 
 ### Session 17
 Met the party upon their arrival at the Vistani encampment. Greeted them enthusiastically, carrying his lyre, and declared that [Madame Iva]({{< ref "/npcs/madame-iva" >}}) had foretold their destinies are connected. Shortly after this introduction, the entire group entered [Madame Iva's]({{< ref "/npcs/madame-iva" >}}) cabin together. Appears in [Session 17]({{< ref "/sessions/session-17" >}}).
+
+### Session 21
+Used *Detect Magic* on the dolls and rats: confirmed the dolls carry **enchantment** magic and the rats carry **divination** magic. Tested whether the dolls could transmit speech—they cannot, only touch and pressure. Was drained of vital energy by a white-skinned creature that ambushed the party; the creature was killed, dissolved into dust, and [Igga]({{< ref "/players/igga-bevneros" >}}) verified no magical aura remained in the dust. Cast his mending spell on [Jimmy Slit's]({{< ref "/players/jimmy-slit" >}}) damaged doll, fully healing [Jimmy]({{< ref "/players/jimmy-slit" >}}); the same effect was confirmed on [Monel]({{< ref "/players/monel" >}}). The party also recognized that [Igga's]({{< ref "/players/igga-bevneros" >}}) mending applied to a doll fully heals its linked bearer. Appeared in [Session 21]({{< ref "/sessions/session-21" >}}).

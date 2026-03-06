@@ -66,3 +66,6 @@ Appears in [Session 11]({{< ref "/sessions/session-11" >}}).
 [Jimmy]({{< ref "/players/jimmy-slit" >}}) shared a deeply personal confession with the party: he revealed that his father was a chronic alcoholic who tormented the household, responsible for killing his entire family. However, he survived by killing his father.
 
 Appears in [Session 15]({{< ref "/sessions/session-15" >}}).
+
+### Session 21
+Confirmed to be physically linked to one of the enchanted dolls carried by the mice on the bridge—a consequence of eating the suspicious pies. When [Monel]({{< ref "/players/monel" >}}) handled the doll, [Jimmy]({{< ref "/players/jimmy-slit" >}}) felt the sensation. He proposed using the dolls as a form of communication. During the rest, he observed his doll appeared damaged in a way that mirrored his own injuries and suggested [Igga Bevneros]({{< ref "/players/igga-bevneros" >}}) cast his mending spell on it—resulting in [Jimmy]({{< ref "/players/jimmy-slit" >}}) being fully healed. He also scouted [Strahd's]({{< ref "/npcs/strahd-von-zarovich" >}}) carriage stealthily and retrieved the letter inside. Appears in [Session 21]({{< ref "/sessions/session-21" >}}).
