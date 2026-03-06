@@ -1,10 +1,10 @@
 ---
-title: "Session 9 [13/06/2024] - The Burgomaster & The Escape"
+title: "Session 9 - The Burgomaster & The Escape"
 date: 2026-03-05
 draft: false
 tags: ["session"]
 session_number: 9
-in_game_date: "13/06/2024"
+session_date: "13/06/2024"
 players_present: ["Jimmy Slit", "Pepino Falstaff", "Monel", "Agares"]
 ---
 

@@ -1,11 +1,11 @@
 ---
-title: "Session 12"
-subtitle: "Undead Assault on the Inn"
+title: "Session 12 - Undead Assault on the Inn"
+subtitle: ""
 date: 2026-03-05
 draft: false
 tags: ["session", "barovia", "combat"]
 session_number: 12
-session_date: "2024-08-01"
+session_date: "01/08/2024"
 player_roster: ["Jimmy Slit", "Pepino Falstaff", "Monel", "Agares"]
 ---
 

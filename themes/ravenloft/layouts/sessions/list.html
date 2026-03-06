@@ -17,7 +17,7 @@
           {{- if .Params.session_number }}#{{ .Params.session_number }}{{ else }}—{{ end }}
         </span>
         <span class="journal-entry__title">{{ .Title }}</span>
-        {{- with .Params.in_game_date }}
+        {{- with .Params.session_date}}
         <span class="journal-entry__date">{{ . }}</span>
         {{- end }}
       </a>

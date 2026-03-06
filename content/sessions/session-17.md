@@ -1,11 +1,11 @@
 ---
-title: "Session 17"
-subtitle: "Rescued by the Vistani"
+title: "Session 17 - Rescued by the Vistani"
+subtitle: ""
 date: 2026-03-05
 draft: false
 tags: ["session", "svalich-forest", "vistani", "character-development"]
 session_number: 17
-session_date: "2024-10-30"
+session_date: "30/10/2024"
 player_roster: ["Jimmy Slit", "Pepino Falstaff", "Monel", "Agares"]
 ---
 

@@ -1,11 +1,11 @@
 ---
-title: "Session 14"
-subtitle: "Ambush in Svalich Forest"
+title: "Session 14 - Ambush in Svalich Forest"
+subtitle: ""
 date: 2026-03-05
 draft: false
 tags: ["session", "svalich-forest", "combat"]
 session_number: 14
-session_date: "2024-08-28"
+session_date: "28/08/2024"
 player_roster: ["Jimmy Slit", "Pepino Falstaff", "Monel", "Agares"]
 ---
 

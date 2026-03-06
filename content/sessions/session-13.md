@@ -1,11 +1,11 @@
 ---
-title: "Session 13"
-subtitle: "Revelations and Betrayals"
+title: "Session 13 - Revelations and Betrayals"
+subtitle: ""
 date: 2026-03-05
 draft: false
 tags: ["session", "barovia", "intrigue"]
 session_number: 13
-session_date: "2024-08-15"
+session_date: "15/08/2024"
 player_roster: ["Jimmy Slit", "Pepino Falstaff", "Monel", "Agares"]
 ---
 

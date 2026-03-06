@@ -1,10 +1,10 @@
 ---
-title: "Session 2"
+title: "Session 2 - Secrets of Durst House"
 date: 2026-03-05
 draft: false
 tags: ["session"]
 session_number: 2
-in_game_date: ""
+session_date: "28/02/2024"
 players_present: ["Jimmy Slit", "Pepino Falstaff", "Monel", "Agares"]
 ---
 

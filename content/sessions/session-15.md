@@ -1,11 +1,11 @@
 ---
-title: "Session 15"
-subtitle: "Secrets Shared and Another Challenge"
+title: "Session 15 - Secrets Shared and Another Challenge"
+subtitle: ""
 date: 2026-03-05
 draft: false
 tags: ["session", "svalich-forest", "character-development", "combat"]
 session_number: 15
-session_date: "2024-09-04"
+session_date: "04/09/2024"
 player_roster: ["Jimmy Slit", "Pepino Falstaff", "Monel", "Agares"]
 ---
 

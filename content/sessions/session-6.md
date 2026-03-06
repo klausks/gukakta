@@ -1,10 +1,10 @@
 ---
-title: "Session 6 [16/05/2024] - Burials & The Evil Statue"
+title: "Session 6 - Burials & The Evil Statue"
 date: 2026-03-05
 draft: false
 tags: ["session"]
 session_number: 6
-in_game_date: "16/05/2024"
+session_date: "16/05/2024"
 players_present: ["Jimmy Slit", "Pepino Falstaff", "Monel", "Agares"]
 ---
 

@@ -4,7 +4,7 @@ date: {{ .Date }}
 draft: true
 tags: ["session"]
 session_number: 0
-in_game_date: ""
+session_date: ""
 players_present: []
 # related: []
 ---

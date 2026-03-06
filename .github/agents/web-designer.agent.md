@@ -173,7 +173,7 @@ Below `$bp-md`: sidebar hides, nav collapses into a hamburger toggle.
 | Key | Type | Description |
 |---|---|---|
 | `session_number` | int | Used for ordering/display |
-| `in_game_date` | string | In-world date of the session |
+| `session_date` | string | date of the session |
 | `players_present` | list | Player names for the session |
 
 ---

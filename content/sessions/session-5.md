@@ -1,10 +1,10 @@
 ---
-title: "Session 5 [02/05/2024] - The Undead Horde & Mr. Durst's Final Warning"
+title: "Session 5 - The Undead Horde & Mr. Durst's Final Warning"
 date: 2026-03-05
 draft: false
 tags: ["session"]
 session_number: 5
-in_game_date: "02/05/2024"
+session_date: "02/05/2024"
 players_present: ["Jimmy Slit", "Pepino Falstaff", "Monel", "Agares"]
 ---
 

@@ -1,11 +1,11 @@
 ---
-title: "Session 16"
-subtitle: "Encounters in the Forest's Heart"
+title: "Session 16 - Encounters in the Forest's Heart"
+subtitle: ""
 date: 2026-03-05
 draft: false
 tags: ["session", "svalich-forest", "character-encounter", "mystery"]
 session_number: 16
-session_date: "2024-10-02"
+session_date: "02/10/2024"
 player_roster: ["Jimmy Slit", "Pepino Falstaff", "Monel", "Agares"]
 ---
 

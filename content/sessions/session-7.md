@@ -1,10 +1,10 @@
 ---
-title: "Session 7 [07/06/2024] - The Monster Falls & Escape to the Village"
+title: "Session 7 - The Monster Falls & Escape to the Village"
 date: 2026-03-05
 draft: false
 tags: ["session"]
 session_number: 7
-in_game_date: "07/06/2024"
+session_date: "07/06/2024"
 players_present: ["Jimmy Slit", "Pepino Falstaff", "Monel", "Agares"]
 ---
 

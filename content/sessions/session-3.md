@@ -1,10 +1,10 @@
 ---
-title: "Session 3 [21/03/2024] - Spirits of the Attic"
+title: "Session 3 - Spirits of the Attic"
 date: 2026-03-05
 draft: false
 tags: ["session"]
 session_number: 3
-in_game_date: ""
+session_date: "21/03/2024"
 players_present: ["Jimmy Slit", "Pepino Falstaff", "Monel", "Agares"]
 ---
 

@@ -1,10 +1,10 @@
 ---
-title: "Session 4 [18/04/2024] - The Basement & Undead Ambush"
+title: "Session 4 - The Basement & Undead Ambush"
 date: 2026-03-05
 draft: false
 tags: ["session"]
 session_number: 4
-in_game_date: ""
+session_date: "18/04/2024"
 players_present: ["Jimmy Slit", "Pepino Falstaff", "Monel", "Agares"]
 ---
 

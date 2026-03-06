@@ -1,10 +1,10 @@
 ---
-title: "Session 1"
+title: "Session 1 - Into the Mist"
 date: 2026-03-05
 draft: false
 tags: ["session"]
 session_number: 1
-in_game_date: ""
+session_date: "21/02/2024"
 players_present: ["Jimmy Slit", "Pepino Falstaff", "Monel"]
 ---
 

@@ -1,11 +1,11 @@
 ---
-title: "Session 11"
-subtitle: "Revelations at the Inn"
+title: "Session 11 - Revelations at the Inn"
+subtitle: ""
 date: 2026-03-05
 draft: false
 tags: ["session", "barovia", "strahd"]
 session_number: 11
-session_date: "2024-07-25"
+session_date: "25/07/2025"
 player_roster: ["Jimmy Slit", "Pepino Falstaff", "Monel", "Agares"]
 ---
 
