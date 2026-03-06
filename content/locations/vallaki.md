@@ -15,7 +15,7 @@ summary_box: |
 ## Notable Locations
 
 ### The Mill
-A mill on the heights located on the road to Vallaki. According to [Igga Bevneros]({{< ref "/players/igga-bevneros" >}}), it lies on the road leading to the town. Referenced in [Madame Iva's]({{< ref "/npcs/madame-iva" >}}) [Tarot reading]({{< ref "/lore/tarot-reading" >}}) as the site of a hidden treasure and a source of secret knowledge about the party's enemy.
+A mill on the heights located on the road to Vallaki. According to [Igga Bevneros]({{< ref "/players/igga-bevneros" >}}), it lies on the road leading to the town. Referenced in [Madame Iva's]({{< ref "/npcs/madame-iva" >}}) [Tarot reading]({{< ref "/lore/tarot-reading" >}}) as the site of a hidden treasure and a source of secret knowledge about the party's enemy. The mill is operated by three sisters: [Koselina]({{< ref "/npcs/koselina" >}}), [Bela]({{< ref "/npcs/bela" >}}), and [Offalia]({{< ref "/npcs/offalia" >}}) (possibly also known as Morgantha). The sisters are connected to the torture of a captive man found in a nearby cave and the kidnapping of his daughters.
 
 ### Blue Water Inn
 
