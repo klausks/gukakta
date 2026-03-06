@@ -41,3 +41,9 @@ During the party's short rest, [Ireena]({{< ref "/npcs/ireena-kolyana" >}}) advi
 [Jimmy Slit]({{< ref "/players/jimmy-slit" >}}) attempted to remove the magical hat from [Pepino's]({{< ref "/players/pepino-falstaff" >}}) head, but the hat would not come off and became stuck. [Pepino]({{< ref "/players/pepino-falstaff" >}}) responded by slapping [Jimmy's]({{< ref "/players/jimmy-slit" >}}) hand and issuing a firm warning: "Never try that again."
 
 Appears in [Session 15]({{< ref "/sessions/session-15" >}}).
+
+### Session 21
+When the party remarked that [Monel]({{< ref "/players/monel" >}}) and [Jimmy]({{< ref "/players/jimmy-slit" >}}) received the enchanted dolls because they ate the suspicious pies, [Pepino]({{< ref "/players/pepino-falstaff" >}}) drily remarked: *"I told you so."* After the party killed the white-skinned creature that dissolved into dust, he collected the dust in a vial. Expressed displeasure at not being named in [Strahd's]({{< ref "/npcs/strahd-von-zarovich" >}}) letter. Appears in [Session 21]({{< ref "/sessions/session-21" >}}).
+
+### Session 22
+Received two visions from [Madame Iva]({{< ref "/npcs/madame-iva" >}}) on the road: one warning that two attempts on his life are already in motion and predicting he will die in the worst possible way; a second telling him there is a way to reverse death through deception and raising the name Mikaela. Used his mage hand to retrieve the gate key, inadvertently triggering [Strahd's]({{< ref "/npcs/strahd-von-zarovich" >}}) apparition. Felt watched after [Strahd]({{< ref "/npcs/strahd-von-zarovich" >}}) vanished. Appears in [Session 22]({{< ref "/sessions/session-22" >}}).

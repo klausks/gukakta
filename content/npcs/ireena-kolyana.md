@@ -53,3 +53,6 @@ She asked about the [Tarot reading]({{< ref "/lore/tarot-reading" >}}) and was t
 
 ### Session 20
 Praised [Igga Bevneros]({{< ref "/players/igga-bevneros" >}}) for his performance in the duels. Expressed discomfort at remaining at the Vistani encampment and urged the party to depart for [Vallaki]({{< ref "/locations/vallaki" >}}) as soon as possible. Remarked on her fear of heights while crossing a large stone bridge. Appears in [Session 20]({{< ref "/sessions/session-20" >}}).
+
+### Session 22
+When questioned by [Makias]({{< ref "/npcs/makias" >}}), a stranger at the iron gate, she gave a false name rather than reveal her identity. Mentioned that her father had told her that structures with four white pillars—such as the monolith formation the party found—are places of great safety and good for camping. Urged [Monel]({{< ref "/players/monel" >}}) to investigate the passage beneath the central stone. Appears in [Session 22]({{< ref "/sessions/session-22" >}}).
