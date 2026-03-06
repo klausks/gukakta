@@ -3,7 +3,7 @@ title: "The Vistani"
 date: 2026-03-05
 draft: false
 tags: ["lore", "vistani", "supernatural"]
-related: ["/npcs/thork", "/npcs/madame-iva", "/locations/svalich-forest"]
+related: ["/npcs/thork", "/npcs/madame-iva", "/npcs/esdras", "/locations/svalich-forest"]
 ---
 
 ## Background
@@ -16,23 +16,39 @@ Little is known about the true nature of the Vistani, their origins, or the full
 
 ### Supernatural Abilities
 
-All members of the Vistani race are born with intrinsic supernatural powers. According to [Thork]({{< ref "/npcs/thork" >}}), a Vistani craftsperson encountered in [Barovia]({{< ref "/locations/village-of-barovia" >}}), the Vistani possess both "blessing powers" and "curses"—suggesting they have access to both beneficial and harmful supernatural abilities.
+All members of the Vistani race are born with intrinsic supernatural powers. According to [Thork]({{< ref "/npcs/thork" >}}), the Vistani possess both "blessing powers" and "curses." [Esdras]({{< ref "/npcs/esdras" >}}) confirmed that every Vistani—young or old—has the ability to curse.
+
+### Curse Mechanics
+
+Vistani curses operate under strict laws:
+
+- Each Vistani's curse is **unique to them**
+- **Only the Vistani who placed a curse can remove it**
+- If the Vistani who placed a curse **dies**, the curse becomes **permanent**
+
+[Esdras]({{< ref "/npcs/esdras" >}}) demonstrated this firsthand in [Session 17]({{< ref "/sessions/session-17" >}}), placing a curse of vulnerability to cuts on [Agares]({{< ref "/players/agares" >}}). The curse is expected to last approximately 2 nights.
 
 ### Known Vistani
 
 #### Thork
 [Thork]({{< ref "/npcs/thork" >}}) is a Vistani craftsperson operating in [Village of Barovia]({{< ref "/locations/village-of-barovia" >}}). He possesses tools and equipment for intricate work such as armor repairs. [Thork]({{< ref "/npcs/thork" >}}) demonstrated knowledge of supernatural matters, hinting at [Jimmy Slit's]({{< ref "/players/jimmy-slit" >}}) demonic possession and expressing regret that the party would not learn the curse powers of the Vistani peoples.
 
+#### Esdras
+[Esdras]({{< ref "/npcs/esdras" >}}) is a wealthy Vistani merchant, diplomat, and negotiator who travels in a fine carriage. He has a functional relationship with [Strahd von Zarovich]({{< ref "/npcs/strahd-von-zarovich" >}}) and is knowledgeable about the laws of [Svalich Forest]({{< ref "/locations/svalich-forest" >}}). He was paid by a Vistani "rich in wisdom" to rescue the party.
+
 #### Madame Iva
-[Madame Iva]({{< ref "/npcs/madame-iva" >}}) is a mysterious Vistani woman rumored to possess the ability to curse and cure curses. She was mentioned by [Thork]({{< ref "/npcs/thork" >}}) as a potential solution to [Jimmy Slit's]({{< ref "/players/jimmy-slit" >}}) demonic curse, though her exact location and methods remain unknown to the party.
+[Madame Iva]({{< ref "/npcs/madame-iva" >}}) is a blue-eyed Vistani elder who resides at the Vistani encampment in [Svalich Forest]({{< ref "/locations/svalich-forest" >}}). She is known to possess the ability to cure curses and appears to have foreknowledge of the party's destiny—she arranged their rescue and foretold the connection between the party and [Igga Bevneros]({{< ref "/players/igga-bevneros" >}}).
 
 ### The Vistani Encampment
 
-The party's map contains a marked Vistani encampment within [Svalich Forest]({{< ref "/locations/svalich-forest" >}}). According to [Ireena Kolyana]({{< ref "/npcs/ireena-kolyana" >}}), this camp is inhabited by Vistani who wish the party well, suggesting that not all Vistani are hostile or aligned with [Strahd von Zarovich]({{< ref "/npcs/strahd-von-zarovich" >}}). The party has not yet made contact with this encampment.
+The party's map contains a marked Vistani encampment within [Svalich Forest]({{< ref "/locations/svalich-forest" >}}). According to [Ireena Kolyana]({{< ref "/npcs/ireena-kolyana" >}}), this camp is inhabited by Vistani who wish the party well. The party reached the encampment in [Session 17]({{< ref "/sessions/session-17" >}}), escorted by [Esdras]({{< ref "/npcs/esdras" >}}).
+
+[Esdras]({{< ref "/npcs/esdras" >}}) warned the party that **some Vistani at the camp may be spies** and that they should exercise caution. He advised placing trust in [Madame Iva]({{< ref "/npcs/madame-iva" >}}).  [Igga Bevneros]({{< ref "/players/igga-bevneros" >}})—a non-Vistani taken in by [Madame Iva]({{< ref "/npcs/madame-iva" >}})—also resides here.
 
 ## References
 
 - [Thork]({{< ref "/npcs/thork" >}}) — Vistani craftsperson in [Barovia]({{< ref "/locations/village-of-barovia" >}})
-- [Madame Iva]({{< ref "/npcs/madame-iva" >}}) — Vistani with curse-breaking abilities
-- Vistani encampment marked on the party's map in [Svalich Forest]({{< ref "/locations/svalich-forest" >}})
+- [Esdras]({{< ref "/npcs/esdras" >}}) — Vistani merchant and diplomat
+- [Madame Iva]({{< ref "/npcs/madame-iva" >}}) — Vistani elder with curse-breaking abilities at the encampment
+- Vistani encampment reached in [Session 17]({{< ref "/sessions/session-17" >}})
 - First mentioned in [Session 13]({{< ref "/sessions/session-13" >}})
