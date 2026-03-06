@@ -71,3 +71,6 @@ Powerful, commanding, and utterly committed to his will. His interest in [Ireena
 - He respects bold action and decisive confrontation
 
 Appears in [Session 10]({{< ref "/sessions/session-10" >}}).
+
+### Session 18 (referenced)
+[Madame Iva]({{< ref "/npcs/madame-iva" >}}) revealed to [Monel]({{< ref "/players/monel" >}}) that [Strahd]({{< ref "/npcs/strahd-von-zarovich" >}}), like [Monel]({{< ref "/players/monel" >}}) himself, possesses **a bond with something greater than himself**—a power beyond the mortal realm. The full nature of this bond is unknown. Additionally, the fifth card of the [Tarot reading]({{< ref "/lore/tarot-reading" >}}) revealed that the final confrontation with [Strahd]({{< ref "/npcs/strahd-von-zarovich" >}}) will take place at [Castle Ravenloft]({{< ref "/locations/castle-ravenloft" >}}) after one or two prior visits. Referenced in [Session 18]({{< ref "/sessions/session-18" >}}).

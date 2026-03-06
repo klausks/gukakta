@@ -14,6 +14,9 @@ summary_box: |
 
 ## Notable Locations
 
+### The Mill
+A mill on the heights located on the road to Vallaki. According to [Igga Bevneros]({{< ref "/players/igga-bevneros" >}}), it lies on the road leading to the town. Referenced in [Madame Iva's]({{< ref "/npcs/madame-iva" >}}) [Tarot reading]({{< ref "/lore/tarot-reading" >}}) as the site of a hidden treasure and a source of secret knowledge about the party's enemy.
+
 ### Blue Water Inn
 
 ### St. Andral's Church

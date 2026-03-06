@@ -39,3 +39,6 @@ Mentioned by [Thork]({{< ref "/npcs/thork" >}}) as someone capable of curing cur
 
 ### Session 17
 Revealed to reside at the Vistani encampment in [Svalich Forest]({{< ref "/locations/svalich-forest" >}}). She arranged and paid for the party's rescue by [Esdras]({{< ref "/npcs/esdras" >}}), described by him as being "rich in wisdom." She has taken in [Igga Bevneros]({{< ref "/players/igga-bevneros" >}}) and foretold that his destiny is intertwined with the party's. The party entered her cabin at the end of the session to learn more about their mission and future. Appears in [Session 17]({{< ref "/sessions/session-17" >}}).
+
+### Session 18
+Performed a five-card [Tarot reading]({{< ref "/lore/tarot-reading" >}}) for the party, laying out their likely path ahead. After the reading, she met privately with each party member; all fell asleep upon entering her tent and woke with no memory of the conversation, though each felt deeply at ease afterward. When [Monel]({{< ref "/players/monel" >}}) returned to express discomfort at his memory loss, she reassured him that when the time came to act, instinct would guide him. She also revealed that [Strahd von Zarovich]({{< ref "/npcs/strahd-von-zarovich" >}}), like [Monel]({{< ref "/players/monel" >}}), possesses a bond with something greater than himself. Appears in [Session 18]({{< ref "/sessions/session-18" >}}).
