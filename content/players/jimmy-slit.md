@@ -88,3 +88,6 @@ Could not avoid punishment: in Vallaki, bail was treated as bribery. Jimmy was h
 Jimmy was brought before [Baron Vargas Vallakovich]({{< ref "/npcs/baron-vallakovich" >}}) and questioned in a torture room about whether the party had ties to "the Devil" and which nobles they had spoken to. After another search, Jimmy was placed in solitary confinement and later given food and water.
 
 Jimmy's demon claimed it can always know the correct path to take and can access a person's memories if Jimmy touches them. Appears in [Session 33]({{< ref "/sessions/session-33" >}}).
+
+### Session 34
+Spent the night in prison and was released the next morning, rejoining the party at the Blue Water Inn. Appears in [Session 34]({{< ref "/sessions/session-34" >}}).

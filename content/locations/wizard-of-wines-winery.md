@@ -32,3 +32,6 @@ Urwin asked the party to travel to the winery and investigate why deliveries hav
 
 ### Session 33
 Urwin explained that three magical gems once empowered the winery. The first was stolen around ten years ago; the second was taken about three weeks ago without signs of a struggle; the third was taken about five days ago, with fighting that the family could not withstand. With the winery overrun by blights and plant growth, the family abandoned the site and asked the party to help clear it. Appears in [Session 33]({{< ref "/sessions/session-33" >}}).
+
+### Session 34
+The party received directions to the winery from Urwin and was specifically advised not to use anything involving fire at the winery. Appears in [Session 34]({{< ref "/sessions/session-34" >}}).

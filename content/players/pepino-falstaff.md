@@ -53,3 +53,6 @@ Connected to his hat while resting at the Blue Water Inn and heard whispered wor
 
 ### Session 31
 Socialized with nobles at the Blue Water Inn and joined a dice game during a tavern celebration. Worked with the party to coordinate a shared story for navigating Vallaki's politics and later met privately with Urwin, who requested help restoring wine deliveries from the Wizard of Wines Winery. Appears in [Session 31]({{< ref "/sessions/session-31" >}}).
+
+### Session 34
+Read a large portion of the tome overnight at the Blue Water Inn. In the morning, the party spoke with [Urwin Martikov]({{< ref "/npcs/urwin-martikov" >}}) and received directions to the [Wizard of Wines Winery]({{< ref "/locations/wizard-of-wines-winery" >}}), plus 100 gp and a warning not to use anything involving fire at the winery. Appears in [Session 34]({{< ref "/sessions/session-34" >}}).
