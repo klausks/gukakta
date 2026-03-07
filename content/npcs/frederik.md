@@ -34,3 +34,6 @@ Mentioned by Danika as a noble tailor in Vallaki and a known gossip; suggested a
 
 ### Session 30
 Took measurements and accepted orders for made-to-measure noble clothing (including an urgency fee for next-day delivery). A noblewoman, [Andreja]({{< ref "/npcs/andreja" >}}), was present in his shop and invited Agares to meet Fiona Wachter at 11:00 the next day. Frederik suggested bringing an appropriate gift for political meetings and privately shared gossip about a romance involving the Burgomaster's family (details unclear). Appears in [Session 30]({{< ref "/sessions/session-30" >}}).
+
+### Session 35
+Responded to Igga’s questions about the mood in town by explaining that many are excited for the Baron’s event meant to drive away “the Devil.” He described a festival with dancing, games, and good food in Vallaki’s center (near shops and the public prison), and advised that visitors should not stay inside and should participate (or at least pretend to be enjoying themselves). Appears in [Session 35]({{< ref "/sessions/session-35" >}}).

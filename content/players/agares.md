@@ -49,4 +49,7 @@ Commissioned formal clothing in Vallaki and paid an added urgency fee for next-d
 ### Session 33
 Discussed plans with the party at the Blue Water Inn after Jimmy was taken into custody. The party chose a group name—Gukakta—and agreed to proceed with the winery mission while also preparing for the scheduled meeting with Vallaki's nobles. Appears in [Session 33]({{< ref "/sessions/session-33" >}}).
 
+### Session 35
+Went with Igga to Frederik’s tailor shop and then attended the arranged meeting at Wachterhaus. Used divine senses to detect an [Invisible Fiend]({{< ref "/creatures/invisible-fiend" >}}) in the house and fought it until it fled through a glass window, badly wounded. Appears in [Session 35]({{< ref "/sessions/session-35" >}}).
+
 

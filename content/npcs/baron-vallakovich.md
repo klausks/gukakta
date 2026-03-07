@@ -59,3 +59,6 @@ The party was advised to meet him and warned that Vallaki's laws and festivals a
 
 ### Session 33
 Met [Jimmy Slit]({{< ref "/players/jimmy-slit" >}}) after Jimmy was detained by the guards. Questioned him in a torture room, expressed suspicion that outsiders may be connected to "the Devil," and insisted that festivals protect Vallaki. After threats and questioning about which nobles the party had spoken to, he dismissed Jimmy back into custody while suggesting the party could still "do good" for the city. Appears in [Session 33]({{< ref "/sessions/session-33" >}}).
+
+### Session 35
+Frederik described the Baron’s upcoming festival as a public event intended to drive away “the Devil,” with dancing, games, and food in Vallaki’s center. The party was advised that visitors should not stay indoors and should participate (or at least pretend to). Appears in [Session 35]({{< ref "/sessions/session-35" >}}).

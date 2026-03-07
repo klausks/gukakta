@@ -3,7 +3,7 @@ title: "{{ replace .File.ContentBaseName "-" " " | title }}"
 subtitle: ""
 date: {{ .Date }}
 draft: true
-tags: ["monster"]
+tags: ["creature"]
 # summary_box: |
 #   **Type:**  
 #   **CR:**  

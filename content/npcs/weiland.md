@@ -31,3 +31,6 @@ Unknown.
 
 ### Session 30
 Identified by the party as a weapons-focused forge option in Vallaki. Appears in [Session 30]({{< ref "/sessions/session-30" >}}).
+
+### Session 35
+Met with Monel and Jimmy alongside [Horic]({{< ref "/npcs/horic" >}}) when they looked into local smithing options (heavy armor and simple weapons). No deal was made, but references were gathered for [Scran Ragnar]({{< ref "/npcs/scran-ragnar" >}}) (leather) and [Androm]({{< ref "/npcs/androm" >}}) (books). Appears in [Session 35]({{< ref "/sessions/session-35" >}}).

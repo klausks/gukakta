@@ -33,3 +33,6 @@ Unknown.
 
 ### Session 30
 Invited Agares to meet Madame Wachter at 11:00 the next day and asked him to decide who would accompany him. Discussed the idea of bringing a gift when meeting the Burgomaster and emphasized that the story behind a gift matters. Appears in [Session 30]({{< ref "/sessions/session-30" >}}).
+
+### Session 35
+Accompanied Agares and Igga back to Frederik’s shop and commented on their elegance once dressed. Shared opinions about Vallaki’s festival culture and suggested this was a useful topic for discussion with Madame Wachter. She escorted them through town to Wachterhaus for the scheduled meeting. Appears in [Session 35]({{< ref "/sessions/session-35" >}}).

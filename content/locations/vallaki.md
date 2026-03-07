@@ -52,6 +52,8 @@ An orphanage in Vallaki suggested as a lead connected to an adoption document th
 
 ### Wachterhaus
 
+Residence of Madame Wachter. See [Wachterhaus]({{< ref "/locations/wachterhaus" >}}).
+
 ### Blinsky's Toy Shop
 
 ### The Stockade
@@ -129,3 +131,8 @@ Around this time, Vasili privately warned the party to expect further searches a
 
 ### Session 33
 The party learned Vallaki treats bail as bribery and could not negotiate an alternative punishment for Jimmy. Jimmy was marched away under a black hood and brought before Izek and the Baron. Later, the party adopted a group name: **Gukakta**. Appears in [Session 33]({{< ref "/sessions/session-33" >}}).
+
+### Session 35
+Pepino voiced concern that Vallaki’s festivals might be ritualistic and suggested investigating by speaking with townsfolk. Frederik described the Baron’s upcoming event to drive away “the Devil” and warned that visitors should not stay indoors and should participate.
+
+Later, Agares and Igga attended a scheduled meeting with Fiona Wachter at Wachterhaus. They witnessed Stella Wachter behaving strangely and fought an [Invisible Fiend]({{< ref "/creatures/invisible-fiend" >}}) inside the house before it escaped through a glass window. Appears in [Session 35]({{< ref "/sessions/session-35" >}}).

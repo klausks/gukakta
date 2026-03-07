@@ -26,10 +26,20 @@ Unknown.
 
 ## Connections
 
-- Andreja — arranged a meeting on her behalf
-- Baron Vargas Vallakovich — political relationship unknown
+- [Andreja]({{< ref "/npcs/andreja" >}}) — arranged a meeting on her behalf
+- [Wachterhaus]({{< ref "/locations/wachterhaus" >}}) — her home
+- [Nikolai Wachter]({{< ref "/npcs/nikolai-wachter" >}}) — late husband
+- [Nikolai Wachter II]({{< ref "/npcs/nikolai-wachter-ii" >}}) — son
+- [Carl Wachter]({{< ref "/npcs/carl-wachter" >}}) — son
+- [Stella Wachter]({{< ref "/npcs/stella-wachter" >}}) — daughter
+- Baron Vargas Vallakovich — political opponent
 
 ## Key Events
 
 ### Session 30
 A meeting with her was scheduled for 11:00 the next day, with Agares attending and Igga accompanying him. Appears in [Session 30]({{< ref "/sessions/session-30" >}}).
+
+### Session 35
+Met Agares and Igga at Wachterhaus and presented herself as a harsh matriarch determined to protect her children and keep Vallaki safe. She criticized the Baron and Vallaki’s festival culture, alleged that the Vallakovich family has dark secrets, and claimed Izek’s past and power are suspect. She also suggested her daughter Stella’s condition may be magical and asked for outside help.
+
+An [Invisible Fiend]({{< ref "/creatures/invisible-fiend" >}}) entered with her and was only perceived by Agares. During the ensuing fight, the creature was marked with red ink, struck by Halik, and badly wounded before escaping through a glass window. Appears in [Session 35]({{< ref "/sessions/session-35" >}}).
