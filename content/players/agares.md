@@ -55,4 +55,10 @@ Went with Igga to Frederik’s tailor shop and then attended the arranged meetin
 ### Session 36
 Stayed overnight at Wachterhaus at [Fiona Wachter’s]({{< ref "/npcs/fiona-wachter" >}}) invitation to help protect the household and question the captive fiend. He abjured the creature and observed it had torn wings and did not seem to regenerate; it repeatedly insisted “I serve the Devil” while staring at [Halik]({{< ref "/npcs/halik" >}}). Agares also left his mace with [Ireena Kolyana]({{< ref "/npcs/ireena-kolyana" >}}). Appears in [Session 36]({{< ref "/sessions/session-36" >}}).
 
+### Session 38
+Returned to Wachterhaus, coordinated with Igga, and investigated Stella’s condition. Noted that the household had previously tortured the captured fiend for information and then healed it again. Appears in [Session 38]({{< ref "/sessions/session-38" >}}).
+
+### Session 39
+Attempted to interrogate Majesto under truth magic while isolating Halik, and learned that the fiend is a familiar tied to the Wachter household. During a tense night at Wachterhaus, received a mask and identity-related garments and witnessed a strange sequence of events involving Nikolai Wachter II collapsing at his door. Appears in [Session 39]({{< ref "/sessions/session-39" >}}).
+
 

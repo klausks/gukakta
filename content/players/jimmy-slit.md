@@ -91,3 +91,9 @@ Jimmy's demon claimed it can always know the correct path to take and can access
 
 ### Session 34
 Spent the night in prison and was released the next morning, rejoining the party at the Blue Water Inn. Appears in [Session 34]({{< ref "/sessions/session-34" >}}).
+
+### Session 38
+Visited St. Andral’s Church in Vallaki to speak with Father Lucian about the demon situation and what rites and services the priest could provide. Appears in [Session 38]({{< ref "/sessions/session-38" >}}).
+
+### Session 39
+Undertook a private test connected to the hidden crypt beneath St. Andral’s Church, involving a crystal, a phrase of release, and prayer—followed by a strange tingling sensation. Appears in [Session 39]({{< ref "/sessions/session-39" >}}).

@@ -37,3 +37,6 @@ The party dealt with a captured “diabrete” at Wachterhaus, caging the wounde
 
 ### Session 38
 Halik hosts Igga and Agares as the household prepares guest rooms and keeps the captured fiend secured. Fiona presents Stella to the party; Igga detects necromancy and enchantment affecting her, and Stella reacts strongly when Viktor is mentioned. Fiona then plays a masked social game with pointed moral questions, emphasizing the political strain she faces in Vallaki. Appears in [Session 38]({{< ref "/sessions/session-38" >}}).
+
+### Session 39
+The party learns that the captured fiend Majesto is a familiar tied to the Wachter household, and that this connection has been concealed for political reasons. That night, a series of unsettling incidents occur at Wachterhaus, including the discovery of barrels associated with the [Wizard of Wines Winery]({{< ref "/locations/wizard-of-wines-winery" >}}), a collapse at a guest-room door, and whispered intrusions. Appears in [Session 39]({{< ref "/sessions/session-39" >}}).

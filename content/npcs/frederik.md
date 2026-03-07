@@ -40,3 +40,6 @@ Responded to Igga’s questions about the mood in town by explaining that many a
 
 ### Session 37
 The party returned to his shop to recover Agares' armor and look for platinum rings. Andreja was present and seemed unsettled, and a noblewoman named [Rosemary]({{< ref "/npcs/rosemary" >}}) was being measured; she suggested contacting Vasili von Holtz for rings. Appears in [Session 37]({{< ref "/sessions/session-37" >}}).
+
+### Session 39
+Sold a pearl to [Vedas]({{< ref "/players/vedas" >}}). Appears in [Session 39]({{< ref "/sessions/session-39" >}}).

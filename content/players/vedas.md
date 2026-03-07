@@ -29,3 +29,6 @@ Unknown.
 
 ### Session 37
 In Vallaki, Vedas split off with Monel to research at Androm's bookshop. Appears in [Session 37]({{< ref "/sessions/session-37" >}}).
+
+### Session 39
+Bought a pearl from [Frederik]({{< ref "/npcs/frederik" >}}) in Vallaki. Appears in [Session 39]({{< ref "/sessions/session-39" >}}).

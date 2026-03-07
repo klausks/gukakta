@@ -43,3 +43,6 @@ Was present as the party dealt with the captured fiend at Wachterhaus. [Agares](
 Receives Igga and Agares at Wachterhaus, arranges for Agares’ horse to be taken to a transport stable, and hosts them with cocktails while Fiona is resting or praying. Offers to store Agares’ belongings.
 
 Shows guest rooms (including a room said to belong to Nikolai Wachter) and introduces household staff. Escorts the party to the area where the captured fiend is kept, and later carries Stella away when she becomes agitated. Appears in [Session 38]({{< ref "/sessions/session-38" >}}).
+
+### Session 39
+The party attempts to interrogate Majesto under truth magic while trying to keep Halik at a distance. The interrogation reveals that Majesto is a familiar connected to the Wachter household, a secret that Halik helped conceal for political reasons. Appears in [Session 39]({{< ref "/sessions/session-39" >}}).

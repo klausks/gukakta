@@ -35,3 +35,6 @@ Was seen at Wachterhaus behaving oddly, moving on all fours and imitating cat no
 Fiona presents Stella to the party and asks them to see what they can do. Agares greets her by name and perceives some degree of awareness. Igga uses *Detect Magic* and identifies necromancy and enchantment affecting Stella.
 
 The household reports Stella was with Viktor when her condition began, though circumstances are unclear. When Agares asks whether Viktor did this to her, Stella reacts abruptly and becomes increasingly restless. Appears in [Session 38]({{< ref "/sessions/session-38" >}}).
+
+### Session 39
+During a strange night at Wachterhaus, Stella appears and whispers during an unsettling sequence of events that ends with people seemingly asleep. Appears in [Session 39]({{< ref "/sessions/session-39" >}}).

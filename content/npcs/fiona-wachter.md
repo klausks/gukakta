@@ -32,6 +32,7 @@ Unknown.
 - [Nikolai Wachter II]({{< ref "/npcs/nikolai-wachter-ii" >}}) — son
 - [Carl Wachter]({{< ref "/npcs/carl-wachter" >}}) — son
 - [Stella Wachter]({{< ref "/npcs/stella-wachter" >}}) — daughter
+- [Halik]({{< ref "/npcs/halik" >}}) — butler
 - [Baron Vargas Vallakovich]({{< ref "/npcs/baron-vallakovich" >}}) — political opponent
 
 ## Key Events
@@ -47,3 +48,9 @@ An [Invisible Fiend]({{< ref "/creatures/invisible-fiend" >}}) entered with her 
 
 ### Session 36
 Invited [Agares]({{< ref "/players/agares" >}}) to stay overnight at Wachterhaus after the party captured and caged the fiend for questioning. Over dinner, she asked how people deal with death and spoke confidently about Vallaki, claiming to have eyes across the city and detailed knowledge of [Izek’s]({{< ref "/npcs/izek" >}}) routine via a “main spy.” She expressed fatigue with the Baron’s festivals and suggested Vargas’s practices might be ritualistic and could attract “the Devil.” She also claimed Vallaki has gone more than a century without [Count Strahd von Zarovich]({{< ref "/npcs/strahd-von-zarovich" >}}). Appears in [Session 36]({{< ref "/sessions/session-36" >}}).
+
+### Session 38
+Hosted Igga and Agares at Wachterhaus, presented Stella to the party, and ended the evening with a masked social game that highlighted her ruthless view of politics and betrayal. Appears in [Session 38]({{< ref "/sessions/session-38" >}}).
+
+### Session 39
+During the party’s attempts to interrogate Majesto under truth magic, Fiona’s connection to the fiend is exposed: the creature is a familiar tied to her household, a fact she and Halik had hidden for political reasons. Appears in [Session 39]({{< ref "/sessions/session-39" >}}).

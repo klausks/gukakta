@@ -30,3 +30,6 @@ Unknown.
 
 ### Session 35
 Named by Fiona Wachter as one of her children. Appears in [Session 35]({{< ref "/sessions/session-35" >}}).
+
+### Session 39
+Collapsed at [Agares]({{< ref "/players/agares" >}})’ door during a strange night at Wachterhaus. Appears in [Session 39]({{< ref "/sessions/session-39" >}}).

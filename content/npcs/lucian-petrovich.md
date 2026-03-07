@@ -36,3 +36,6 @@ Told Ireena that St. Andral’s crypt lies beneath the altar but is not visible,
 
 ### Session 38
 Spoke with Jimmy at St. Andral’s Church about the demon situation. Jimmy learned Lucian can provide holy rites and services including making holy water and performing spells such as *Gentle Repose*, *Iron Vision*, and *Purify Water*. Appears in [Session 38]({{< ref "/sessions/session-38" >}}).
+
+### Session 39
+Jimmy undertook a private test connected to the hidden crypt beneath St. Andral’s Church, involving a crystal, a phrase of release, and prayer. Appears in [Session 39]({{< ref "/sessions/session-39" >}}).

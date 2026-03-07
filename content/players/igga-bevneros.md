@@ -64,3 +64,9 @@ Suspected the captured fiend served [Halik]({{< ref "/npcs/halik" >}}), but did 
 
 ### Session 37
 Traded secrets with [Vasili von Holtz]({{< ref "/npcs/vasili-von-holtz" >}}) to secure a pristine platinum ring, revealing he once worshipped [Lolth]({{< ref "/lore/lolth" >}}) and was imprisoned and scarred by [Duergar]({{< ref "/creatures/duergar" >}}). Appears in [Session 37]({{< ref "/sessions/session-37" >}}).
+
+### Session 38
+Visited Wachterhaus with Agares, identified necromancy and enchantment affecting Stella via *Detect Magic*, and offered music to soothe her agitation. Appears in [Session 38]({{< ref "/sessions/session-38" >}}).
+
+### Session 39
+Helped plan an interrogation of Majesto under truth magic while attempting to keep Halik at a distance. During the night at Wachterhaus, discovered barrels associated with the Wizard of Wines and heard a warning voice. Appears in [Session 39]({{< ref "/sessions/session-39" >}}).
