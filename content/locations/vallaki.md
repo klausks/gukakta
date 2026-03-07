@@ -50,6 +50,23 @@ Home to the bones of St. Andral — a powerful holy relic. Someone has stolen th
 
 ### The Stockade
 
+Vallaki's central square includes a public platform where prisoners are chained and displayed. Guards have claimed the prisoners are thieves, vandals, or other troublemakers, and that they can be kept there for one to two weeks.
+
+Reports from the party describe the punishment as intentionally brutal: prisoners are left without food or water, and townsfolk nearby appear indifferent or approving. A captive [Treant Sapling]({{< ref "/creatures/treant-sapling" >}}) was also seen being publicly tormented.
+
+Local rumors in the area suggest a drunk named [Blut]({{< ref "/npcs/blut" >}}) has been missing for several days.
+
+## Shops and Services
+
+Businesses and craftspeople noted in Vallaki's commercial district:
+
+- [Frederik]({{< ref "/npcs/frederik" >}}) — tailor (noble clothing)
+- [Weiland]({{< ref "/npcs/weiland" >}}) — forge focused on weapons
+- [Anya]({{< ref "/npcs/anya" >}}) — herbalist
+- [Androm]({{< ref "/npcs/androm" >}}) — bookshop
+- [Scran Ragnar]({{< ref "/npcs/scran-ragnar" >}}) — retired hunter selling leather goods
+- [Konik Halflinger]({{< ref "/npcs/konik-halflinger" >}}) — wagons and woodcraft
+
 ## Key NPCs
 
 ### [Baron Vargas Vallakovich]({{< ref "/npcs/baron-vallakovich" >}})
@@ -79,5 +96,8 @@ A wolf-hunter traveling with Vasili.
 ### [Izek]({{< ref "/npcs/izek" >}})
 The Burgomaster's right-hand man. Described as a knight (referenced in Infernal by [Igga Bevneros]({{< ref "/players/igga-bevneros" >}})). Notably, he has a huge red arm that appears unnatural, and he was seen at the city gates during the party's entry.
 
-### Fiona
-Leads a powerful, politically ambitious family in Vallaki. Said to have great political ambitions.
+### [Fiona Wachter]({{< ref "/npcs/fiona-wachter" >}})
+Leads a powerful, politically ambitious family in Vallaki.
+
+### [Andreja]({{< ref "/npcs/andreja" >}})
+A noblewoman met at Frederik's tailor shop who invited Agares to meet Fiona Wachter the next day.

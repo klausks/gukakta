@@ -49,3 +49,6 @@ Attempted to help stabilize Pepino while he suffered the magical strain of readi
 
 ### Session 29
 At the Blue Water Inn, helped hide documents that mention Strahd (including the tome) under a loose floorboard and used mending magic to repair it afterward. Bought beer for everyone at lunch and agreed to speak privately with [Urwin Martikov]({{< ref "/npcs/urwin-martikov" >}}) later that night. Appears in [Session 29]({{< ref "/sessions/session-29" >}}).
+
+### Session 30
+Identified a captive creature in the Stockade as a treant sapling. Commissioned formal clothing in Vallaki, paid an urgency fee for next-day delivery, and agreed to accompany Agares to a meeting with Fiona Wachter at 11:00 the next day. Appears in [Session 30]({{< ref "/sessions/session-30" >}}).

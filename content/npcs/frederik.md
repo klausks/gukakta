@@ -31,3 +31,6 @@ Unknown.
 
 ### Session 29
 Mentioned by Danika as a noble tailor in Vallaki and a known gossip; suggested as a place to dress appropriately before meeting the Burgomaster. Appears in [Session 29]({{< ref "/sessions/session-29" >}}).
+
+### Session 30
+Took measurements and accepted orders for made-to-measure noble clothing (including an urgency fee for next-day delivery). A noblewoman, [Andreja]({{< ref "/npcs/andreja" >}}), was present in his shop and invited Agares to meet Fiona Wachter at 11:00 the next day. Frederik suggested bringing an appropriate gift for political meetings and privately shared gossip about a romance involving the Burgomaster's family (details unclear). Appears in [Session 30]({{< ref "/sessions/session-30" >}}).

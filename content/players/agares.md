@@ -43,4 +43,7 @@ Spotted an invisible figure moving on the ground floor and identified it as [Bel
 ### Session 27
 Shouted a defiant challenge into the forest after defeating the wolf ambush, directly threatening Lord Strahd and declaring his intent to destroy him. Found a gold ring bound with a letter from Hianag Darastrix on the wolves' bodies. Infuriated by Strahd's mocking note on the letter, he hurled the ring into the dark woods, losing it completely to the party's dismay. Appears in [Session 27]({{< ref "/sessions/session-27" >}}).
 
+### Session 30
+Commissioned formal clothing in Vallaki and paid an added urgency fee for next-day delivery. Accepted an invitation to meet Fiona Wachter at 11:00 the next day. Appears in [Session 30]({{< ref "/sessions/session-30" >}}).
+
 
