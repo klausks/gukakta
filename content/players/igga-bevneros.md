@@ -46,3 +46,6 @@ Cast *Detect Magic* when [Strahd von Zarovich]({{< ref "/npcs/strahd-von-zarovic
 
 ### Session 27
 Attempted to help stabilize Pepino while he suffered the magical strain of reading Strahd's tome. Recognized the Elvish names in Hianag Darastrix's letter from Drow lore, including Drizzt Do'Urden, and speculated about the origin of the attached gold ring. Appears in [Session 27]({{< ref "/sessions/session-27" >}}).
+
+### Session 29
+At the Blue Water Inn, helped hide documents that mention Strahd (including the tome) under a loose floorboard and used mending magic to repair it afterward. Bought beer for everyone at lunch and agreed to speak privately with [Urwin Martikov]({{< ref "/npcs/urwin-martikov" >}}) later that night. Appears in [Session 29]({{< ref "/sessions/session-29" >}}).

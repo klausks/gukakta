@@ -53,7 +53,7 @@ content/
 ├── _index.md              # Homepage body copy
 ├── locations/             # Location articles
 ├── npcs/                  # NPC articles
-├── monsters/              # Monster articles
+├── creatures/              # Monster articles
 ├── lore/                  # Lore articles
 ├── sessions/              # Session summaries
 └── players/               # Player character articles

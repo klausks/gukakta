@@ -47,3 +47,6 @@ When the party remarked that [Monel]({{< ref "/players/monel" >}}) and [Jimmy]({
 
 ### Session 22
 Received two visions from [Madame Iva]({{< ref "/npcs/madame-iva" >}}) on the road: one warning that two attempts on his life are already in motion and predicting he will die in the worst possible way; a second telling him there is a way to reverse death through deception and raising the name Mikaela. Used his mage hand to retrieve the gate key, inadvertently triggering [Strahd's]({{< ref "/npcs/strahd-von-zarovich" >}}) apparition. Felt watched after [Strahd]({{< ref "/npcs/strahd-von-zarovich" >}}) vanished. Appears in [Session 22]({{< ref "/sessions/session-22" >}}).
+
+### Session 29
+Connected to his hat while resting at the Blue Water Inn and heard whispered words promising: "I'm close... I'm going to deliver the sword to you." When he asked if the speaker was in town, the voice claimed it was nearby at a camp outside Vallaki. Appears in [Session 29]({{< ref "/sessions/session-29" >}}).
