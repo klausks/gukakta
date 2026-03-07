@@ -33,3 +33,6 @@ Unknown.
 
 ### Session 37
 Told Ireena that St. Andral’s crypt lies beneath the altar but is not visible, and that a feast for St. Andral will occur the same day as the Baron’s public event. Appears in [Session 37]({{< ref "/sessions/session-37" >}}).
+
+### Session 38
+Spoke with Jimmy at St. Andral’s Church about the demon situation. Jimmy learned Lucian can provide holy rites and services including making holy water and performing spells such as *Gentle Repose*, *Iron Vision*, and *Purify Water*. Appears in [Session 38]({{< ref "/sessions/session-38" >}}).

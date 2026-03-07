@@ -25,6 +25,9 @@ Only Agares perceived the fiend. During the fight, Igga marked it with red ink, 
 ### Session 36
 The fiend was captured and placed into a cage. Its wings were torn and it did not appear to regenerate. It repeatedly insisted, “I serve the Devil,” and stared at [Halik]({{< ref "/npcs/halik" >}}). Appears in [Session 36]({{< ref "/sessions/session-36" >}}).
 
+### Session 38
+While the party tours Wachterhaus, a common name is given for the captured fiend: **Majesto**. It is also heard repeating *"My darv, my darv"* (Infernal for "my lord"). Appears in [Session 38]({{< ref "/sessions/session-38" >}}).
+
 ## Loot / Rewards
 
 None.

@@ -15,13 +15,17 @@ Wachterhaus is the residence of Fiona Wachter, a noble figure in Vallaki. The pa
 
 ## Notable Locations
 
-Unknown.
+- Guest rooms prepared for visitors (including a room said to belong to Nikolai Wachter)
+- Area where the captured fiend is kept (secured)
 
 ## Key NPCs
 
 - [Fiona Wachter]({{< ref "/npcs/fiona-wachter" >}}) — matriarch of the house
 - [Halik]({{< ref "/npcs/halik" >}}) — butler
 - [Stella Wachter]({{< ref "/npcs/stella-wachter" >}}) — Fiona’s daughter
+- [Amalthia]({{< ref "/npcs/amalthia" >}}) — maid
+- [Madalena]({{< ref "/npcs/madalena" >}}) — servant
+- [David]({{< ref "/npcs/david" >}}) — cook
 
 ## Key Events and Discoveries
 
@@ -30,3 +34,6 @@ The party was received by Halik and met Fiona Wachter. They witnessed Stella Wac
 
 ### Session 36
 The party dealt with a captured “diabrete” at Wachterhaus, caging the wounded fiend for questioning as tensions rose within the household. Fiona Wachter spoke candidly over dinner about Vallaki’s politics, her network of watchers, and her belief that the Baron’s festivals might be ritualistic and could attract “the Devil.”
+
+### Session 38
+Halik hosts Igga and Agares as the household prepares guest rooms and keeps the captured fiend secured. Fiona presents Stella to the party; Igga detects necromancy and enchantment affecting her, and Stella reacts strongly when Viktor is mentioned. Fiona then plays a masked social game with pointed moral questions, emphasizing the political strain she faces in Vallaki. Appears in [Session 38]({{< ref "/sessions/session-38" >}}).
