@@ -65,3 +65,6 @@ Entered a sudden, hypnotic trance after Agares shouted a defiant challenge to St
 
 ### Session 28
 Shared a disturbing dream of a huge creature holding many dolls made in her likeness, shifting between demonic and human forms. Ahead of entering Vallaki, the party dyed her hair and adjusted her appearance to better conceal her identity. She also spoke of a possible curse, said she was adopted, and shared fragments of childhood memories. Appears in [Session 28]({{< ref "/sessions/session-28" >}}).
+
+### Session 32
+Reunited with [Walpole]({{< ref "/npcs/walpole" >}}) and decided she would not stay with him yet, remaining with the party longer instead. Later, guards searched the party and recorded details about her dyed hair separately. Appears in [Session 32]({{< ref "/sessions/session-32" >}}).

@@ -36,3 +36,6 @@ Unknown.
 
 ### Session 28
 Met the party on the road after wolves disappeared from the campsite and tracks were followed to a trapped wolf. Introduced himself and invited the party to travel with him to Vallaki. Warned the party never to follow a hostile bright ball of light that pursued them. Advised the party to avoid speaking or carrying writings of [Strahd's]({{< ref "/npcs/strahd-von-zarovich" >}}) name in Vallaki and to present themselves to the Baron. Recommended St. Andral's Church and the Blue Water Inn. Notably, the mists seemed to part for him during travel. Appears in [Session 28]({{< ref "/sessions/session-28" >}}).
+
+### Session 32
+Arrived by carriage outside Walpole's home and spoke privately with [Monel]({{< ref "/players/monel" >}}) and [Jimmy Slit]({{< ref "/players/jimmy-slit" >}}). Warned that guards would likely search the party again soon and advised disposing of compromising documents. Claimed Vallakians can be prejudiced against "twilight elves," potentially increasing scrutiny on [Igga Bevneros]({{< ref "/players/igga-bevneros" >}}). Also said a merchant contact, [Tolmul]({{< ref "/npcs/tolmul" >}}), would arrive near Vallaki soon with rare goods, including an item intended for Monel. Appears in [Session 32]({{< ref "/sessions/session-32" >}}).

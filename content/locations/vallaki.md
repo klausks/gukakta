@@ -46,6 +46,10 @@ Home to the bones of St. Andral — a powerful holy relic. Someone has stolen th
 
 The party later visited the church to find Walpole.
 
+### Vallaki Orphanage
+
+An orphanage in Vallaki suggested as a lead connected to an adoption document the party carries. See [Vallaki Orphanage]({{< ref "/locations/vallaki-orphanage" >}}).
+
 ### Wachterhaus
 
 ### Blinsky's Toy Shop
@@ -115,3 +119,10 @@ A well-dressed man seen at the Blue Water Inn.
 
 ### [Milivoj]({{< ref "/npcs/milivoj" >}})
 A young grave digger encountered in Vallaki's cemetery.
+
+## Key Events and Discoveries
+
+### Session 32
+Guards renewed scrutiny of the party, searching them in the street and separately recording details about Ireena's dyed hair. A vial of poison was confiscated from [Jimmy Slit]({{< ref "/players/jimmy-slit" >}}), and he was told he would be kept at the Stockade's public prison for at least a day. The guards also said Izek wanted the party to decide on a group name.
+
+Around this time, Vasili privately warned the party to expect further searches and claimed that [Tolmul]({{< ref "/npcs/tolmul" >}}) would soon arrive near Vallaki with rare goods, including an item intended for [Monel]({{< ref "/players/monel" >}}). Appears in [Session 32]({{< ref "/sessions/session-32" >}}).

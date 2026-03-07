@@ -78,3 +78,6 @@ Searched the mill before the party departed and found a hidden chest beneath a b
 
 ### Session 30
 In Vallaki's town center, assessed the tense crowds and public punishment at the Stockade and noted it would provide many opportunities for a thief. Ordered elegant clothing from a tailor for upcoming political meetings. Appears in [Session 30]({{< ref "/sessions/session-30" >}}).
+
+### Session 32
+Guards searched the party, confiscated Jimmy's vial of poison, and stated he would be jailed at the Stockade for at least one day. They also demanded the party decide on a group name at Izek's request. Appears in [Session 32]({{< ref "/sessions/session-32" >}}).

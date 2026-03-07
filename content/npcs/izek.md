@@ -35,3 +35,6 @@ Described as the Burgomaster's right-hand man and a knight. Referenced in [Sessi
 
 ### Session 28
 Appeared at the gates during the party's entry into Vallaki, present during the guards' tests meant to detect demons. His huge red arm was immediately noticeable. Appears in [Session 28]({{< ref "/sessions/session-28" >}}).
+
+### Session 32
+Guards said Izek (referred to as "Isac") wanted the party to choose a group name and expected an answer soon. Appears in [Session 32]({{< ref "/sessions/session-32" >}}).
