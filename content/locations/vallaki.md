@@ -5,12 +5,28 @@ date: 2026-03-04
 tags: ["location", "town", "politics"]
 summary_box: |
   **Region:** Central Barovia  
-  **Ruler:** [Baron Vargas Vallakovich]({{< ref "/npcs/baron-vallakovich" >}})  
+  **Ruler:** Baron Vargas Vallakovich  
   **Danger Level:** Low–Moderate  
   **Population:** ~800 (walled)
 ---
 
 ## Overview
+
+Vallaki is a walled town in central Barovia ruled by [Baron Vargas Vallakovich]({{< ref "/npcs/baron-vallakovich" >}}). It is known for strict order, mandatory festivals, and aggressive enforcement of public morale.
+
+## Entry Procedures and Laws
+
+At the gates, guards may subject visitors to tests meant to detect demonic influence (including stepping into spilled water and having a silver coin pressed to the forehead). Visitors are required to declare their names, ages, and carried weapons, and are issued official visitor documents.
+
+Known laws presented to newcomers:
+
+1. None shall speak the name of the Devil or carry written documentation bearing his name.
+2. None shall slander the Baron or the Festivals; written material that depicts them negatively will be rejected and dealt with.
+3. All must participate in preparing festivals.
+4. All must attend festivals.
+5. None shall harm a Vallakian.
+6. None shall steal from Vallakians or their property.
+7. None shall deface or damage public or private property.
 
 ## Notable Locations
 
@@ -31,10 +47,22 @@ Home to the bones of St. Andral — a powerful holy relic. Someone has stolen th
 ## Key NPCs
 
 ### [Baron Vargas Vallakovich]({{< ref "/npcs/baron-vallakovich" >}})
-The ruler of [Vallaki]({{< ref "/locations/vallaki" >}}), described as a severe man. The party has been advised to avoid drawing his attention or causing trouble.
+The ruler of Vallaki, described as a severe man. The party has been advised to avoid drawing his attention or causing trouble.
 
-### Izek
-The Burgomaster's right-hand man. Described as a knight (referenced in Infernal by [Igga Bevneros]({{< ref "/players/igga-bevneros" >}})).
+### [Baroness Ligia Vallakovich]({{< ref "/npcs/baroness-ligia-vallakovich" >}})
+The Baron's wife, described as devoted to the "Lord of the Morning."
+
+### [Vasili von Holtz]({{< ref "/npcs/vasili-von-holtz" >}})
+A wolf-hunter who escorted the party to Vallaki and advised them on the city's laws and customs.
+
+### [Yevgeni]({{< ref "/npcs/yevgeni" >}})
+A wolf-hunter traveling with Vasili.
+
+### [Szoldar]({{< ref "/npcs/szoldar" >}})
+A wolf-hunter traveling with Vasili.
+
+### [Izek]({{< ref "/npcs/izek" >}})
+The Burgomaster's right-hand man. Described as a knight (referenced in Infernal by [Igga Bevneros]({{< ref "/players/igga-bevneros" >}})). Notably, he has a huge red arm that appears unnatural, and he was seen at the city gates during the party's entry.
 
 ### Fiona
-Leads a powerful, politically ambitious family in [Vallaki]({{< ref "/locations/vallaki" >}}). Said to have great political ambitions.
+Leads a powerful, politically ambitious family in Vallaki. Said to have great political ambitions.

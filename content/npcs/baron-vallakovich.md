@@ -13,11 +13,31 @@ summary_box: |
 
 ## Overview
 
-Baron Vargas Vallakovich is the Burgomaster of [Vallaki]({{< ref "/locations/vallaki" >}}), the walled town in central Barovia. He is described as a severe man; the party has been advised to avoid drawing his attention or causing trouble within his jurisdiction.
+Baron Vargas Vallakovich is the Burgomaster of Vallaki, the walled town in central Barovia. He is described as a severe man and is known for his festivals. The party has been advised to avoid drawing his attention or causing trouble within his jurisdiction.
+
+Under his rule, the town enforces strict entry controls (including questions about visitors' identities and armaments, and the issuance of official visitor documents) and public laws that regulate speech, written material, and mandatory participation in civic events.
 
 ## Personality
 
 Severe and authoritarian.
+
+## Rule of Vallaki
+
+Known laws and expectations presented to newcomers:
+
+1. None shall speak the name of the Devil or carry written documentation bearing his name.
+2. None shall slander the Baron or the Festivals; written material that depicts them negatively will be rejected and dealt with.
+3. All must participate in preparing festivals.
+4. All must attend festivals.
+5. None shall harm a Vallakian.
+6. None shall steal from Vallakians or their property.
+7. None shall deface or damage public or private property.
+
+Visitors may be required to declare their names, ages, and the weapons they carry.
+
+## Family
+
+According to [Vasili von Holtz]({{< ref "/npcs/vasili-von-holtz" >}}), Vargas's father was more severe than Vargas. He is married to Baroness Ligia Vallakovich, who is described as devoted to the "Lord of the Morning," and the family has children.
 
 ## Goals and Motivations
 
@@ -25,10 +45,14 @@ Unknown.
 
 ## Connections
 
-- **Izek** — his right-hand man, a knight (referenced in Infernal by [Igga Bevneros]({{< ref "/players/igga-bevneros" >}}))
-- [Vallaki]({{< ref "/locations/vallaki" >}}) — the town under his rule
+- [Izek]({{< ref "/npcs/izek" >}}) — his right-hand man, a knight (referenced in Infernal by [Igga Bevneros]({{< ref "/players/igga-bevneros" >}}))
+- [Baroness Ligia Vallakovich]({{< ref "/npcs/baroness-ligia-vallakovich" >}}) — his wife
+- Vallaki — the town under his rule
 
 ## Key Events
 
 ### Session 26
 Described by [Igga Bevneros]({{< ref "/players/igga-bevneros" >}}) to [Ireena Kolyana]({{< ref "/npcs/ireena-kolyana" >}}) as a severe man whose authority should not be challenged. His right-hand man **Izek** is a knight. Referenced in [Session 26]({{< ref "/sessions/session-26" >}}).
+
+### Session 28
+The party was advised to meet him and warned that Vallaki's laws and festivals are strictly enforced, including a taboo against speaking or carrying writings of [Strahd's]({{< ref "/npcs/strahd-von-zarovich" >}}) name. Appears in [Session 28]({{< ref "/sessions/session-28" >}}).

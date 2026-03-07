@@ -62,3 +62,6 @@ Complained of a headache similar to the one she experienced at the inn in [Barov
 
 ### Session 27
 Entered a sudden, hypnotic trance after Agares shouted a defiant challenge to Strahd. She bolted toward the forest shouting, "Strahd, I will go with you to the castle!" Monel intercepted and restrained her, breaking the trance, which left her profoundly exhausted. Appears in [Session 27]({{< ref "/sessions/session-27" >}}).
+
+### Session 28
+Shared a disturbing dream of a huge creature holding many dolls made in her likeness, shifting between demonic and human forms. Ahead of entering Vallaki, the party dyed her hair and adjusted her appearance to better conceal her identity. She also spoke of a possible curse, said she was adopted, and shared fragments of childhood memories. Appears in [Session 28]({{< ref "/sessions/session-28" >}}).
