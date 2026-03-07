@@ -68,3 +68,6 @@ Shared a disturbing dream of a huge creature holding many dolls made in her like
 
 ### Session 32
 Reunited with [Walpole]({{< ref "/npcs/walpole" >}}) and decided she would not stay with him yet, remaining with the party longer instead. Later, guards searched the party and recorded details about her dyed hair separately. Appears in [Session 32]({{< ref "/sessions/session-32" >}}).
+
+### Session 36
+Held Agares’s mace while he stayed overnight at Wachterhaus. Appears in [Session 36]({{< ref "/sessions/session-36" >}}).

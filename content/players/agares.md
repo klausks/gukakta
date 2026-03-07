@@ -52,4 +52,7 @@ Discussed plans with the party at the Blue Water Inn after Jimmy was taken into 
 ### Session 35
 Went with Igga to Frederik’s tailor shop and then attended the arranged meeting at Wachterhaus. Used divine senses to detect an [Invisible Fiend]({{< ref "/creatures/invisible-fiend" >}}) in the house and fought it until it fled through a glass window, badly wounded. Appears in [Session 35]({{< ref "/sessions/session-35" >}}).
 
+### Session 36
+Stayed overnight at Wachterhaus at [Fiona Wachter’s]({{< ref "/npcs/fiona-wachter" >}}) invitation to help protect the household and question the captive fiend. He abjured the creature and observed it had torn wings and did not seem to regenerate; it repeatedly insisted “I serve the Devil” while staring at [Halik]({{< ref "/npcs/halik" >}}). Agares also left his mace with [Ireena Kolyana]({{< ref "/npcs/ireena-kolyana" >}}). Appears in [Session 36]({{< ref "/sessions/session-36" >}}).
+
 

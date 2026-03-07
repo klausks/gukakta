@@ -58,3 +58,6 @@ Helped coordinate plans at the Blue Water Inn while Jimmy was held by the guards
 
 ### Session 35
 Visited Frederik’s shop with Andreja and Agares and asked about the buzz in town. Learned details of the Baron’s upcoming festival and that visitors should not stay indoors and should participate. Attended the meeting at Wachterhaus, spoke with Fiona Wachter, and marked an [Invisible Fiend]({{< ref "/creatures/invisible-fiend" >}}) with red ink during the fight before it fled. Appears in [Session 35]({{< ref "/sessions/session-35" >}}).
+
+### Session 36
+Suspected the captured fiend served [Halik]({{< ref "/npcs/halik" >}}), but did not share that suspicion with [Fiona Wachter]({{< ref "/npcs/fiona-wachter" >}}) yet. Appears in [Session 36]({{< ref "/sessions/session-36" >}}).

@@ -61,3 +61,6 @@ Read a large portion of the tome overnight at the Blue Water Inn. In the morning
 Voiced concern that the Baron’s festivals might be a form of ritual and suggested the party investigate by speaking with people in the streets. He also noted that reading the tome is improving his learning (including history and geography) and that he expects to gain new magic from it, but must read more to fully consolidate his understanding.
 
 Monel promised to get him tobacco; Pepino noted the Vistani smoke heavily and suggested the camp the hat points toward as a good place to acquire it. Appears in [Session 35]({{< ref "/sessions/session-35" >}}).
+
+### Session 36
+Advanced his study of the tome and gained new abilities and insight, but felt mounting pressure from darkness and a growing crisis of identity. In [Vallaki]({{< ref "/locations/vallaki" >}}), festival posters reinforced his suspicion that the Baron’s events may be ritualistic. Appears in [Session 36]({{< ref "/sessions/session-36" >}}).
