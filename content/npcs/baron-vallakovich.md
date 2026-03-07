@@ -41,7 +41,7 @@ According to [Vasili von Holtz]({{< ref "/npcs/vasili-von-holtz" >}}), Vargas's 
 
 ## Goals and Motivations
 
-Unknown.
+Paranoid about "the Devil" (how Vallakians refer to [Count Strahd]({{< ref "/npcs/strahd-von-zarovich" >}})) and highly driven by the desire to keep Strahd away from Vallaki, chiefly through strict laws and mandatory festivals.
 
 ## Connections
 
@@ -56,3 +56,6 @@ Described by [Igga Bevneros]({{< ref "/players/igga-bevneros" >}}) to [Ireena Ko
 
 ### Session 28
 The party was advised to meet him and warned that Vallaki's laws and festivals are strictly enforced, including a taboo against speaking or carrying writings of [Strahd's]({{< ref "/npcs/strahd-von-zarovich" >}}) name. Appears in [Session 28]({{< ref "/sessions/session-28" >}}).
+
+### Session 33
+Met [Jimmy Slit]({{< ref "/players/jimmy-slit" >}}) after Jimmy was detained by the guards. Questioned him in a torture room, expressed suspicion that outsiders may be connected to "the Devil," and insisted that festivals protect Vallaki. After threats and questioning about which nobles the party had spoken to, he dismissed Jimmy back into custody while suggesting the party could still "do good" for the city. Appears in [Session 33]({{< ref "/sessions/session-33" >}}).

@@ -81,3 +81,10 @@ In Vallaki's town center, assessed the tense crowds and public punishment at the
 
 ### Session 32
 Guards searched the party, confiscated Jimmy's vial of poison, and stated he would be jailed at the Stockade for at least one day. They also demanded the party decide on a group name at Izek's request. Appears in [Session 32]({{< ref "/sessions/session-32" >}}).
+
+### Session 33
+Could not avoid punishment: in Vallaki, bail was treated as bribery. Jimmy was hooded and taken through quieter streets into custody, where Izek struck him with an unnaturally burning punch.
+
+Jimmy was brought before [Baron Vargas Vallakovich]({{< ref "/npcs/baron-vallakovich" >}}) and questioned in a torture room about whether the party had ties to "the Devil" and which nobles they had spoken to. After another search, Jimmy was placed in solitary confinement and later given food and water.
+
+Jimmy's demon claimed it can always know the correct path to take and can access a person's memories if Jimmy touches them. Appears in [Session 33]({{< ref "/sessions/session-33" >}}).

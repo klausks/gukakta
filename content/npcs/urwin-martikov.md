@@ -35,3 +35,6 @@ Danika said Urwin wanted to meet the party privately that night. Appears in [Ses
 
 ### Session 31
 Met the party privately at the Blue Water Inn and asked them to investigate why wine deliveries from the Wizard of Wines Winery have been failing for weeks. Suggested druids and corrupted creatures may be involved, possibly under Strahd's influence. Appears in [Session 31]({{< ref "/sessions/session-31" >}}).
+
+### Session 33
+Gave the party more details about the [Wizard of Wines Winery]({{< ref "/locations/wizard-of-wines-winery" >}}): three magical gems once empowered the winery, but all three have been taken over time (one around ten years ago, one about three weeks ago without witnesses, and one about five days ago after a fight). Asked the party to help clear the winery, offering 100 gp and a bottle of Champagne Du le Stomp, and offered a letter of recommendation to introduce them to his father, [Davian Martikov]({{< ref "/npcs/davian-martikov" >}}). Appears in [Session 33]({{< ref "/sessions/session-33" >}}).

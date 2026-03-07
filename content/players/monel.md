@@ -70,3 +70,6 @@ Experienced flashes of children running and a tingling in his feet near the iron
 
 ### Session 24
 Ordered [Ireena Kolyana]({{< ref "/npcs/ireena-kolyana" >}}) to hold the voodoo dolls when they flew out of the party's bags. Killed [Bela]({{< ref "/npcs/bela" >}}) on the upper floor; [Bela]({{< ref "/npcs/bela" >}}) melted into the floor, announcing that [Morgantha]({{< ref "/npcs/morgantha" >}}) was coming. Killed [Offalia]({{< ref "/npcs/offalia" >}}) on the upper floor. Delivered the final killing blow to [Bela]({{< ref "/npcs/bela" >}}) outside the mill, slaying her permanently. Fell unconscious when [Morgantha]({{< ref "/npcs/morgantha" >}}) arrived and destroyed the dolls with a clap. Was revived to full HP when [Igga]({{< ref "/players/igga-bevneros" >}}) cast Mending on his doll. Survived [Morgantha's]({{< ref "/npcs/morgantha" >}}) Ray of Enfeeblement. Appears in [Session 24]({{< ref "/sessions/session-24" >}}).
+
+### Session 33
+Sought information about books and research in Vallaki and spoke with [Mr. Ernst]({{< ref "/npcs/mr-ernst" >}}), learning there is no public library in town. Appears in [Session 33]({{< ref "/sessions/session-33" >}}).

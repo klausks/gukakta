@@ -52,3 +52,6 @@ At the Blue Water Inn, helped hide documents that mention Strahd (including the 
 
 ### Session 30
 Identified a captive creature in the Stockade as a treant sapling. Commissioned formal clothing in Vallaki, paid an urgency fee for next-day delivery, and agreed to accompany Agares to a meeting with Fiona Wachter at 11:00 the next day. Appears in [Session 30]({{< ref "/sessions/session-30" >}}).
+
+### Session 33
+Helped coordinate plans at the Blue Water Inn while Jimmy was held by the guards, including choosing a group name: Gukakta. Ireena also reminded the party to update their map and follow up on [Tolmul]({{< ref "/npcs/tolmul" >}}), as previously suggested by Esdras. Appears in [Session 33]({{< ref "/sessions/session-33" >}}).

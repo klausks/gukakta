@@ -126,3 +126,6 @@ A young grave digger encountered in Vallaki's cemetery.
 Guards renewed scrutiny of the party, searching them in the street and separately recording details about Ireena's dyed hair. A vial of poison was confiscated from [Jimmy Slit]({{< ref "/players/jimmy-slit" >}}), and he was told he would be kept at the Stockade's public prison for at least a day. The guards also said Izek wanted the party to decide on a group name.
 
 Around this time, Vasili privately warned the party to expect further searches and claimed that [Tolmul]({{< ref "/npcs/tolmul" >}}) would soon arrive near Vallaki with rare goods, including an item intended for [Monel]({{< ref "/players/monel" >}}). Appears in [Session 32]({{< ref "/sessions/session-32" >}}).
+
+### Session 33
+The party learned Vallaki treats bail as bribery and could not negotiate an alternative punishment for Jimmy. Jimmy was marched away under a black hood and brought before Izek and the Baron. Later, the party adopted a group name: **Gukakta**. Appears in [Session 33]({{< ref "/sessions/session-33" >}}).

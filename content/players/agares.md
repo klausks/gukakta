@@ -46,4 +46,7 @@ Shouted a defiant challenge into the forest after defeating the wolf ambush, dir
 ### Session 30
 Commissioned formal clothing in Vallaki and paid an added urgency fee for next-day delivery. Accepted an invitation to meet Fiona Wachter at 11:00 the next day. Appears in [Session 30]({{< ref "/sessions/session-30" >}}).
 
+### Session 33
+Discussed plans with the party at the Blue Water Inn after Jimmy was taken into custody. The party chose a group name—Gukakta—and agreed to proceed with the winery mission while also preparing for the scheduled meeting with Vallaki's nobles. Appears in [Session 33]({{< ref "/sessions/session-33" >}}).
+
 

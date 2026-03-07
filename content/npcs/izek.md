@@ -38,3 +38,6 @@ Appeared at the gates during the party's entry into Vallaki, present during the 
 
 ### Session 32
 Guards said Izek (referred to as "Isac") wanted the party to choose a group name and expected an answer soon. Appears in [Session 32]({{< ref "/sessions/session-32" >}}).
+
+### Session 33
+Escorted [Jimmy Slit]({{< ref "/players/jimmy-slit" >}}) under a black hood and struck him with his unnatural red arm, a blow described as burning more than normal. Later told Jimmy that the Baron is a blessing to Vallaki and suggested cruelty is necessary to maintain control. Jimmy also observed Izek carrying a brightly polished silver battleaxe and that Izek treated him as a "special" prisoner (including food and water). Appears in [Session 33]({{< ref "/sessions/session-33" >}}).

@@ -35,3 +35,6 @@ Hosted the party at the Blue Water Inn. Warned them not to speak with the Burgom
 
 ### Session 31
 Worked through a lively night at the Blue Water Inn while the party observed nobles drinking and playing dice. The party noted she was overwhelmed with work. Appears in [Session 31]({{< ref "/sessions/session-31" >}}).
+
+### Session 33
+Served the party dinner at the Blue Water Inn, including notably good wolf meat. The two children running around the inn were identified as her and Urwin's sons. A bard named [Rictavio]({{< ref "/npcs/rictavio" >}}) was present and ordered food for his "corpulent friend" and his monkey. Appears in [Session 33]({{< ref "/sessions/session-33" >}}).
