@@ -46,3 +46,6 @@ Shows guest rooms (including a room said to belong to Nikolai Wachter) and intro
 
 ### Session 39
 The party attempts to interrogate Majesto under truth magic while trying to keep Halik at a distance. The interrogation reveals that Majesto is a familiar connected to the Wachter household, a secret that Halik helped conceal for political reasons. Appears in [Session 39]({{< ref "/sessions/session-39" >}}).
+
+### Session 40
+Agares hears Halik’s voice through whispers warning the party to leave and stop investigating for the night: *"Go away. You are still raw. It will not be tonight that things happen."* In the morning, Halik simply bids the party farewell as they depart. Appears in [Session 40]({{< ref "/sessions/session-40" >}}).

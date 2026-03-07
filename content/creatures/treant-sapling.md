@@ -24,6 +24,9 @@ Unknown.
 ### Session 30
 Spotted in the town center at the Stockade near chained prisoners. A guard claimed it was tortured for no particular reason. Identified by [Igga Bevneros]({{< ref "/players/igga-bevneros" >}}) as a treant sapling. Appears in [Session 30]({{< ref "/sessions/session-30" >}}).
 
+### Session 40
+Just outside Vallaki, Jimmy overheard a Vistani claiming their group had taken a treant sapling and that the adult treants would come looking for it. Appears in [Session 40]({{< ref "/sessions/session-40" >}}).
+
 ## Loot / Rewards
 
 None recorded.

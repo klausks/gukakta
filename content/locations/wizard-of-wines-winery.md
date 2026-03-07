@@ -35,3 +35,6 @@ Urwin explained that three magical gems once empowered the winery. The first was
 
 ### Session 34
 The party received directions to the winery from Urwin and was specifically advised not to use anything involving fire at the winery. Appears in [Session 34]({{< ref "/sessions/session-34" >}}).
+
+### Session 40
+On the approach to the winery bridge, the party finds a stone inscription in Primordial: *"When the light of the sky touches what lies beneath these runes, the power sealed long ago shall be revealed."* Appears in [Session 40]({{< ref "/sessions/session-40" >}}).

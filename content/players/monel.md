@@ -73,3 +73,6 @@ Ordered [Ireena Kolyana]({{< ref "/npcs/ireena-kolyana" >}}) to hold the voodoo 
 
 ### Session 33
 Sought information about books and research in Vallaki and spoke with [Mr. Ernst]({{< ref "/npcs/mr-ernst" >}}), learning there is no public library in town. Appears in [Session 33]({{< ref "/sessions/session-33" >}}).
+
+### Session 40
+His Forest Master bell began to vibrate, and the Forest Master’s messenger warned the party about a [Troll]({{< ref "/creatures/troll" >}}) attacking travelers off the roads, with an estimated bounty of 800 gp. Appears in [Session 40]({{< ref "/sessions/session-40" >}}).

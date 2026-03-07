@@ -97,3 +97,6 @@ Visited St. Andral’s Church in Vallaki to speak with Father Lucian about the d
 
 ### Session 39
 Undertook a private test connected to the hidden crypt beneath St. Andral’s Church, involving a crystal, a phrase of release, and prayer—followed by a strange tingling sensation. Appears in [Session 39]({{< ref "/sessions/session-39" >}}).
+
+### Session 40
+Noted a drunk noble as an easy target for theft, but held back after realizing the party was being watched. Just outside Vallaki, stealthily overheard an argument between a man and a Vistani about treants, a captured sapling, and Vistani curses. Appears in [Session 40]({{< ref "/sessions/session-40" >}}).

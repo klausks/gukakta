@@ -40,3 +40,6 @@ Halik hosts Igga and Agares as the household prepares guest rooms and keeps the 
 
 ### Session 39
 The party learns that the captured fiend Majesto is a familiar tied to the Wachter household, and that this connection has been concealed for political reasons. That night, a series of unsettling incidents occur at Wachterhaus, including the discovery of barrels associated with the [Wizard of Wines Winery]({{< ref "/locations/wizard-of-wines-winery" >}}), a collapse at a guest-room door, and whispered intrusions. Appears in [Session 39]({{< ref "/sessions/session-39" >}}).
+
+### Session 40
+Agares hears Halik’s whispered warning to stop investigating for the night. By morning, Fiona is not seen, and household staff are gathered in the guest quarters with Igga before the party departs Vallaki. Appears in [Session 40]({{< ref "/sessions/session-40" >}}).

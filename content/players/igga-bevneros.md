@@ -70,3 +70,6 @@ Visited Wachterhaus with Agares, identified necromancy and enchantment affecting
 
 ### Session 39
 Helped plan an interrogation of Majesto under truth magic while attempting to keep Halik at a distance. During the night at Wachterhaus, discovered barrels associated with the Wizard of Wines and heard a warning voice. Appears in [Session 39]({{< ref "/sessions/session-39" >}}).
+
+### Session 40
+Stopped investigating Wachterhaus after Agares heard Halik’s whispered warning. In the morning, household staff were gathered in the guest quarters with Igga before the party left Vallaki. Appears in [Session 40]({{< ref "/sessions/session-40" >}}).

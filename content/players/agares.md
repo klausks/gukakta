@@ -61,4 +61,7 @@ Returned to Wachterhaus, coordinated with Igga, and investigated Stella’s cond
 ### Session 39
 Attempted to interrogate Majesto under truth magic while isolating Halik, and learned that the fiend is a familiar tied to the Wachter household. During a tense night at Wachterhaus, received a mask and identity-related garments and witnessed a strange sequence of events involving Nikolai Wachter II collapsing at his door. Appears in [Session 39]({{< ref "/sessions/session-39" >}}).
 
+### Session 40
+Continued investigating Wachterhaus until he heard Halik’s voice through whispers warning the party to leave and stop for the night. Departed Vallaki with the group under renewed questioning from the guards at the gate. Appears in [Session 40]({{< ref "/sessions/session-40" >}}).
+
 

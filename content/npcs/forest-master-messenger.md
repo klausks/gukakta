@@ -33,3 +33,8 @@ Appeared near the mill in response to [Monel's]({{< ref "/players/monel" >}}) be
 
 ### Session 26
 Escorted the party from the mill to a safe campsite for 50 po. She would only speak with [Monel]({{< ref "/players/monel" >}}), and refused to share her name, stating it was a secret. Confirmed there is no relationship between the Forest Master and [Count Strahd]({{< ref "/npcs/strahd-von-zarovich" >}}). She also offered a second condition: no duels would be directed at her. She alerted the party to a column of skeletons marching nearby and instructed them to remain still and silent — the skeletons passed without incident. Confirmed the party's position on the map and direction to [Vallaki]({{< ref "/locations/vallaki" >}}) before departing. Her parting remark: *"I have heard there are fewer Vistani on the road these days."* Appears in [Session 26]({{< ref "/sessions/session-26" >}}).
+
+### Session 40
+Appeared when Monel’s Forest Master bell began to vibrate and warned the party about a [Troll]({{< ref "/creatures/troll" >}}) attacking travelers off the roads, with an estimated bounty of 800 gp. She described the troll as feeding on carrion and having a strong, acidic, pungent smell.
+
+When asked, she described treants as generally neutral, and the Vistani as generally neutral but often in conflict. Appears in [Session 40]({{< ref "/sessions/session-40" >}}).

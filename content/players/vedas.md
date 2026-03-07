@@ -32,3 +32,6 @@ In Vallaki, Vedas split off with Monel to research at Androm's bookshop. Appears
 
 ### Session 39
 Bought a pearl from [Frederik]({{< ref "/npcs/frederik" >}}) in Vallaki. Appears in [Session 39]({{< ref "/sessions/session-39" >}}).
+
+### Session 40
+Summoned a white owl companion, shared what he remembered about treants, and used the owl to scout ahead on the road to the winery. Through the owl, the party spotted a wounded [Hairy Traveler]({{< ref "/npcs/hairy-traveler" >}}) chasing a giant rat carrying a beautiful scimitar. Appears in [Session 40]({{< ref "/sessions/session-40" >}}).
