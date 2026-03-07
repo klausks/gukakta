@@ -61,3 +61,6 @@ Visited Frederik’s shop with Andreja and Agares and asked about the buzz in to
 
 ### Session 36
 Suspected the captured fiend served [Halik]({{< ref "/npcs/halik" >}}), but did not share that suspicion with [Fiona Wachter]({{< ref "/npcs/fiona-wachter" >}}) yet. Appears in [Session 36]({{< ref "/sessions/session-36" >}}).
+
+### Session 37
+Traded secrets with [Vasili von Holtz]({{< ref "/npcs/vasili-von-holtz" >}}) to secure a pristine platinum ring, revealing he once worshipped [Lolth]({{< ref "/lore/lolth" >}}) and was imprisoned and scarred by [Duergar]({{< ref "/creatures/duergar" >}}). Appears in [Session 37]({{< ref "/sessions/session-37" >}}).

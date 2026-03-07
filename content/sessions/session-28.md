@@ -49,7 +49,7 @@ On the road, Vasili offers guidance about Vallaki:
 - The Blue Water Inn is the city's principal inn.
 - It is forbidden to mention Strahd's name or carry documents that include it.
 
-Vasili notes that Vargas's father was more severe than Vargas, and says the baron's wife, [Baroness Ligia Vallakovich]({{< ref "/npcs/baroness-ligia-vallakovich" >}}), is a woman of faith devoted to the "Lord of the Morning." He also mentions the family has children and suggests the party will likely encounter them during a festival.
+Vasili notes that Vargas's father was more severe than Vargas, and says the baron's wife, [Baroness Lydia Petrovna]({{< ref "/npcs/lydia-petrovna" >}}), is a woman of faith devoted to the "Lord of the Morning." He also mentions the family has children and suggests the party will likely encounter them during a festival.
 
 Vasili remarks that it is obvious the party is hiding something about Ireena, and says he "expected more" of them, given that they have survived this long.
 

@@ -18,7 +18,7 @@ Vasili von Holtz is a friendly wolf-hunter encountered on the road to Vallaki, t
 
 ## Personality
 
-Calm and confident. He speaks plainly about danger and social rules, and he is quick to notice when others are hiding something.
+Calm and confident. He speaks plainly about danger and social rules, and he is quick to notice when others are hiding something. Said he loves secrets and asked the party to share some in exchange for items.
 
 ## Goals and Motivations
 
@@ -29,7 +29,7 @@ Unknown.
 - [Yevgeni]({{< ref "/npcs/yevgeni" >}}) — wolf-hunter companion
 - [Szoldar]({{< ref "/npcs/szoldar" >}}) — wolf-hunter companion
 - [Baron Vargas Vallakovich]({{< ref "/npcs/baron-vallakovich" >}}) — advised the party to meet him
-- [Baroness Ligia Vallakovich]({{< ref "/npcs/baroness-ligia-vallakovich" >}}) — described as devoted to the "Lord of the Morning"
+- [Baroness Lydia Petrovna]({{< ref "/npcs/lydia-petrovna" >}}) — described as devoted to the "Lord of the Morning"
 - [Esdras]({{< ref "/npcs/esdras" >}}) — said he obtained a wolf-stowing pouch from him
 
 ## Key Events
@@ -39,3 +39,6 @@ Met the party on the road after wolves disappeared from the campsite and tracks 
 
 ### Session 32
 Arrived by carriage outside Walpole's home and spoke privately with [Monel]({{< ref "/players/monel" >}}) and [Jimmy Slit]({{< ref "/players/jimmy-slit" >}}). Warned that guards would likely search the party again soon and advised disposing of compromising documents. Claimed Vallakians can be prejudiced against "twilight elves," potentially increasing scrutiny on [Igga Bevneros]({{< ref "/players/igga-bevneros" >}}). Also said a merchant contact, [Tolmul]({{< ref "/npcs/tolmul" >}}), would arrive near Vallaki soon with rare goods, including an item intended for Monel. Appears in [Session 32]({{< ref "/sessions/session-32" >}}).
+
+### Session 37
+Provided a pristine platinum ring to the party in exchange for two secrets, then returned Agares' payment. One secret concerned Igga’s past worship of [Lolth]({{< ref "/lore/lolth" >}}) and his scarring imprisonment by [Duergar]({{< ref "/creatures/duergar" >}}); the other confirmed the party had laid the spirits of [Durst House]({{< ref "/locations/durst-house" >}}) to rest. Appears in [Session 37]({{< ref "/sessions/session-37" >}}).

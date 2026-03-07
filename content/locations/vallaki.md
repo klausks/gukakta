@@ -44,6 +44,10 @@ An inn in Vallaki's commercial district. The party stayed here shortly after ent
 ### St. Andral's Church
 Home to the bones of St. Andral — a powerful holy relic. Someone has stolen them.
 
+Under the altar, St. Andral's crypt is said to exist but is not visible.
+
+A feast for St. Andral is held on the same day as the Baron's public event.
+
 The party later visited the church to find Walpole.
 
 ### Vallaki Orphanage
@@ -83,8 +87,11 @@ Wine shortages in town have been linked (by Urwin) to issues at the [Wizard of W
 ### [Baron Vargas Vallakovich]({{< ref "/npcs/baron-vallakovich" >}})
 The ruler of Vallaki, described as a severe man. The party has been advised to avoid drawing his attention or causing trouble.
 
-### [Baroness Ligia Vallakovich]({{< ref "/npcs/baroness-ligia-vallakovich" >}})
+### [Baroness Lydia Petrovna]({{< ref "/npcs/lydia-petrovna" >}})
 The Baron's wife, described as devoted to the "Lord of the Morning."
+
+### [Father Lucian Petrovich]({{< ref "/npcs/lucian-petrovich" >}})
+Priest associated with St. Andral's Church.
 
 ### [Danika Martikov]({{< ref "/npcs/danika-martikov" >}})
 Innkeeper of the Blue Water Inn.
@@ -112,6 +119,9 @@ Leads a powerful, politically ambitious family in Vallaki.
 
 ### [Andreja]({{< ref "/npcs/andreja" >}})
 A noblewoman met at Frederik's tailor shop who invited Agares to meet Fiona Wachter the next day.
+
+### [Rosemary]({{< ref "/npcs/rosemary" >}})
+A noblewoman encountered at Frederik's shop.
 
 ### [Nikolai]({{< ref "/npcs/nikolai" >}})
 A noble encountered at the Blue Water Inn.

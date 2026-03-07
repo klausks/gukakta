@@ -13,6 +13,12 @@ summary_box: |
 
 [Pepino Falstaff]({{< ref "/players/pepino-falstaff" >}}) is the party's con artist and a half-elf whose past is marked by loss and abandonment. Driven initially by necessity and the need for money to survive, he has become a skilled practitioner of deception and manipulation. Despite his criminal background, [Pepino]({{< ref "/players/pepino-falstaff" >}}) demonstrates loyalty to his companions and tactical awareness in dangerous situations.
 
+After reading [Count Strahd von Zarovich's]({{< ref "/npcs/strahd-von-zarovich" >}}) tome, Pepino underwent a major identity change and became Vedas.
+
+See also: [Strahd's Tome]({{< ref "/lore/strahds-tome" >}}).
+
+See: [Vedas]({{< ref "/players/vedas" >}}).
+
 ## Backstory
 
 [Pepino Falstaff]({{< ref "/players/pepino-falstaff" >}}) is a half-elf orphan who believes he was abandoned by his parents. With no family to support him, he was forced to pursue adventure and criminal work out of sheer necessity—driven by the need to obtain money for basic survival. His childhood was compounded by tragedy: he had a sister, but she died while he was still young, leaving him as a true orphan without familial bonds. These experiences shaped him into someone who survives through cunning and deception.
@@ -64,3 +70,6 @@ Monel promised to get him tobacco; Pepino noted the Vistani smoke heavily and su
 
 ### Session 36
 Advanced his study of the tome and gained new abilities and insight, but felt mounting pressure from darkness and a growing crisis of identity. In [Vallaki]({{< ref "/locations/vallaki" >}}), festival posters reinforced his suspicion that the Baron’s events may be ritualistic. Appears in [Session 36]({{< ref "/sessions/session-36" >}}).
+
+### Session 37
+Now using the name Vedas, split off with Monel to research at Androm's bookshop while the rest of the party pursued other errands in Vallaki. Appears in [Session 37]({{< ref "/sessions/session-37" >}}).

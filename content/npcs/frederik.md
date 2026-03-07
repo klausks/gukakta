@@ -37,3 +37,6 @@ Took measurements and accepted orders for made-to-measure noble clothing (includ
 
 ### Session 35
 Responded to Igga’s questions about the mood in town by explaining that many are excited for the Baron’s event meant to drive away “the Devil.” He described a festival with dancing, games, and good food in Vallaki’s center (near shops and the public prison), and advised that visitors should not stay inside and should participate (or at least pretend to be enjoying themselves). Appears in [Session 35]({{< ref "/sessions/session-35" >}}).
+
+### Session 37
+The party returned to his shop to recover Agares' armor and look for platinum rings. Andreja was present and seemed unsettled, and a noblewoman named [Rosemary]({{< ref "/npcs/rosemary" >}}) was being measured; she suggested contacting Vasili von Holtz for rings. Appears in [Session 37]({{< ref "/sessions/session-37" >}}).

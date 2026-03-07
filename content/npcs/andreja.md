@@ -36,3 +36,6 @@ Invited Agares to meet Madame Wachter at 11:00 the next day and asked him to dec
 
 ### Session 35
 Accompanied Agares and Igga back to Frederik’s shop and commented on their elegance once dressed. Shared opinions about Vallaki’s festival culture and suggested this was a useful topic for discussion with Madame Wachter. She escorted them through town to Wachterhaus for the scheduled meeting. Appears in [Session 35]({{< ref "/sessions/session-35" >}}).
+
+### Session 37
+Encountered again at Frederik’s shop; she appeared unsettled about something, but the party did not press her for details. Appears in [Session 37]({{< ref "/sessions/session-37" >}}).

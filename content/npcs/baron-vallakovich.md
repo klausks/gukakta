@@ -37,7 +37,7 @@ Visitors may be required to declare their names, ages, and the weapons they carr
 
 ## Family
 
-According to [Vasili von Holtz]({{< ref "/npcs/vasili-von-holtz" >}}), Vargas's father was more severe than Vargas. He is married to Baroness Ligia Vallakovich, who is described as devoted to the "Lord of the Morning," and the family has children.
+According to [Vasili von Holtz]({{< ref "/npcs/vasili-von-holtz" >}}), Vargas's father was more severe than Vargas. He is married to [Baroness Lydia Petrovna]({{< ref "/npcs/lydia-petrovna" >}}), who is described as devoted to the "Lord of the Morning," and the family has children.
 
 ## Goals and Motivations
 
@@ -46,7 +46,7 @@ Paranoid about "the Devil" (how Vallakians refer to [Count Strahd]({{< ref "/npc
 ## Connections
 
 - [Izek]({{< ref "/npcs/izek" >}}) — his right-hand man, a knight (referenced in Infernal by [Igga Bevneros]({{< ref "/players/igga-bevneros" >}}))
-- [Baroness Ligia Vallakovich]({{< ref "/npcs/baroness-ligia-vallakovich" >}}) — his wife
+- [Baroness Lydia Petrovna]({{< ref "/npcs/lydia-petrovna" >}}) — his wife
 - Vallaki — the town under his rule
 
 ## Key Events
