@@ -26,7 +26,7 @@ The archetype pre-fills all relevant front matter fields.
 ```powershell
 hugo new content locations/my-location.md
 hugo new content npcs/my-npc.md
-hugo new content monsters/my-monster.md
+hugo new content creatures/my-creature.md
 hugo new content lore/my-lore-entry.md
 hugo new content sessions/session-01.md
 hugo new content players/my-character.md
@@ -40,7 +40,7 @@ Remove `draft: true` from the front matter (or pass `--buildDrafts`) when a page
 |---------|------|---------|
 | Locations | `content/locations/` | Places, landmarks, regions |
 | NPCs | `content/npcs/` | Non-player characters |
-| Monsters | `content/monsters/` | Creatures & encounters |
+| Creatures | `content/creatures/` | Creatures & encounters |
 | Lore | `content/lore/` | History, factions, religion |
 | Sessions | `content/sessions/` | Session recaps |
 | Players | `content/players/` | Player characters |

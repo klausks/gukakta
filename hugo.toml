@@ -38,8 +38,8 @@ summarylength = 30
     url = "/npcs/"
     weight = 3
   [[menu.main]]
-    name = "Monsters"
-    url = "/monsters/"
+    name = "Creatures"
+    url = "/creatures/"
     weight = 4
   [[menu.main]]
     name = "Lore"

@@ -79,7 +79,7 @@ Outside the house, the party met two children — [Rosalva]({{< ref "/npcs/rosal
 - The party reached the door to the monster's chamber and debated strategy before entering.
 
 ### Session 7 - The Final Battle & The Curse Lifted
-- The party defeated [The Durst Monster]({{< ref "/monsters/durst-monster" >}}).
+- The party defeated [The Durst Monster]({{< ref "/creatures/durst-monster" >}}).
 - With the monster vanquished and all family bodies properly buried, the haunted magic binding the house dissipated entirely.
 - The oppressive fog surrounding the [Durst House]({{< ref "/locations/durst-house" >}}) lifted, revealing a clear path to the [Village of Barovia]({{< ref "/locations/village-of-barovia" >}}).
 - The party emerged from the house exhausted but victorious.

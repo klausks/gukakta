@@ -57,7 +57,7 @@ Before entering the monster's chamber, the party entered into strategic delibera
 
 ## Loose Threads
 
-- What is the exact nature and appearance of [The Durst Monster]({{< ref "/monsters/durst-monster" >}})?
+- What is the exact nature and appearance of [The Durst Monster]({{< ref "/creatures/durst-monster" >}})?
 - Will the music box have a calming effect on the monster?
 - Where is [Walter Durst's]({{< ref "/npcs/walter-durst" >}}) body located?
 - What does the yellow leather-bound book contain?

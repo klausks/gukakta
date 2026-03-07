@@ -10,12 +10,12 @@ players_present: ["Jimmy Slit", "Pepino Falstaff", "Monel", "Agares"]
 
 ## Summary
 
-The party achieved victory over [The Durst Monster]({{< ref "/monsters/durst-monster" >}}). With the creature vanquished and all family bodies properly buried, the haunted magic infusing the [Durst House]({{< ref "/locations/durst-house" >}}) dissipated utterly. The oppressive fog that had surrounded the house lifted. Exhausted and disoriented, the party emerged into the [Village of Barovia]({{< ref "/locations/village-of-barovia" >}}), discovering a settlement of decadent, shuttered buildings. They obtained food, lodging, and rest for the night, with a mysterious benefactor paying for their stay. The party reached **Level 3**.
+The party achieved victory over [The Durst Monster]({{< ref "/creatures/durst-monster" >}}). With the creature vanquished and all family bodies properly buried, the haunted magic infusing the [Durst House]({{< ref "/locations/durst-house" >}}) dissipated utterly. The oppressive fog that had surrounded the house lifted. Exhausted and disoriented, the party emerged into the [Village of Barovia]({{< ref "/locations/village-of-barovia" >}}), discovering a settlement of decadent, shuttered buildings. They obtained food, lodging, and rest for the night, with a mysterious benefactor paying for their stay. The party reached **Level 3**.
 
 ## Events
 
 ### The Final Battle
-The party engaged [The Durst Monster]({{< ref "/monsters/durst-monster" >}}) in direct combat and emerged victorious.
+The party engaged [The Durst Monster]({{< ref "/creatures/durst-monster" >}}) in direct combat and emerged victorious.
 
 ### The Curse Lifted
 With the monster defeated and all the Durst family bodies properly buried in their respective tombs, the haunted magic binding the [Durst House]({{< ref "/locations/durst-house" >}}) dissipated. The oppressive fog surrounding the house lifted, revealing a path to the outside world.
@@ -49,7 +49,7 @@ The party chose to accept the offer of lodging and rest after their harrowing or
 
 ## Rewards
 
-- Victory and experience for defeating [The Durst Monster]({{< ref "/monsters/durst-monster" >}})
+- Victory and experience for defeating [The Durst Monster]({{< ref "/creatures/durst-monster" >}})
 - **Level Up:** All party members reached **Level 3**
 - Health restoration from the exceptional pie consumed by [Monel]({{< ref "/players/monel" >}})
 - Full lodging and supplies provided by mysterious benefactor
