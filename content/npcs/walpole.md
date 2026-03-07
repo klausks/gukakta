@@ -5,7 +5,7 @@ date: 2026-03-07
 draft: false
 tags: ["npc", "vallaki"]
 summary_box: |
-  **Location:** Unknown  
+  **Location:** [Vallaki]({{< ref "/locations/vallaki" >}}) (St. Andral's Church)  
   **Role:** Contact (unclear)  
   **Status:** Unknown  
   **Relationship:** Unknown
@@ -32,3 +32,6 @@ Unknown.
 
 ### Session 29
 The revealed message instructed the party to present Ireena to Walpole. Ireena recognized the name and believed Walpole might be trustworthy. Appears in [Session 29]({{< ref "/sessions/session-29" >}}).
+
+### Session 31
+Found at St. Andral's Church in Vallaki. Recognized Ireena and promised a reward for escorting her safely to Vallaki, then led the party to his home to discuss terms. Appears in [Session 31]({{< ref "/sessions/session-31" >}}).

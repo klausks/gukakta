@@ -32,3 +32,6 @@ Unknown.
 
 ### Session 29
 Hosted the party at the Blue Water Inn. Warned them not to speak with the Burgomaster without dressing well, and explained Vallaki has many specialized merchants (including a noble tailor, a barber, and a smithy called "Wahlem's Hammer"). Mentioned a church devoted to the "Lord of the Morning" and said her husband wanted to meet the party privately that night. Appears in [Session 29]({{< ref "/sessions/session-29" >}}).
+
+### Session 31
+Worked through a lively night at the Blue Water Inn while the party observed nobles drinking and playing dice. The party noted she was overwhelmed with work. Appears in [Session 31]({{< ref "/sessions/session-31" >}}).

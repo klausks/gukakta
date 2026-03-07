@@ -44,6 +44,8 @@ An inn in Vallaki's commercial district. The party stayed here shortly after ent
 ### St. Andral's Church
 Home to the bones of St. Andral — a powerful holy relic. Someone has stolen them.
 
+The party later visited the church to find Walpole.
+
 ### Wachterhaus
 
 ### Blinsky's Toy Shop
@@ -61,11 +63,14 @@ Local rumors in the area suggest a drunk named [Blut]({{< ref "/npcs/blut" >}}) 
 Businesses and craftspeople noted in Vallaki's commercial district:
 
 - [Frederik]({{< ref "/npcs/frederik" >}}) — tailor (noble clothing)
+- [Mr. Urko]({{< ref "/npcs/mr-urko" >}}) — barber
 - [Weiland]({{< ref "/npcs/weiland" >}}) — forge focused on weapons
 - [Anya]({{< ref "/npcs/anya" >}}) — herbalist
 - [Androm]({{< ref "/npcs/androm" >}}) — bookshop
 - [Scran Ragnar]({{< ref "/npcs/scran-ragnar" >}}) — retired hunter selling leather goods
 - [Konik Halflinger]({{< ref "/npcs/konik-halflinger" >}}) — wagons and woodcraft
+
+Wine shortages in town have been linked (by Urwin) to issues at the [Wizard of Wines Winery]({{< ref "/locations/wizard-of-wines-winery" >}}).
 
 ## Key NPCs
 
@@ -101,3 +106,12 @@ Leads a powerful, politically ambitious family in Vallaki.
 
 ### [Andreja]({{< ref "/npcs/andreja" >}})
 A noblewoman met at Frederik's tailor shop who invited Agares to meet Fiona Wachter the next day.
+
+### [Nikolai]({{< ref "/npcs/nikolai" >}})
+A noble encountered at the Blue Water Inn.
+
+### [Mr. Ernst]({{< ref "/npcs/mr-ernst" >}})
+A well-dressed man seen at the Blue Water Inn.
+
+### [Milivoj]({{< ref "/npcs/milivoj" >}})
+A young grave digger encountered in Vallaki's cemetery.

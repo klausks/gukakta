@@ -32,3 +32,6 @@ Unknown.
 
 ### Session 29
 Recommended as a barber to the party. Appears in [Session 29]({{< ref "/sessions/session-29" >}}).
+
+### Session 31
+Gave Jimmy a fresh haircut and beard trim. Commented that his son is ambitious, warned that the forest can drive a man mad, and advised the party to respect the Baron. Asked for only 1 sp for his work, but Jimmy paid 2 sp; Urko was grateful. Appears in [Session 31]({{< ref "/sessions/session-31" >}}).

@@ -50,3 +50,6 @@ Received two visions from [Madame Iva]({{< ref "/npcs/madame-iva" >}}) on the ro
 
 ### Session 29
 Connected to his hat while resting at the Blue Water Inn and heard whispered words promising: "I'm close... I'm going to deliver the sword to you." When he asked if the speaker was in town, the voice claimed it was nearby at a camp outside Vallaki. Appears in [Session 29]({{< ref "/sessions/session-29" >}}).
+
+### Session 31
+Socialized with nobles at the Blue Water Inn and joined a dice game during a tavern celebration. Worked with the party to coordinate a shared story for navigating Vallaki's politics and later met privately with Urwin, who requested help restoring wine deliveries from the Wizard of Wines Winery. Appears in [Session 31]({{< ref "/sessions/session-31" >}}).

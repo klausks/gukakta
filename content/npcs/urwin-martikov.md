@@ -32,3 +32,6 @@ Unknown.
 
 ### Session 29
 Danika said Urwin wanted to meet the party privately that night. Appears in [Session 29]({{< ref "/sessions/session-29" >}}).
+
+### Session 31
+Met the party privately at the Blue Water Inn and asked them to investigate why wine deliveries from the Wizard of Wines Winery have been failing for weeks. Suggested druids and corrupted creatures may be involved, possibly under Strahd's influence. Appears in [Session 31]({{< ref "/sessions/session-31" >}}).
