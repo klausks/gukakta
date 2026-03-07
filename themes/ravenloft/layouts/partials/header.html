@@ -19,17 +19,7 @@
         {{- end }}
       </ul>
     </nav>
-    <form class="header-search" role="search" action="{{ "search/" | absURL }}" method="get">
-      <input
-        class="header-search__input"
-        type="search"
-        name="q"
-        placeholder="Search…"
-        aria-label="Search wiki"
-        autocomplete="off"
-      />
-      <button class="header-search__btn" type="submit" aria-label="Submit search">⚲</button>
-    </form>
+    <a href="{{ "search/" | absURL }}" class="header-search-btn" aria-label="Search wiki">⚲</a>
   </div>
 </header>
 
