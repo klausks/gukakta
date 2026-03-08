@@ -8,13 +8,11 @@ tags: ["location"]
 
 ## Overview
 
-Krezk is a place in Barovia referenced as the destination of a mission the party is planning.
-
-During the Martikov camp briefing, the party is warned that Krezk is no longer welcoming to outsiders.
+Krezk is a walled settlement in Barovia. It was once welcoming to outsiders but has become closed-off and suspicious toward strangers. Its residents are notably secretive, particularly regarding the [Abbey of Saint Markovia]({{< ref "/locations/abbey-of-saint-markovia" >}}) located there.
 
 ## Notable Locations
 
-Unknown.
+- [Abbey of Saint Markovia]({{< ref "/locations/abbey-of-saint-markovia" >}}) — presided over by an abbot who does not age; crows do not land on its grounds; suspected by [Walpole]({{< ref "/npcs/walpole" >}}) to be a fallen angel
 
 ## Key NPCs
 
@@ -27,3 +25,6 @@ Jimmy discusses the mission to Krezk while the party plans next steps in Vallaki
 
 ### Session 44
 Adrian warns that Krezk has stopped helping and has become strict and suspicious toward strangers. Appears in [Session 44]({{< ref "/sessions/session-44" >}}).
+
+### Session 50 (referenced)
+The party asked Walpole about the Abbey of Saint Markovia in Krezk. He described Krezk residents as very secretive about the abbey when outside the village. Referenced in [Session 50]({{< ref "/sessions/session-50" >}}).

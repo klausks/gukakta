@@ -35,3 +35,6 @@ Spoke with [Monel]({{< ref "/players/monel" >}}) about books in Vallaki. Monel l
 
 ### Session 48
 Knocked on the door of the party's room at the Blue Water Inn and asked how the mission had gone. Monel deflected, saying the group had been separated and needed to debrief among themselves. Ernst accepted this and left. He appeared noticeably more inebriated than in prior encounters. Appears in [Session 48]({{< ref "/sessions/session-48" >}}).
+
+### Session 50
+A Vistani made contact with Ernst, informing him they had something to deliver to [Monel]({{< ref "/players/monel" >}}). In the same exchange, Monel lent Ernst her copy of Von Richten's book. Appears in [Session 50]({{< ref "/sessions/session-50" >}}).
