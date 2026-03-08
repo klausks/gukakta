@@ -18,7 +18,11 @@ He suspects druids and corrupted creatures may be involved, possibly under the i
 
 ## Notable Locations
 
-Unknown.
+- **Main entrance** — large front entry.
+- **Stable** — has a door, but no known entry route.
+- **Storage room** — has a door, but no known entry route.
+- **East-side door** — described as being near poles.
+- **South-side door** — described as being on the lowest floor.
 
 ## Key NPCs
 
@@ -41,3 +45,6 @@ On the approach to the winery bridge, the party finds a stone inscription in Pri
 
 ### Session 43
 On the way to the winery, the party is guided from Uncle Billy’s Orchard to a hidden camp and meets Davian Martikov’s group. Appears in [Session 43]({{< ref "/sessions/session-43" >}}).
+
+### Session 44
+At the hidden camp, Adrian briefs the party: the winery is overrun by plant creatures (including vine blights) and forest humanoids. He also claims that a group carrying a [green gem]({{< ref "/lore/three-gems" >}}) and a staff came from the Berez swamp and may have ties to Baba Lysaga, and asks the party to capture at least one of the green-gem carriers for interrogation. The camp shares reconnaissance notes about entrances/exits and plans to use Isha for an aerial sweep to help the party approach quietly. Appears in [Session 44]({{< ref "/sessions/session-44" >}}).

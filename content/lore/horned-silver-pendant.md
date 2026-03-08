@@ -13,6 +13,9 @@ Unknown.
 
 The party saw mercenaries wearing necklaces featuring a **silver horned-creature symbol** set with a **gemstone**.
 
+Later, Adrian claims the mercenaries may belong to the "Lords of the Silver Dragon," reinforcing the theory that the pendant is a group marker rather than simple ornament.
+
 ## References
 
 - [Session 42]({{< ref "/sessions/session-42" >}})
+- [Session 44]({{< ref "/sessions/session-44" >}})

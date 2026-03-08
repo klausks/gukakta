@@ -41,3 +41,6 @@ Gave the party more details about the [Wizard of Wines Winery]({{< ref "/locatio
 
 ### Session 34
 Met the party after breakfast, provided directions to the winery, and gave them 100 gp. Warned them not to use anything involving fire at the winery. Appears in [Session 34]({{< ref "/sessions/session-34" >}}).
+
+### Session 44
+Through Davian’s camp, Urwin’s family expands the winery mission with new intelligence and offers a larger reward tied to their spy network. Appears in [Session 44]({{< ref "/sessions/session-44" >}}).

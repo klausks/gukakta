@@ -24,3 +24,6 @@ A named orchard the party reached while traveling toward the Wizard of Wines Win
 
 ### Session 43
 The party arrives at the orchard, is signaled to follow a guide to a hidden camp, and meets Davian Martikov’s group. Appears in [Session 43]({{< ref "/sessions/session-43" >}}).
+
+### Session 44
+The hidden camp hosts the party and delivers a detailed briefing about threats at the Wizard of Wines Winery and the Martikovs’ spy network. Appears in [Session 44]({{< ref "/sessions/session-44" >}}).

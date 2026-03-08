@@ -11,7 +11,7 @@ summary_box: |
 
 ## Overview
 
-A group of mercenaries traveling by wagon along the [Svalich Road]({{< ref "/locations/svalich-road" >}}). Their armor is described as Vallakian in style and they carry horned silver pendant, possibly aluding to a dragon.
+A group of mercenaries traveling by wagon along the [Svalich Road]({{< ref "/locations/svalich-road" >}}). Their armor is described as Vallakian in style and they carry a horned silver pendant, possibly alluding to a dragon.
 
 ## Personality
 
@@ -29,3 +29,6 @@ Unknown.
 
 ### Session 42
 Seen on the road finishing off creatures similar to those the party fought. Appears in [Session 42]({{< ref "/sessions/session-42" >}}).
+
+### Session 44
+Adrian claims the mercenaries may belong to the [Lords of the Silver Dragon]({{< ref "/lore/lords-of-the-silver-dragon" >}}), tying their pendants to a named group. Appears in [Session 44]({{< ref "/sessions/session-44" >}}).

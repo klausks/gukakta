@@ -73,3 +73,6 @@ Helped plan an interrogation of Majesto under truth magic while attempting to ke
 
 ### Session 40
 Stopped investigating Wachterhaus after Agares heard Halik’s whispered warning. In the morning, household staff were gathered in the guest quarters with Igga before the party left Vallaki. Appears in [Session 40]({{< ref "/sessions/session-40" >}}).
+
+### Session 44
+At the Martikov camp, learns that the ravens are the Martikovs’ spies and that they have a hybrid form (lycanthropy). Appears in [Session 44]({{< ref "/sessions/session-44" >}}).

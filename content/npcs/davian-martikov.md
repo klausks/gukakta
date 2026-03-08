@@ -34,3 +34,6 @@ Urwin offered the party a letter of recommendation to introduce them to Davian r
 
 ### Session 43
 Met the party at a hidden camp near the road to the winery after they arrived at Uncle Billy’s Orchard and introduced themselves in Danika’s name. Appears in [Session 43]({{< ref "/sessions/session-43" >}}).
+
+### Session 44
+At the hidden camp, Davian is present during the serious briefing about the state of the winery and the party’s next steps. Appears in [Session 44]({{< ref "/sessions/session-44" >}}).

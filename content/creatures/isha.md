@@ -24,6 +24,9 @@ Vedas summons a white owl companion and uses it to scout ahead on the road. Appe
 ### Session 43
 While scouting at a fork in the road, Isha helps identify an isolated castle within [Lake Baratok]({{< ref "/locations/lake-baratok" >}}). Appears in [Session 43]({{< ref "/sessions/session-43" >}}).
 
+### Session 44
+Used for an aerial sweep of the winery approach, helping the party attempt a quieter entry. Appears in [Session 44]({{< ref "/sessions/session-44" >}}).
+
 ## Loot / Rewards
 
 None recorded.

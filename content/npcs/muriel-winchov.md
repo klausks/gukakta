@@ -28,3 +28,6 @@ Unknown.
 
 ### Session 43
 Arrived in crow form, transformed into a woman, and told the party that the camp could hear them and that Urwin and Danika had sent them days ago. Appears in [Session 43]({{< ref "/sessions/session-43" >}}).
+
+### Session 44
+Helps support the camp’s briefing by coordinating with ravens and sharing gathered information about the winery. Appears in [Session 44]({{< ref "/sessions/session-44" >}}).

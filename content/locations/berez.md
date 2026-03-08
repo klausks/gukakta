@@ -24,3 +24,6 @@ Unknown.
 
 ### Session 41
 The party finds a crossroads sign on the Svalich Road pointing south toward Berez. Appears in [Session 41]({{< ref "/sessions/session-41" >}}).
+
+### Session 44
+Adrian claims that the group carrying a [green gem]({{< ref "/lore/three-gems" >}}) and a staff came from the Berez swamp and may be connected to Baba Lysaga. Appears in [Session 44]({{< ref "/sessions/session-44" >}}).
