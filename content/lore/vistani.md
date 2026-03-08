@@ -46,7 +46,10 @@ Vistani curses operate under strict laws:
 [Tolmul]({{< ref "/npcs/tolmul" >}}) is a Vistani merchant who operates near Vallaki. He was recommended to the party by [Esdras]({{< ref "/npcs/esdras" >}}) as a source for a better map and proved a reliable trader when the party met him at his camp.
 
 #### Arrigal
-[Arrigal]({{< ref "/npcs/arrigal" >}}) leads the [Vistani camp near Vallaki]({{< ref "/locations/vistani-camp-vallaki" >}}). He has not yet been met by the party but has been identified as a potential source of information on restoring a lost limb.
+[Arrigal]({{< ref "/npcs/arrigal" >}}) leads the [Vistani camp near Vallaki]({{< ref "/locations/vistani-camp-vallaki" >}}). He assisted the party after they recovered his missing niece Arabelle, and shared intelligence about Vallaki, Krezk, and the Abbey of Saint Markovia.
+
+#### Louvash
+[Louvash]({{< ref "/npcs/louvash" >}}) is Arrigal's brother and the father of Arabelle. He resides at the Vistani camp near Vallaki.
 
 ### The Vistani Encampment
 

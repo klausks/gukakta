@@ -32,7 +32,7 @@ Jimmy claims the group is fleeing the Devil; the Baron reacts angrily, then calm
 
 ### A Bard at the Inn
 
-Outside the Blue Water Inn, a man tells a story about once owning a monkey. Inside, Rictavio introduces himself as a neighbor, says the party is being mentioned around town, and repeats that Urwin wants to speak with them. He says Urwin has left them a paid round. Later, Rictavio sings about the "mad mage." See [Mad Mage]({{< ref "/lore/mad-mage" >}}).
+Outside the Blue Water Inn, a man tells a story about once owning a monkey. Inside, Rictavio introduces himself as a neighbor, says the party is being mentioned around town, and repeats that Urwin wants to speak with them. He says Urwin has left them a paid round. Later, Rictavio sings about the "mad mage." See [Mad Mage]({{< ref "/npcs/mad-mage" >}}).
 
 Danika serves the party a generous dinner of wolf meat. The children running through the inn are revealed to be Danika and Urwin's two sons.
 

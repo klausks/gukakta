@@ -115,3 +115,6 @@ For the first time, the constant subliminal sense of being watched was gone. Jim
 
 ### Session 52
 Traveled with [Monel]({{< ref "/players/monel" >}}) to the Vistani camp near Vallaki seeking a solution for his severed right hand. Met [Tolmul]({{< ref "/npcs/tolmul" >}}), a Vistani merchant, and purchased a **retractable armblade** — a weapon fitted in place of the missing hand, restoring his combat capability. Tolmul directed him to [Arrigal]({{< ref "/npcs/arrigal" >}}), the camp leader, as a potential path toward permanent hand restoration. Appears in [Session 52]({{< ref "/sessions/session-52" >}}).
+
+### Session 53
+Returned to the Vistani camp with [Monel]({{< ref "/players/monel" >}}) to meet Arrigal. Helped recover [Arabelle]({{< ref "/npcs/arabelle" >}}), the missing niece of the camp leader, from a fisherman's house at [Lake Zarovich]({{< ref "/locations/lake-zarovich" >}}). As reward, received a detailed regional map. Before departing the Vistani feast early, confirmed through Arrigal that the [Abbey of Saint Markovia]({{< ref "/locations/abbey-of-saint-markovia" >}}) in [Krezk]({{< ref "/locations/krezk" >}}) is the best path toward restoring his severed hand. Appears in [Session 53]({{< ref "/sessions/session-53" >}}).

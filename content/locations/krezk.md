@@ -28,3 +28,6 @@ Adrian warns that Krezk has stopped helping and has become strict and suspicious
 
 ### Session 50 (referenced)
 The party asked Walpole about the Abbey of Saint Markovia in Krezk. He described Krezk residents as very secretive about the abbey when outside the village. Referenced in [Session 50]({{< ref "/sessions/session-50" >}}).
+
+### Session 53 (referenced)
+[Arrigal]({{< ref "/npcs/arrigal" >}}) confirmed the Abbey of Saint Markovia as the best path for restoring [Jimmy Slit]({{< ref "/players/jimmy-slit" >}})'s severed hand. He also described Krezk's burgomaster as considerably saner than Baron Vallakovich, and noted that Krezk and Vallaki maintain a covert relationship primarily to smuggle wine between them. Referenced in [Session 53]({{< ref "/sessions/session-53" >}}).

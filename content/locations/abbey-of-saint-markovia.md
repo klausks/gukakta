@@ -28,3 +28,6 @@ Unknown.
 
 ### Session 50
 The party asked about the abbey while in Vallaki. Rumors confirmed: the abbot does not age and crows do not land at the abbey. [Walpole]({{< ref "/npcs/walpole" >}}) told the party separately that he believes the abbot is a fallen angel, and that Krezk's residents are very secretive about the abbey when encountered outside their village. Appears in [Session 50]({{< ref "/sessions/session-50" >}}).
+
+### Session 53 (referenced)
+[Arrigal]({{< ref "/npcs/arrigal" >}}) confirmed the abbey as the most viable path for restoring [Jimmy Slit]({{< ref "/players/jimmy-slit" >}})'s severed hand. Referenced in [Session 53]({{< ref "/sessions/session-53" >}}).
