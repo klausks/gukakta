@@ -79,3 +79,5 @@ His Forest Master bell began to vibrate, and the Forest Master’s messenger war
 
 ### Session 43
 Examined the magical sword atop Thargrim’s tomb and identified it as at least a +1 weapon. Opened Thargrim’s principal tomb and removed a war horn and magically empowered ribs, experiencing a passing spirit and a protective vision. Appears in [Session 43]({{< ref "/sessions/session-43" >}}).
+### Session 52
+Visited the Vistani camp near Vallaki with [Jimmy Slit]({{< ref "/players/jimmy-slit" >}}). Received the item previously promised to him by [Tolmul]({{< ref "/npcs/tolmul" >}}), as arranged through [Vasili von Holtz]({{< ref "/npcs/vasili-von-holtz" >}}). Traded his armor with Tolmul, purchasing a superior suit and selling his old one. Appears in [Session 52]({{< ref "/sessions/session-52" >}}).

@@ -42,6 +42,12 @@ Vistani curses operate under strict laws:
 #### Durena
 [Durena]({{< ref "/npcs/durena" >}}) is a Vistani at the encampment. She shared information with the party about the wine shortage in Barovia, noting that suppliers are located to the northwest and that the scarcity may be due to excessive Vistani consumption or creatures opposed to drink.
 
+#### Tolmul
+[Tolmul]({{< ref "/npcs/tolmul" >}}) is a Vistani merchant who operates near Vallaki. He was recommended to the party by [Esdras]({{< ref "/npcs/esdras" >}}) as a source for a better map and proved a reliable trader when the party met him at his camp.
+
+#### Arrigal
+[Arrigal]({{< ref "/npcs/arrigal" >}}) leads the [Vistani camp near Vallaki]({{< ref "/locations/vistani-camp-vallaki" >}}). He has not yet been met by the party but has been identified as a potential source of information on restoring a lost limb.
+
 ### The Vistani Encampment
 
 The party's map contains a marked Vistani encampment within [Svalich Forest]({{< ref "/locations/svalich-forest" >}}). According to [Ireena Kolyana]({{< ref "/npcs/ireena-kolyana" >}}), this camp is inhabited by Vistani who wish the party well. The party reached the encampment in [Session 17]({{< ref "/sessions/session-17" >}}), escorted by [Esdras]({{< ref "/npcs/esdras" >}}).
@@ -54,5 +60,7 @@ The party's map contains a marked Vistani encampment within [Svalich Forest]({{<
 - [Esdras]({{< ref "/npcs/esdras" >}}) — Vistani merchant and diplomat
 - [Madame Iva]({{< ref "/npcs/madame-iva" >}}) — Vistani elder with curse-breaking abilities at the encampment
 - [Durena]({{< ref "/npcs/durena" >}}) — Vistani at the encampment; knowledgeable about the wine shortage
+- [Tolmul]({{< ref "/npcs/tolmul" >}}) — Vistani merchant near Vallaki; trading contact
+- [Arrigal]({{< ref "/npcs/arrigal" >}}) — leader of the [Vistani camp near Vallaki]({{< ref "/locations/vistani-camp-vallaki" >}})
 - Vistani encampment reached in [Session 17]({{< ref "/sessions/session-17" >}})
 - First mentioned in [Session 13]({{< ref "/sessions/session-13" >}})
