@@ -42,3 +42,5 @@ Arrived by carriage outside Walpole's home and spoke privately with [Monel]({{< 
 
 ### Session 37
 Provided a pristine platinum ring to the party in exchange for two secrets, then returned Agares' payment. One secret concerned Igga’s past worship of [Lolth]({{< ref "/lore/lolth" >}}) and his scarring imprisonment by [Duergar]({{< ref "/creatures/duergar" >}}); the other confirmed the party had laid the spirits of [Durst House]({{< ref "/locations/durst-house" >}}) to rest. Appears in [Session 37]({{< ref "/sessions/session-37" >}}).
+### Session 48
+Spotted [Monel]({{< ref "/players/monel" >}}) and [Igga Bevneros]({{< ref "/players/igga-bevneros" >}}) exiting a carriage near Vallaki after their visit to Castle Ravenloft. Acknowledged them with a theatrical bow — as if taking a bow at the end of a stage performance — then disappeared. How he knew of their movements is unknown. Appears in [Session 48]({{< ref "/sessions/session-48" >}}).

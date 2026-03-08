@@ -71,3 +71,5 @@ Reunited with [Walpole]({{< ref "/npcs/walpole" >}}) and decided she would not s
 
 ### Session 36
 Held Agares’s mace while he stayed overnight at Wachterhaus. Appears in [Session 36]({{< ref "/sessions/session-36" >}}).
+### Session 48 (referenced)
+[Urwin Martikov]({{< ref "/npcs/urwin-martikov" >}}) informed the party that Ireena left the [Blue Water Inn]({{< ref "/locations/vallaki" >}}) the day after the party departed for the winery mission. Her current whereabouts are unknown. Urwin also mentioned that [Izek]({{< ref "/npcs/izek" >}}) had come to the inn asking whether a redheaded woman was staying there. Referenced in [Session 48]({{< ref "/sessions/session-48" >}}).

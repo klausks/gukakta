@@ -44,3 +44,5 @@ Met the party after breakfast, provided directions to the winery, and gave them 
 
 ### Session 44
 Through Davian’s camp, Urwin’s family expands the winery mission with new intelligence and offers a larger reward tied to their spy network. Appears in [Session 44]({{< ref "/sessions/session-44" >}}).
+### Session 48
+Informed the party upon their return to the Blue Water Inn that [Ireena Kolyana]({{< ref "/npcs/ireena-kolyana" >}}) had left the inn the day after the party departed for the winery. Also relayed that [Izek]({{< ref "/npcs/izek" >}}) had at some point come to the inn asking whether there was a redheaded woman staying there. Appears in [Session 48]({{< ref "/sessions/session-48" >}}).

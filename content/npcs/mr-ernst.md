@@ -32,3 +32,6 @@ Observed at the Blue Water Inn, seated with a firm posture. Later seen outside r
 
 ### Session 33
 Spoke with [Monel]({{< ref "/players/monel" >}}) about books in Vallaki. Monel learned there is no library in town—only book sales—and asked Ernst for support finding information about monsters and creatures in the region. Appears in [Session 33]({{< ref "/sessions/session-33" >}}).
+
+### Session 48
+Knocked on the door of the party's room at the Blue Water Inn and asked how the mission had gone. Monel deflected, saying the group had been separated and needed to debrief among themselves. Ernst accepted this and left. He appeared noticeably more inebriated than in prior encounters. Appears in [Session 48]({{< ref "/sessions/session-48" >}}).

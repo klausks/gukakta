@@ -54,3 +54,5 @@ Hosted Igga and Agares at Wachterhaus, presented Stella to the party, and ended 
 
 ### Session 39
 During the party’s attempts to interrogate Majesto under truth magic, Fiona’s connection to the fiend is exposed: the creature is a familiar tied to her household, a fact she and Halik had hidden for political reasons. Appears in [Session 39]({{< ref "/sessions/session-39" >}}).
+### Session 48 (referenced)
+[Viktor Vallakovich]({{< ref "/npcs/viktor-vallakovich" >}}) told the party that he **hates Fiona Wachter** and accused her of **practicing necromancy** and maintaining a **cult in the basement of her home**. Referenced in [Session 48]({{< ref "/sessions/session-48" >}}).
