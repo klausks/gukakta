@@ -36,12 +36,14 @@ The party, exploring the basement of the winery, heard a magical conversation in
 
 When the party called out to Swigas, a response came: *"THE BOOK!"* 
 
-Swigas was then silenced, and a portal opened. The full circumstances of Swigas' fate remain unknown. Appears in [Session 45]({{< ref "/sessions/session-45" >}})
+Swigas was then silenced, and a portal opened. The full circumstances of Swigas' fate remain unknown. Appears in [Session 45]({{< ref "/sessions/session-45" >}}).
+
+### Session 46
+
+Brought to the dining hall at [Castle Ravenloft]({{< ref "/locations/castle-ravenloft" >}}) by Rahadin when Igga asked to see her. She appeared healthy and indicated she was doing fine. When the party mentioned they had no clock, Swigas offered them her pocket watch — and was immediately slapped on the hand by Rahadin. Her current status and freedom of movement remain unclear. Appears in [Session 46]({{< ref "/sessions/session-46" >}}).
 
 ## Mysteries
 
 - What is the identity of Swigas (race, occupation, origin)?
 - What book are they being forced to find?
-- Who is holding Swigas captive, and for what purpose?
 - What is Swigas' relationship to the Martikovs or the winery conflict?
-- Is Swigas still alive and imprisoned, or did they escape through the portal?

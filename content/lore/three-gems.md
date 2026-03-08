@@ -18,6 +18,7 @@ In [Session 44]({{< ref "/sessions/session-44" >}}), [Adrian Martikov]({{< ref "
 - As of [Session 44]({{< ref "/sessions/session-44" >}}), it was said to be in the hands of **two wild women** and **a bearded man** carrying a **staff**.
 - Adrian claims the gem-bearers **came from the swamp at Berez**. See: [Berez]({{< ref "/locations/berez" >}}).
 - The staff is described as a priority objective, and taking it would be a significant affront to [Baba Lysaga]({{< ref "/npcs/baba-lysaga" >}}).
+- [Strahd von Zarovich]({{< ref "/npcs/strahd-von-zarovich" >}}) has requested the party deliver the green gem to him. He claims it is needed to **resurrect his mother**, who died in an accident. The party sensed he was telling the truth when he said this.
 
 ## Significance
 

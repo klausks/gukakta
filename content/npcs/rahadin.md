@@ -1,61 +1,37 @@
 ---
 title: "Rahadin"
-subtitle: "A voice heard in the basement of the Wizard of Wines Winery"
+subtitle: "Trusted attendant of Strahd von Zarovich"
 date: 2026-03-08
 draft: false
-tags: ["npc", "mystery", "wizard-of-wines-winery"]
+tags: ["npc", "castle-ravenloft", "strahd"]
 summary_box: |
-  **Status:** Unknown
-  **Location:** [Wizard of Wines Winery]({{< ref "/locations/wizard-of-wines-winery" >}}) (or beyond portal)
-  **Known Activity:** Intercepting or monitoring communications with Swigas
+  **Status:** Active
+  **Location:** [Castle Ravenloft]({{< ref "/locations/castle-ravenloft" >}})
+  **Role:** Trusted attendant of [Strahd von Zarovich]({{< ref "/npcs/strahd-von-zarovich" >}})
 ---
 
 ## Overview
 
-Rahadin is a mysterious figure whose voice was heard in a magical conversation in the basement of the [Wizard of Wines Winery]({{< ref "/locations/wizard-of-wines-winery" >}}). The party intercepted what appeared to be a magical transmission in which Rahadin attempted to stop or interrupt a communication with Swigas. The context suggests Rahadin holds some authority or control over operations at the winery.
+Rahadin is a trusted confidant and attendant of [Strahd von Zarovich]({{< ref "/npcs/strahd-von-zarovich" >}}), based at [Castle Ravenloft]({{< ref "/locations/castle-ravenloft" >}}). He first appeared as a voice overheard in a magical conversation at the [Wizard of Wines Winery]({{< ref "/locations/wizard-of-wines-winery" >}}), and was later seen in person at Ravenloft escorting [Swigas]({{< ref "/npcs/swigas" >}}). He is strict and maintains control over Swigas, having slapped her when she offered the party her pocket watch without permission.
 
 ## Personality
 
-Unknown. The only recorded utterances are:
-
-> "Wait!"
->
-> "Yes, Rahadin?"
->
-> "Come back, come back now."
-
-These phrases suggest someone attempting to call back or retrieve another person or being, implying authority or concern.
+Controlling and loyal to Strahd. Enforces rules and boundaries around those in his charge without hesitation.
 
 ## Goals and Motivations
 
-Unknown. The context suggests Rahadin may be:
-- An overseer or keeper of Swigas
-- A superior or authority figure within the winery's hostile forces
-- Someone attempting to maintain operational security in the winery
+To serve Strahd and maintain order and compliance among those under Strahd's oversight.
 
 ## Connections
 
-- **[Swigas]({{< ref "/npcs/swigas" >}})** — appears to be communicating with or overseeing Swigas
-- [Wizard of Wines Winery]({{< ref "/locations/wizard-of-wines-winery" >}}) — location of activity
-- **The mysterious lord mentioned in Swigas' orders** — possibly connected
+- [Strahd von Zarovich]({{< ref "/npcs/strahd-von-zarovich" >}}) — lord and master
+- [Swigas]({{< ref "/npcs/swigas" >}}) — under his direct supervision
+- [Castle Ravenloft]({{< ref "/locations/castle-ravenloft" >}}) — base of operations
 
 ## Key Events
 
 ### Session 45
+The party overheard Rahadin's voice in a magical conversation at the winery basement, attempting to call Swigas back from her search. Appears in [Session 45]({{< ref "/sessions/session-45" >}}).
 
-The party overheard a magical conversation in which a voice (Rahadin) attempted to interrupt or recall Swigas from their search. The exchange included:
-
-> "Wait!"
->
-> "Yes, Rahadin?"
->
-> "Come back, come back now."
-
-This was followed by Swigas' frantic response: "THE BOOK!" before being silenced. Appears in [Session 45]({{< ref "/sessions/session-45" >}}).
-
-## Mysteries
-
-- What is Rahadin's true identity and role?
-- What is Rahadin's connection to the druid, the forest humanoids, or the portal?
-- What authority or control does Rahadin have over Swigas and the winery operations?
-- Is Rahadin connected to the magical forces backing the Martikovs' enemies?
+### Session 46
+Appeared in person at Castle Ravenloft, escorting Swigas when Strahd summoned her at Igga's request. Slapped Swigas' hand when she offered the party her pocket watch. Confirmed as Strahd's trusted attendant. Appears in [Session 46]({{< ref "/sessions/session-46" >}}).
