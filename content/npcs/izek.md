@@ -1,5 +1,5 @@
 ---
-title: "Izek"
+title: "Izek Stravni"
 subtitle: "Enforcer of Vallaki"
 date: 2026-03-07
 draft: false
@@ -41,3 +41,6 @@ Guards said Izek (referred to as "Isac") wanted the party to choose a group name
 
 ### Session 33
 Escorted [Jimmy Slit]({{< ref "/players/jimmy-slit" >}}) under a black hood and struck him with his unnatural red arm, a blow described as burning more than normal. Later told Jimmy that the Baron is a blessing to Vallaki and suggested cruelty is necessary to maintain control. Jimmy also observed Izek carrying a brightly polished silver battleaxe and that Izek treated him as a "special" prisoner (including food and water). Appears in [Session 33]({{< ref "/sessions/session-33" >}}).
+
+### Session 49 (referenced)
+Urwin Martikov told the party that Izek had passed through the Blue Water Inn asking about a redheaded woman — which Urwin considered unusual behavior. Urwin also revealed that Izek appears to have a romantic interest in the noble [Rosemary]({{< ref "/npcs/rosemary" >}}), though the feeling is not returned. Separately, [Ireena Kolyana]({{< ref "/npcs/ireena-kolyana" >}}) described recurring visions of enormous arms wreathed in flames towering over her; Father Lucian noted that Izek is known to project fire from his demonic arm. Referenced in [Session 49]({{< ref "/sessions/session-49" >}}).

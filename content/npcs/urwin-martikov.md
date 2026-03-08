@@ -27,6 +27,7 @@ Unknown.
 ## Connections
 
 - [Danika Martikov]({{< ref "/npcs/danika-martikov" >}}) — his wife
+- [Kiki]({{< ref "/npcs/kiki" >}}) — crow given to the party as a communication link to the Martikov spy network
 
 ## Key Events
 
@@ -45,4 +46,7 @@ Met the party after breakfast, provided directions to the winery, and gave them 
 ### Session 44
 Through Davian’s camp, Urwin’s family expands the winery mission with new intelligence and offers a larger reward tied to their spy network. Appears in [Session 44]({{< ref "/sessions/session-44" >}}).
 ### Session 48
-Informed the party upon their return to the Blue Water Inn that [Ireena Kolyana]({{< ref "/npcs/ireena-kolyana" >}}) had left the inn the day after the party departed for the winery. Also relayed that [Izek]({{< ref "/npcs/izek" >}}) had at some point come to the inn asking whether there was a redheaded woman staying there. Appears in [Session 48]({{< ref "/sessions/session-48" >}}).
+Informed the party upon their return to the Blue Water Inn that [Ireena Kolyana]({{< ref "/npcs/ireena-kolyana" >}}) had left the inn the day after the party departed for the winery. Also relayed that [Ismark]({{< ref "/npcs/ismark" >}}) had at some point come to the inn asking whether there was a redheaded woman staying there. Appears in [Session 48]({{< ref "/sessions/session-48" >}}).
+
+### Session 49
+Delivered the rewards from the winery mission: two bottles of Champagne Du le Stomp and the staff the party had left behind. Confirmed the party's understanding of Vallaki's politics. Mentioned that [Izek]({{< ref "/npcs/izek" >}}) had passed through the inn asking about a redheaded woman — which Urwin found unusual — and that Izek appears romantically interested in [Rosemary]({{< ref "/npcs/rosemary" >}}), though the feeling is not returned. After Agares stated the party's goal of defeating Strahd and all his allies, Urwin appeared moved but unsettled. Gave the party a trained crow — [Kiki]({{< ref "/npcs/kiki" >}}) — as a communication and distress tool and explained that Martikovs must consciously focus on a crow to see through it, and do not do so passively. Also mentioned that Fiona Wachter had once told him at a dinner that she would *"rather trust the devil than the baron"*, which he interpreted as a test of his political loyalties. Described the upcoming Vallaki festival: theatrical performances, children both laughing and terrified, public humiliations of prisoners in crates, dances, and a speech from the Baron. Appears in [Session 49]({{< ref "/sessions/session-49" >}}).

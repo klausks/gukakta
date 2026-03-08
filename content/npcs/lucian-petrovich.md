@@ -39,3 +39,5 @@ Spoke with Jimmy at St. Andral’s Church about the demon situation. Jimmy learn
 
 ### Session 39
 Jimmy undertook a private test connected to the hidden crypt beneath St. Andral’s Church, involving a crystal, a phrase of release, and prayer. Appears in [Session 39]({{< ref "/sessions/session-39" >}}).
+### Session 49
+Confirmed to Monel and Agares that [Ireena Kolyana]({{< ref "/npcs/ireena-kolyana" >}}) had been sheltering at [St. Andral's Church]({{< ref "/locations/st-andrals-church" >}}) and spends her days praying in the crypt of Saint Andral. Was present when Ireena described her visions of enormous flaming arms, and noted that [Izek]({{< ref "/npcs/izek" >}}) is known to project fire from his demonic arm. Reminded the party about the Saint Andral feast and mentioned that his sister, [Lydia Petrovna]({{< ref "/npcs/lydia-petrovna" >}}), is married to the Baron, which facilitates holding the feast on the same day as Vallaki's festival. Appears in [Session 49]({{< ref "/sessions/session-49" >}}).

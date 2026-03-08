@@ -33,3 +33,5 @@ Unknown.
 
 ### Session 37
 Met the party at Frederik’s shop; showed curiosity about Agares’ magic and pointed them toward Vasili for rings. Appears in [Session 37]({{< ref "/sessions/session-37" >}}).
+### Session 49 (referenced)
+[Urwin Martikov]({{< ref "/npcs/urwin-martikov" >}}) told the party that [Izek]({{< ref "/npcs/izek" >}}) appears to have a romantic interest in Rosemary, though the feeling is not returned. Referenced in [Session 49]({{< ref "/sessions/session-49" >}}).

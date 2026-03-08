@@ -14,15 +14,17 @@ summary_box: |
 
 ## Overview
 
-Fiona Wachter, known as Madame Wachter, is a noble figure in Vallaki. Andreja arranged an introduction between her and Agares.
+Fiona Wachter, known as Madame Wachter, is a powerful noble figure in Vallaki and head of the Wachter family. She presents herself as a stern, pragmatic matriarch focused on protecting her children and keeping Vallaki safe. She is a staunch political opponent of [Baron Vargas Vallakovich]({{< ref "/npcs/baron-vallakovich" >}}) and maintains an extensive spy network across the city, including detailed knowledge of [Izek]({{< ref "/npcs/izek" >}})'s daily routine. She possesses a fiendish familiar known as Majesto, whose existence she had concealed from the party for political reasons until it was exposed under truth magic. [Viktor Vallakovich]({{< ref "/npcs/viktor-vallakovich" >}}) has accused her of practicing necromancy and maintaining a cult in the basement of Wachterhaus; rumors of strange gatherings at her manor also circulate in Vallaki.
 
 ## Personality
 
-Unknown.
+Ruthless and calculating beneath an air of composed authority. She presents herself as a protective matriarch but holds a cynical, unsentimental view of politics and betrayal. Confident and well-informed; claims eyes across the entire city. Willing to test potential allies' loyalties before revealing her true intentions — she once told Urwin Martikov at a dinner that she would *"rather trust the devil than the baron,"* which he interpreted as a political probe.
 
 ## Goals and Motivations
 
-Unknown.
+- Oppose and undermine Baron Vallakovich's rule
+- Protect her family and consolidate the Wachter family's influence in Vallaki
+- Build alliances against the Baron — appears willing to consider unorthodox partnerships to achieve this
 
 ## Connections
 
@@ -34,6 +36,7 @@ Unknown.
 - [Stella Wachter]({{< ref "/npcs/stella-wachter" >}}) — daughter
 - [Halik]({{< ref "/npcs/halik" >}}) — butler
 - [Baron Vargas Vallakovich]({{< ref "/npcs/baron-vallakovich" >}}) — political opponent
+- [Invisible Fiend]({{< ref "/creatures/invisible-fiend" >}}) — fiendish familiar known as Majesto, concealed from the party until exposed
 
 ## Key Events
 
@@ -56,3 +59,6 @@ Hosted Igga and Agares at Wachterhaus, presented Stella to the party, and ended 
 During the party’s attempts to interrogate Majesto under truth magic, Fiona’s connection to the fiend is exposed: the creature is a familiar tied to her household, a fact she and Halik had hidden for political reasons. Appears in [Session 39]({{< ref "/sessions/session-39" >}}).
 ### Session 48 (referenced)
 [Viktor Vallakovich]({{< ref "/npcs/viktor-vallakovich" >}}) told the party that he **hates Fiona Wachter** and accused her of **practicing necromancy** and maintaining a **cult in the basement of her home**. Referenced in [Session 48]({{< ref "/sessions/session-48" >}}).
+
+### Session 49 (referenced)
+[Urwin Martikov]({{< ref "/npcs/urwin-martikov" >}}) told the party that at a dinner she hosted, Fiona said something to the effect of *"I'd rather trust the devil than this baron."* Urwin believed she was testing his political loyalties — possibly to gauge whether he would align with her against the Baron. Referenced in [Session 49]({{< ref "/sessions/session-49" >}}).

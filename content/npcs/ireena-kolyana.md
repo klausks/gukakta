@@ -6,30 +6,34 @@ tags: ["npc", "ally", "key-figure"]
 summary_box: |
   **Race:** Human  
   **Alignment:** Neutral Good  
-  **Location:** Travelling with the party (escaped [Barovia]({{< ref "/locations/village-of-barovia" >}}))  
+  **Location:** [St. Andral's Church]({{< ref "/locations/st-andrals-church" >}}), [Vallaki]({{< ref "/locations/vallaki" >}})  
   **Relationship:** Ward of the party; targeted by [Count Strahd von Zarovich]({{< ref "/npcs/strahd-von-zarovich" >}})  
-  **Status:** Alive (escaping danger)
+  **Status:** Alive (sheltering)
 ---
 
 ## Overview
 
-[Ireena Kolyana]({{< ref "/npcs/ireena-kolyana" >}}) is the daughter of the late Burgomaster of [Barovia]({{< ref "/locations/village-of-barovia" >}}) and the sister of [Ismark]({{< ref "/npcs/ismark" >}}). She is a beautiful, red-haired woman of considerable bearing, skilled enough to wear armor of excellent quality. She is the subject of an obsessive, personal interest from [Count Strahd von Zarovich]({{< ref "/npcs/strahd-von-zarovich" >}}), the vampire lord of the land. Her safety is the primary concern of her brother, who seeks aid from capable allies to protect and escort her to freedom.
+Ireena Kolyana is the daughter of the late Burgomaster of [Barovia]({{< ref "/locations/village-of-barovia" >}}) and the sister of [Ismark]({{< ref "/npcs/ismark" >}}). She is a red-haired woman of considerable bearing, skilled enough to wear armor of excellent quality. She is the subject of an obsessive personal interest from [Count Strahd von Zarovich]({{< ref "/npcs/strahd-von-zarovich" >}}), and has been **enchanted by him** — either cursed so she may never truly wake from sleep, or bound to serve as his remote eyes, ears, and nose. She had direct contact with Strahd as a child, though she retains no clear memories of it. She was adopted, and shares only fragments of her childhood.
+
+Her hair was dyed and her appearance altered before entering Vallaki to conceal her identity. She has been having prophetic dreams — about Vallaki, and about a cycle she believes is linked to other red-haired women before her. She has twice entered hypnotic states apparently triggered by Strahd. She is currently sheltering at [St. Andral's Church]({{< ref "/locations/st-andrals-church" >}}), where she spends her days praying in the crypt of Saint Andral and is experiencing recurring visions of enormous flaming arms towering over her.
 
 ## Personality
 
-Gracious and composed. Despite being the target of a vampire lord's obsession, [Ireena]({{< ref "/npcs/ireena-kolyana" >}}) maintains hospitality and kindness toward those who come to her aid. She is willing to take decisive action to ensure her own survival, as evidenced by her swift acceptance of the escape plan.
+Gracious and composed under pressure. Despite being the target of a vampire lord's obsession and suffering repeated bouts of magical influence, she maintains warmth and decisiveness toward those who aid her. She is perceptive and curious — eager to understand what is happening to her — but also capable of concealing fear and vulnerability behind composure. She arrived at the church on her own initiative, without telling the party.
 
 ## Goals and Motivations
 
-- Escape from [Barovia]({{< ref "/locations/village-of-barovia" >}}) and [Count Strahd's]({{< ref "/npcs/strahd-von-zarovich" >}}) advances
-- Reach safety in [Vallaki]({{< ref "/locations/vallaki" >}}) or beyond
-- Survive the escape with the party's aid
+- Understand and break free from her curse
+- Find lasting safety — she has reached Vallaki but remains clearly in danger
+- Piece together her past, including her adoption and her forgotten childhood contact with Strahd
 
 ## Connections
 
-- [Ismark]({{< ref "/npcs/ismark" >}}) — her brother; protective and determined to ensure her safety
-- [Count Strahd von Zarovich]({{< ref "/npcs/strahd-von-zarovich" >}}) — the vampire lord who has taken a personal interest in her
-- The Party: [Jimmy Slit]({{< ref "/players/jimmy-slit" >}}), [Pepino Falstaff]({{< ref "/players/pepino-falstaff" >}}), [Monel]({{< ref "/players/monel" >}}), [Agares]({{< ref "/players/agares" >}}) — requested to escort her to safety
+- [Ismark]({{< ref "/npcs/ismark" >}}) — her brother; actively searching for her in Vallaki
+- [Count Strahd von Zarovich]({{< ref "/npcs/strahd-von-zarovich" >}}) — the vampire lord who has taken a personal, obsessive interest in her and has enchanted her
+- [Father Lucian Petrovich]({{< ref "/npcs/lucian-petrovich" >}}) — currently sheltering her at St. Andral's Church
+- [Walpole]({{< ref "/npcs/walpole" >}}) — reunited with briefly in Vallaki; chose to remain with the party rather than stay with him
+- The Party: [Jimmy Slit]({{< ref "/players/jimmy-slit" >}}), [Pepino Falstaff]({{< ref "/players/pepino-falstaff" >}}), [Monel]({{< ref "/players/monel" >}}), [Agares]({{< ref "/players/agares" >}}) — her escort and protectors
 
 ## Key Events
 
@@ -73,3 +77,6 @@ Reunited with [Walpole]({{< ref "/npcs/walpole" >}}) and decided she would not s
 Held Agares’s mace while he stayed overnight at Wachterhaus. Appears in [Session 36]({{< ref "/sessions/session-36" >}}).
 ### Session 48 (referenced)
 [Urwin Martikov]({{< ref "/npcs/urwin-martikov" >}}) informed the party that Ireena left the [Blue Water Inn]({{< ref "/locations/vallaki" >}}) the day after the party departed for the winery mission. Her current whereabouts are unknown. Urwin also mentioned that [Izek]({{< ref "/npcs/izek" >}}) had come to the inn asking whether a redheaded woman was staying there. Referenced in [Session 48]({{< ref "/sessions/session-48" >}}).
+
+### Session 49
+Found sheltering at [St. Andral's Church]({{< ref "/locations/st-andrals-church" >}}), where she has been staying since leaving the inn. Spends her days praying in the crypt of Saint Andral. Embraced Monel and Agares when they came looking for her and described feeling strange, though she could not explain why. The party did not tell her that Izek had been asking about redheaded women at the inn. She also described recurring visions: enormous arms — far larger than any single humanoid could possess — that appear to tower over her, wreathed in flames. Father Lucian noted that Izek Stravni is known to project fire from his demonic arm. Appears in [Session 49]({{< ref "/sessions/session-49" >}}).
