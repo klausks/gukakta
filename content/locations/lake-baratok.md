@@ -15,7 +15,7 @@ Lake Baratok is a named landmark in Barovia, mentioned as a place where a troll 
 
 ## Notable Locations
 
-Unknown.
+- [Isolated Castle (Lake Baratok)]({{< ref "/locations/castle-in-lake-baratok" >}}) — a distant castle within the lake, mentioned alongside a rumor of a powerful hermit gone mad.
 
 ## Key NPCs
 
@@ -25,3 +25,6 @@ Unknown.
 
 ### Session 40
 A forest messenger reports a troll has been seen causing casualties south of Krezk, near Lake Baratok. Appears in [Session 40]({{< ref "/sessions/session-40" >}}).
+
+### Session 43
+At a fork in the road, the party identifies a castle within Lake Baratok and hears a legend of a powerful hermit gone mad there. Appears in [Session 43]({{< ref "/sessions/session-43" >}}).

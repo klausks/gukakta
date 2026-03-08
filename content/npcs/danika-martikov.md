@@ -38,3 +38,6 @@ Worked through a lively night at the Blue Water Inn while the party observed nob
 
 ### Session 33
 Served the party dinner at the Blue Water Inn, including notably good wolf meat. The two children running around the inn were identified as her and Urwin's sons. A bard named [Rictavio]({{< ref "/npcs/rictavio" >}}) was present and ordered food for his "corpulent friend" and his monkey. Appears in [Session 33]({{< ref "/sessions/session-33" >}}).
+
+### Session 43
+The party introduced themselves at a hidden camp "in the name of Danika Martikov," which caused the camp to relax. Appears in [Session 43]({{< ref "/sessions/session-43" >}}).

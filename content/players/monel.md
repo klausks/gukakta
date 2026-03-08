@@ -76,3 +76,6 @@ Sought information about books and research in Vallaki and spoke with [Mr. Ernst
 
 ### Session 40
 His Forest Master bell began to vibrate, and the Forest Master’s messenger warned the party about a [Troll]({{< ref "/creatures/troll" >}}) attacking travelers off the roads, with an estimated bounty of 800 gp. Appears in [Session 40]({{< ref "/sessions/session-40" >}}).
+
+### Session 43
+Examined the magical sword atop Thargrim’s tomb and identified it as at least a +1 weapon. Opened Thargrim’s principal tomb and removed a war horn and magically empowered ribs, experiencing a passing spirit and a protective vision. Appears in [Session 43]({{< ref "/sessions/session-43" >}}).

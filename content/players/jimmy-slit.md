@@ -100,3 +100,6 @@ Undertook a private test connected to the hidden crypt beneath St. Andral’s Ch
 
 ### Session 40
 Noted a drunk noble as an easy target for theft, but held back after realizing the party was being watched. Just outside Vallaki, stealthily overheard an argument between a man and a Vistani about treants, a captured sapling, and Vistani curses. Appears in [Session 40]({{< ref "/sessions/session-40" >}}).
+
+### Session 43
+Opened a new room within the temple and helped identify the statue’s opening mechanism, leading to sealed catacombs guarded by dwarf zombies. Appears in [Session 43]({{< ref "/sessions/session-43" >}}).

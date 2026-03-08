@@ -38,3 +38,6 @@ The party received directions to the winery from Urwin and was specifically advi
 
 ### Session 40
 On the approach to the winery bridge, the party finds a stone inscription in Primordial: *"When the light of the sky touches what lies beneath these runes, the power sealed long ago shall be revealed."* Appears in [Session 40]({{< ref "/sessions/session-40" >}}).
+
+### Session 43
+On the way to the winery, the party is guided from Uncle Billy’s Orchard to a hidden camp and meets Davian Martikov’s group. Appears in [Session 43]({{< ref "/sessions/session-43" >}}).

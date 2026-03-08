@@ -31,3 +31,6 @@ Unknown.
 
 ### Session 33
 Urwin offered the party a letter of recommendation to introduce them to Davian regarding the winery mission. Appears in [Session 33]({{< ref "/sessions/session-33" >}}).
+
+### Session 43
+Met the party at a hidden camp near the road to the winery after they arrived at Uncle Billy’s Orchard and introduced themselves in Danika’s name. Appears in [Session 43]({{< ref "/sessions/session-43" >}}).
