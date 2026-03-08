@@ -10,7 +10,7 @@ players_present: ["Pepino Falstaff", "Monel", "Agares", "Igga Bevneros", "Jimmy 
 
 ## Summary
 
-In [Vallaki]({{< ref "/locations/vallaki" >}}), the party pushes for answers about the captured fiend **Majesto** ([Invisible Fiend]({{< ref "/creatures/invisible-fiend" >}})), intending to use truth magic and to question it away from [Halik]({{< ref "/npcs/halik" >}})’s influence.
+In [Vallaki]({{< ref "/locations/vallaki" >}}), the party pushes for answers about the captured imp **Majesto** ([Invisible Imp]({{< ref "/creatures/majesto" >}})), intending to use truth magic and to question it away from [Halik]({{< ref "/npcs/halik" >}})’s influence.
 
 When the interrogation begins, a crucial fact comes to light: Majesto is not a random intruder, but a **familiar tied to the Wachters**—a secret [Fiona Wachter]({{< ref "/npcs/fiona-wachter" >}}) and Halik have concealed for political reasons.
 
@@ -44,7 +44,7 @@ That night, several unsettling incidents occur:
 
 ## Decisions & Consequences
 
-- The party agrees to keep what they have learned about the demon/fiend situation secret until they have left Vallaki.
+- The party agrees to keep what they have learned about the demon/imp situation secret until they have left Vallaki.
 - Fiona and Halik’s relationship to Majesto reframes the Wachterhaus “demon” problem as a political secret as much as a threat.
 
 ## Loose Threads

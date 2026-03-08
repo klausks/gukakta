@@ -18,7 +18,7 @@ Meanwhile, [Jimmy Slit]({{< ref "/players/jimmy-slit" >}}) visits St. Andral’s
 
 Back at Wachterhaus, [Halik]({{< ref "/npcs/halik" >}}) receives [Igga]({{< ref "/players/igga-bevneros" >}}) and [Agares]({{< ref "/players/agares" >}}), settles arrangements for Agares’ horse, and escorts them through a spotless, perfumed home staffed by servants such as [Amalthia]({{< ref "/npcs/amalthia" >}}), [Madalena]({{< ref "/npcs/madalena" >}}), and the cook [David]({{< ref "/npcs/david" >}}). When [Fiona Wachter]({{< ref "/npcs/fiona-wachter" >}}) finally presents her daughter, [Stella Wachter]({{< ref "/npcs/stella-wachter" >}}), the party confirms that Stella is affected by necromancy and enchantment magic—and her reaction to the mention of [Viktor Vallakovich]({{< ref "/npcs/viktor-vallakovich" >}}) suggests a link to whatever happened to her.
 
-The evening ends with a tense social game of masks and roles that exposes Fiona’s lethal pragmatism, and with the party deciding to pursue more information—about Stella, about the Baron’s son, and about the captured fiend.
+The evening ends with a tense social game of masks and roles that exposes Fiona’s lethal pragmatism, and with the party deciding to pursue more information—about Stella, about the Baron’s son, and about the captured imp.
 
 ## Events
 
@@ -51,11 +51,11 @@ Halik offers to store Agares’ belongings; Agares insists on keeping them close
 ### Guest Rooms and Household Staff
 Halik introduces Amalthia (a maid) and shows Agares a room said to belong to [Nikolai Wachter]({{< ref "/npcs/nikolai-wachter-ii" >}}). Amalthia comments on Agares’ armor and is reprimanded.
 
-Halik then shows Igga his room, and later the location where the captured “diabrete” is being kept. A common name is given for the fiend: **Majesto**.
+Halik then shows Igga his room, and later the location where the captured “diabrete” is being kept. A common name is given for the imp: **Majesto**.
 
-Agares notes they previously tortured the fiend for information and then healed it again, but still did not learn enough.
+Agares notes they previously tortured the imp for information and then healed it again, but still did not learn enough.
 
-The fiend is heard repeating: *"My darv, my darv"* (Infernal for "my lord").
+The imp is heard repeating: *"My darv, my darv"* (Infernal for "my lord").
 
 ### Stella’s Condition
 Later, Fiona presents Stella and asks the party to see what they can do. Agares greets Stella by name and tries to draw out a response; Stella shows a degree of awareness.
@@ -86,13 +86,13 @@ Fiona says she likes the game because it relieves the political pressure she liv
 
 - The party continues pursuing solutions for Stella, while recognizing they need more information.
 - Igga offers music as a calming approach when Stella becomes agitated.
-- Agares and Igga plan to coordinate information-gathering about Stella, the Baron’s son, and the captured fiend.
+- Agares and Igga plan to coordinate information-gathering about Stella, the Baron’s son, and the captured imp.
 
 ## Loose Threads
 
 - What exactly happened to Stella while she was with the Baron’s son, and what role did Viktor play?
 - What is the full nature of the necromancy and enchantment affecting Stella?
-- What can the captured fiend (“Majesto”) reveal if properly interrogated?
+- What can the captured imp (“Majesto”) reveal if properly interrogated?
 - What does the note connected to Rudolph van Richten’s monster book say?
 - Reminder from the party notes: ask Zé about acquiring a skill related to Barovian culture.
 

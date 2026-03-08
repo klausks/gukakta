@@ -14,7 +14,7 @@ summary_box: |
 
 ## Overview
 
-Fiona Wachter, known as Madame Wachter, is a powerful noble figure in Vallaki and head of the Wachter family. She presents herself as a stern, pragmatic matriarch focused on protecting her children and keeping Vallaki safe. She is a staunch political opponent of [Baron Vargas Vallakovich]({{< ref "/npcs/baron-vallakovich" >}}) and maintains an extensive spy network across the city, including detailed knowledge of [Izek]({{< ref "/npcs/izek" >}})'s daily routine. She possesses a fiendish familiar known as Majesto, whose existence she had concealed from the party for political reasons until it was exposed under truth magic. [Viktor Vallakovich]({{< ref "/npcs/viktor-vallakovich" >}}) has accused her of practicing necromancy and maintaining a cult in the basement of Wachterhaus; rumors of strange gatherings at her manor also circulate in Vallaki.
+Fiona Wachter, known as Madame Wachter, is a powerful noble figure in Vallaki and head of the Wachter family. She presents herself as a stern, pragmatic matriarch focused on protecting her children and keeping Vallaki safe. She is a staunch political opponent of [Baron Vargas Vallakovich]({{< ref "/npcs/baron-vallakovich" >}}) and maintains an extensive spy network across the city, including detailed knowledge of [Izek]({{< ref "/npcs/izek" >}})'s daily routine. She possesses a impish familiar known as Majesto, whose existence she had concealed from the party for political reasons until it was exposed under truth magic. [Viktor Vallakovich]({{< ref "/npcs/viktor-vallakovich" >}}) has accused her of practicing necromancy and maintaining a cult in the basement of Wachterhaus; rumors of strange gatherings at her manor also circulate in Vallaki.
 
 ## Personality
 
@@ -36,7 +36,7 @@ Ruthless and calculating beneath an air of composed authority. She presents hers
 - [Stella Wachter]({{< ref "/npcs/stella-wachter" >}}) — daughter
 - [Halik]({{< ref "/npcs/halik" >}}) — butler
 - [Baron Vargas Vallakovich]({{< ref "/npcs/baron-vallakovich" >}}) — political opponent
-- [Invisible Fiend]({{< ref "/creatures/invisible-fiend" >}}) — fiendish familiar known as Majesto, concealed from the party until exposed
+- [Invisible Imp]({{< ref "/creatures/majesto" >}}) — impish familiar known as Majesto, concealed from the party until exposed
 
 ## Key Events
 
@@ -47,18 +47,21 @@ A meeting with her was scheduled for 11:00 the next day, with Agares attending a
 
 Met Agares and Igga at Wachterhaus and presented herself as a harsh matriarch determined to protect her children and keep Vallaki safe. She criticized the Baron and Vallaki’s festival culture, alleged that the Vallakovich family has dark secrets, and claimed Izek’s past and power are suspect. She also suggested her daughter Stella’s condition may be magical and asked for outside help.
 
-An [Invisible Fiend]({{< ref "/creatures/invisible-fiend" >}}) entered with her and was only perceived by Agares. During the ensuing fight, the creature was marked with red ink, struck by Halik, and badly wounded before escaping through a glass window. Appears in [Session 35]({{< ref "/sessions/session-35" >}}).
+An [Invisible Imp]({{< ref "/creatures/majesto" >}}) entered with her and was only perceived by Agares. During the ensuing fight, the creature was marked with red ink, struck by Halik, and badly wounded before escaping through a glass window. Appears in [Session 35]({{< ref "/sessions/session-35" >}}).
 
 ### Session 36
-Invited [Agares]({{< ref "/players/agares" >}}) to stay overnight at Wachterhaus after the party captured and caged the fiend for questioning. Over dinner, she asked how people deal with death and spoke confidently about Vallaki, claiming to have eyes across the city and detailed knowledge of [Izek’s]({{< ref "/npcs/izek" >}}) routine via a “main spy.” She expressed fatigue with the Baron’s festivals and suggested Vargas’s practices might be ritualistic and could attract “the Devil.” She also claimed Vallaki has gone more than a century without [Count Strahd von Zarovich]({{< ref "/npcs/strahd-von-zarovich" >}}). Appears in [Session 36]({{< ref "/sessions/session-36" >}}).
+Invited [Agares]({{< ref "/players/agares" >}}) to stay overnight at Wachterhaus after the party captured and caged the imp for questioning. Over dinner, she asked how people deal with death and spoke confidently about Vallaki, claiming to have eyes across the city and detailed knowledge of [Izek’s]({{< ref "/npcs/izek" >}}) routine via a “main spy.” She expressed fatigue with the Baron’s festivals and suggested Vargas’s practices might be ritualistic and could attract “the Devil.” She also claimed Vallaki has gone more than a century without [Count Strahd von Zarovich]({{< ref "/npcs/strahd-von-zarovich" >}}). Appears in [Session 36]({{< ref "/sessions/session-36" >}}).
 
 ### Session 38
 Hosted Igga and Agares at Wachterhaus, presented Stella to the party, and ended the evening with a masked social game that highlighted her ruthless view of politics and betrayal. Appears in [Session 38]({{< ref "/sessions/session-38" >}}).
 
 ### Session 39
-During the party’s attempts to interrogate Majesto under truth magic, Fiona’s connection to the fiend is exposed: the creature is a familiar tied to her household, a fact she and Halik had hidden for political reasons. Appears in [Session 39]({{< ref "/sessions/session-39" >}}).
+During the party’s attempts to interrogate Majesto under truth magic, Fiona’s connection to the imp is exposed: the creature is a familiar tied to her household, a fact she and Halik had hidden for political reasons. Appears in [Session 39]({{< ref "/sessions/session-39" >}}).
 ### Session 48 (referenced)
 [Viktor Vallakovich]({{< ref "/npcs/viktor-vallakovich" >}}) told the party that he **hates Fiona Wachter** and accused her of **practicing necromancy** and maintaining a **cult in the basement of her home**. Referenced in [Session 48]({{< ref "/sessions/session-48" >}}).
 
 ### Session 49 (referenced)
 [Urwin Martikov]({{< ref "/npcs/urwin-martikov" >}}) told the party that at a dinner she hosted, Fiona said something to the effect of *"I'd rather trust the devil than this baron."* Urwin believed she was testing his political loyalties — possibly to gauge whether he would align with her against the Baron. Referenced in [Session 49]({{< ref "/sessions/session-49" >}}).
+
+### Session 51 (referenced)
+[Baron Vallakovich]({{< ref "/npcs/baron-vallakovich" >}}) tasked the party with investigating Fiona Wachter during their breakfast meeting. Her imp familiar, [Majesto]({{< ref "/creatures/majesto" >}}), was spotted by [Agares]({{< ref "/players/agares" >}}) watching the meeting through a window — suggesting she may already be aware of the Baron's move against her. Referenced in [Session 51]({{< ref "/sessions/session-51" >}}).

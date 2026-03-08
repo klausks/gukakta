@@ -2,7 +2,7 @@
 title: "Session 36 - The Caged Diabrete"
 date: 2026-03-07
 draft: false
-tags: ["session", "vallaki", "wachterhaus", "politics", "fiend"]
+tags: ["session", "vallaki", "wachterhaus", "politics", "imp"]
 session_number: 36
 session_date: "11/06/2025"
 players_present: ["Pepino Falstaff", "Monel", "Agares", "Igga Bevneros", "Jimmy Slit"]
@@ -10,14 +10,14 @@ players_present: ["Pepino Falstaff", "Monel", "Agares", "Igga Bevneros", "Jimmy 
 
 ## Summary
 
-In [Vallaki]({{< ref "/locations/vallaki" >}}), the party deals with the aftermath of the Wachterhaus incident: the wounded “diabrete” (an [Invisible Fiend]({{< ref "/creatures/invisible-fiend" >}})) is captured and caged for questioning. [Agares]({{< ref "/players/agares" >}}) and [Igga]({{< ref "/players/igga-bevneros" >}}) suspect the creature serves [Halik]({{< ref "/npcs/halik" >}}), but keep that suspicion to themselves while tensions simmer inside the household.
+In [Vallaki]({{< ref "/locations/vallaki" >}}), the party deals with the aftermath of the Wachterhaus incident: the wounded “diabrete” (an [Invisible Imp]({{< ref "/creatures/majesto" >}})) is captured and caged for questioning. [Agares]({{< ref "/players/agares" >}}) and [Igga]({{< ref "/players/igga-bevneros" >}}) suspect the creature serves [Halik]({{< ref "/npcs/halik" >}}), but keep that suspicion to themselves while tensions simmer inside the household.
 
 Over dinner, [Fiona Wachter]({{< ref "/npcs/fiona-wachter" >}}) speaks candidly about her view of Vallaki’s politics, festivals, and the ever-present fear of “the Devil,” while [Pepino]({{< ref "/players/pepino-falstaff" >}}) continues to wrestle with the growing influence of [Count Strahd von Zarovich]({{< ref "/npcs/strahd-von-zarovich" >}}) and his tome. Elsewhere in town, [Jimmy]({{< ref "/players/jimmy-slit" >}}) purchases studded leather from [Scran Ragnar]({{< ref "/npcs/scran-ragnar" >}}), and [Monel]({{< ref "/players/monel" >}}) secures Vistani tobacco through local contacts.
 
 ## Events
 
-### The Captured Fiend
-The party captures the wounded fiend and has it placed into a cage. Its wings are torn and it does not appear to regenerate. Agares abjures the creature, and it repeatedly insists, “I serve the Devil,” while staring at Halik.
+### The Captured Imp
+The party captures the wounded imp and has it placed into a cage. Its wings are torn and it does not appear to regenerate. Agares abjures the creature, and it repeatedly insists, “I serve the Devil,” while staring at Halik.
 
 ### Wachterhaus Tensions
 Halik reacts angrily during the handling of the creature, while Fiona maintains control of the situation. Agares accepts Fiona’s invitation to stay overnight at [Wachterhaus]({{< ref "/locations/wachterhaus" >}}) to help protect the household and attempt a deeper interrogation.
@@ -33,12 +33,12 @@ Pepino advances his study of the tome and gains new abilities and insight, but f
 
 ## Decisions & Consequences
 
-- Agares stays overnight at Wachterhaus to protect the household and question the captive fiend.
+- Agares stays overnight at Wachterhaus to protect the household and question the captive imp.
 - Agares and Igga choose not to tell Fiona their suspicion that the creature serves Halik.
 
 ## Loose Threads
 
-- Who—or what—does the fiend mean by “the Devil,” and what is its connection to Halik?
+- Who—or what—does the imp mean by “the Devil,” and what is its connection to Halik?
 - What is Fiona’s “main spy,” and how accurate is her intelligence on Izek?
 - What is the true purpose of the Baron’s festivals?
 

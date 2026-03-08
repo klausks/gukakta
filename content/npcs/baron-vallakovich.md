@@ -62,3 +62,5 @@ Met [Jimmy Slit]({{< ref "/players/jimmy-slit" >}}) after Jimmy was detained by 
 
 ### Session 35
 Frederik described the Baron’s upcoming festival as a public event intended to drive away “the Devil,” with dancing, games, and food in Vallaki’s center. The party was advised that visitors should not stay indoors and should participate (or at least pretend to). Appears in [Session 35]({{< ref "/sessions/session-35" >}}).
+### Session 51
+Met the party for a scheduled breakfast meeting. Received a bottle of **Champagne Du le Stomp** as a gift. Tasked the party with investigating [Fiona Wachter]({{< ref "/npcs/fiona-wachter" >}}), his main political rival in Vallaki. Unknown to him, [Fiona's]({{< ref "/npcs/fiona-wachter" >}}) imp familiar [Majesto]({{< ref "/creatures/majesto" >}}) was observed by [Agares]({{< ref "/players/agares" >}}) watching through a window during the meeting. Appears in [Session 51]({{< ref "/sessions/session-51" >}}).

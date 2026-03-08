@@ -145,7 +145,7 @@ The party learned Vallaki treats bail as bribery and could not negotiate an alte
 ### Session 35
 Pepino voiced concern that Vallaki’s festivals might be ritualistic and suggested investigating by speaking with townsfolk. Frederik described the Baron’s upcoming event to drive away “the Devil” and warned that visitors should not stay indoors and should participate.
 
-Later, Agares and Igga attended a scheduled meeting with Fiona Wachter at Wachterhaus. They witnessed Stella Wachter behaving strangely and fought an [Invisible Fiend]({{< ref "/creatures/invisible-fiend" >}}) inside the house before it escaped through a glass window. Appears in [Session 35]({{< ref "/sessions/session-35" >}}).
+Later, Agares and Igga attended a scheduled meeting with Fiona Wachter at Wachterhaus. They witnessed Stella Wachter behaving strangely and fought an [Invisible Imp]({{< ref "/creatures/majesto" >}}) inside the house before it escaped through a glass window. Appears in [Session 35]({{< ref "/sessions/session-35" >}}).
 
 ### Session 40
 As the party leaves Vallaki, guards question them about their destination, purpose, duration, and route. The guards warn that upon returning, the party will undergo the same entry procedures as before. Appears in [Session 40]({{< ref "/sessions/session-40" >}}).

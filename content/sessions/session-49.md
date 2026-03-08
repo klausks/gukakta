@@ -28,7 +28,7 @@ Agares spoke for the group: their objective is to destroy Strahd and all his all
 
 ### Agares Reviews the Evidence
 
-After the meeting, Agares shared his assessment with the party. He noted: Urwin mentioned that at a dinner she hosted, Fiona Wachter said something to the effect of *"I'd rather trust the devil than this baron"* — Urwin believed she was testing his political loyalties. Combined with the macabre cult rumors, her possession of a fiendish familiar, her apparent interest in Agares' infernal heritage, and Viktor's accusations from the previous session, Agares placed his suspicion of Fiona at roughly 98%. He announced he is working on a plan and will present it to the group.
+After the meeting, Agares shared his assessment with the party. He noted: Urwin mentioned that at a dinner she hosted, Fiona Wachter said something to the effect of *"I'd rather trust the devil than this baron"* — Urwin believed she was testing his political loyalties. Combined with the macabre cult rumors, her possession of a impish familiar, her apparent interest in Agares' infernal heritage, and Viktor's accusations from the previous session, Agares placed his suspicion of Fiona at roughly 98%. He announced he is working on a plan and will present it to the group.
 
 ### Finding Ireena
 

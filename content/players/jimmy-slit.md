@@ -12,7 +12,9 @@ summary_box: |
 
 ## Character Overview
 
-Jimmy is the party's rogue. Born into poverty and shaped by violence and loss, he is a seasoned assassin who operates by a personal moral code: he only takes contracts on those he deems worthless. Beneath a hardened, emotionally muted exterior, Jimmy carries the weight of a traumatic past and an inner demon — quite literally — that he has not yet found a way to silence.
+Jimmy is the party's rogue. Born into poverty and shaped by violence and loss, he is a seasoned assassin who operates by a personal moral code: he only takes contracts on those he deems worthless. Beneath a hardened, emotionally muted exterior, Jimmy carries the weight of a traumatic past.
+
+For years, he harbored a demonic entity bound to him through a cursed talisman — a presence that tormented him, grew stronger on his anger, and could extract memories from others through his right hand's touch. During Session 51, the demon was expelled through an exorcism performed at [St. Andral's Church]({{< ref "/locations/st-andrals-church" >}}). Jimmy sacrificed his **right hand** to sever the bond. The demon — now partially manifested and loose — escaped into Vallaki. For the first time in years, Jimmy is no longer being observed from within.
 
 ## Backstory
 
@@ -38,13 +40,14 @@ By the age of twenty-two, Jimmy had become a successful criminal. But the existe
 
 ## Goals & Motivations
 
-- Find a way to free himself from the demonic spirit bound to him through the talisman.
+- Hunt down the [demon]({{< ref "/creatures/jimmys-demon" >}}) that was expelled from his body — it is now loose, regenerating, and dangerous.
 - Understand what the talisman was, where it came from, and why it was left out in the open for him to steal.
 - Find a reason to keep going beyond mere survival.
 
 ## Connections
 
-- [Pepino Falstaff]({{< ref "/players/pepino-falstaff" >}}) — a con man Jimmy worked with prior to the campaign.
+- [Pepino Falstaff]({{< ref "/players/pepino-falstaff" >}}) — a con man Jimmy worked with prior to the campaign
+- [Jimmy's Demon]({{< ref "/creatures/jimmys-demon" >}}) — the entity that resided in him for years; expelled in Session 51, now loose in Vallaki
 
 ## Key Events
 
@@ -103,3 +106,9 @@ Noted a drunk noble as an easy target for theft, but held back after realizing t
 
 ### Session 43
 Opened a new room within the temple and helped identify the statue’s opening mechanism, leading to sealed catacombs guarded by dwarf zombies. Appears in [Session 43]({{< ref "/sessions/session-43" >}}).
+### Session 51
+Met privately with [Father Lucian Petrovich]({{< ref "/npcs/lucian-petrovich" >}}) in the crypt of [St. Andral's Church]({{< ref "/locations/st-andrals-church" >}}) for the first stage of an exorcism using the Iron Vigil rite. Holy water thrown by the priest drove the demon from Jimmy's head further into his right hand. Father Lucian told him the demon was stronger than anticipated and would not leave without causing one final pain. He suggested severing the bond by cutting off the hand.
+
+Jimmy cut off his own right hand. The hand swelled and gangrenous, and [the demon]({{< ref "/creatures/jimmys-demon" >}}) erupted from it as black smoke, partially taking a monstrous hybrid form before escaping through the crypt gate — wrenching it from its axis. Jimmy briefly lost consciousness. When he came to, his wrist was magically sealed and no trace of the hand remained.
+
+For the first time, the constant subliminal sense of being watched was gone. Jimmy will undergo the Iron Vigil for several more days to clear residual corruption. Appears in [Session 51]({{< ref "/sessions/session-51" >}}).

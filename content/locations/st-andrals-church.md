@@ -16,7 +16,7 @@ St. Andral's Church is a place of worship in Vallaki, presided over by [Father L
 
 ## Notable Locations
 
-- **Crypt of Saint Andral** — located beneath the altar; not immediately visible. Used by [Ireena Kolyana]({{< ref "/npcs/ireena-kolyana" >}}) as a place of daily prayer during her sheltering at the church.
+- **Crypt of Saint Andral** — located beneath the altar; not immediately visible. Used by [Ireena Kolyana]({{< ref "/npcs/ireena-kolyana" >}}) as a place of daily prayer during her sheltering at the church. Also the site of [Jimmy Slit's]({{< ref "/players/jimmy-slit" >}}) exorcism in Session 51. The crypt gate was **broken from its axis** when [the demon]({{< ref "/creatures/jimmys-demon" >}}) escaped.
 
 ## Key NPCs
 
@@ -29,3 +29,6 @@ Father Lucian told [Ireena]({{< ref "/npcs/ireena-kolyana" >}}) about the hidden
 
 ### Session 49
 Monel and Agares visited the church and found Ireena sheltering here. Father Lucian confirmed she had been staying at the church, spending her days praying in the crypt. A young gravedigger — roughly 15–20 years old, disgruntled — was spotted working outside the church. Father Lucian also reminded the group about the Saint Andral feast and noted that his sister's marriage to the Baron facilitates holding both events on the same day. Appears in [Session 49]({{< ref "/sessions/session-49" >}}).
+
+### Session 51
+[Jimmy Slit]({{< ref "/players/jimmy-slit" >}}) underwent an exorcism in the crypt, performed by Father Lucian using the Iron Vigil rite. Jimmy severed his own right hand to expel [the demon]({{< ref "/creatures/jimmys-demon" >}}), which escaped in partial physical form and broke the crypt gate from its axis as it fled. The crypt's gate remains damaged. Appears in [Session 51]({{< ref "/sessions/session-51" >}}).

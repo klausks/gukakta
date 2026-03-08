@@ -57,16 +57,16 @@ Commissioned formal clothing in Vallaki and paid an added urgency fee for next-d
 Discussed plans with the party at the Blue Water Inn after Jimmy was taken into custody. The party chose a group name—Gukakta—and agreed to proceed with the winery mission while also preparing for the scheduled meeting with Vallaki's nobles. Appears in [Session 33]({{< ref "/sessions/session-33" >}}).
 
 ### Session 35
-Went with Igga to Frederik’s tailor shop and then attended the arranged meeting at Wachterhaus. Used divine senses to detect an [Invisible Fiend]({{< ref "/creatures/invisible-fiend" >}}) in the house and fought it until it fled through a glass window, badly wounded. Appears in [Session 35]({{< ref "/sessions/session-35" >}}).
+Went with Igga to Frederik’s tailor shop and then attended the arranged meeting at Wachterhaus. Used divine senses to detect an [Invisible Imp]({{< ref "/creatures/majesto" >}}) in the house and fought it until it fled through a glass window, badly wounded. Appears in [Session 35]({{< ref "/sessions/session-35" >}}).
 
 ### Session 36
-Stayed overnight at Wachterhaus at [Fiona Wachter’s]({{< ref "/npcs/fiona-wachter" >}}) invitation to help protect the household and question the captive fiend. He abjured the creature and observed it had torn wings and did not seem to regenerate; it repeatedly insisted “I serve the Devil” while staring at [Halik]({{< ref "/npcs/halik" >}}). Agares also left his mace with [Ireena Kolyana]({{< ref "/npcs/ireena-kolyana" >}}). Appears in [Session 36]({{< ref "/sessions/session-36" >}}).
+Stayed overnight at Wachterhaus at [Fiona Wachter’s]({{< ref "/npcs/fiona-wachter" >}}) invitation to help protect the household and question the captive imp. He abjured the creature and observed it had torn wings and did not seem to regenerate; it repeatedly insisted “I serve the Devil” while staring at [Halik]({{< ref "/npcs/halik" >}}). Agares also left his mace with [Ireena Kolyana]({{< ref "/npcs/ireena-kolyana" >}}). Appears in [Session 36]({{< ref "/sessions/session-36" >}}).
 
 ### Session 38
-Returned to Wachterhaus, coordinated with Igga, and investigated Stella’s condition. Noted that the household had previously tortured the captured fiend for information and then healed it again. Appears in [Session 38]({{< ref "/sessions/session-38" >}}).
+Returned to Wachterhaus, coordinated with Igga, and investigated Stella’s condition. Noted that the household had previously tortured the captured imp for information and then healed it again. Appears in [Session 38]({{< ref "/sessions/session-38" >}}).
 
 ### Session 39
-Attempted to interrogate Majesto under truth magic while isolating Halik, and learned that the fiend is a familiar tied to the Wachter household. During a tense night at Wachterhaus, received a mask and identity-related garments and witnessed a strange sequence of events involving Nikolai Wachter II collapsing at his door. Appears in [Session 39]({{< ref "/sessions/session-39" >}}).
+Attempted to interrogate Majesto under truth magic while isolating Halik, and learned that the imp is a familiar tied to the Wachter household. During a tense night at Wachterhaus, received a mask and identity-related garments and witnessed a strange sequence of events involving Nikolai Wachter II collapsing at his door. Appears in [Session 39]({{< ref "/sessions/session-39" >}}).
 
 ### Session 40
 Continued investigating Wachterhaus until he heard Halik’s voice through whispers warning the party to leave and stop for the night. Departed Vallaki with the group under renewed questioning from the guards at the gate. Appears in [Session 40]({{< ref "/sessions/session-40" >}}).

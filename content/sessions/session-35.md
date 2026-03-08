@@ -1,5 +1,5 @@
 ---
-title: "Session 35 - The Wachterhouse Fiend"
+title: "Session 35 - The Wachterhouse Imp"
 date: 2026-03-07
 draft: false
 tags: ["session", "vallaki", "festival", "politics", "wachterhaus"]
@@ -14,7 +14,7 @@ In [Vallaki]({{< ref "/locations/vallaki" >}}), Jimmy recounts the night he spen
 
 As errands begin, Monel and Jimmy scout local tradespeople and meet [Weiland]({{< ref "/npcs/weiland" >}}) and a smith named [Horic]({{< ref "/npcs/horic" >}}). Meanwhile, Agares and Igga visit the tailor [Frederik]({{< ref "/npcs/frederik" >}}), where [Andreja]({{< ref "/npcs/andreja" >}}) praises their elegance and explains that the upcoming festival is an event meant to drive away “the Devil.” Andreja escorts them to meet Fiona Wachter.
 
-At [Wachterhaus]({{< ref "/locations/wachterhaus" >}}), the group is received by the butler [Halik]({{< ref "/npcs/halik" >}}) and witnesses [Stella Wachter]({{< ref "/npcs/stella-wachter" >}}) behaving strangely. Fiona speaks harshly of the Baron and Izek, claims the Vallakovich family holds dark secrets, and asks for outside help—especially regarding her daughter. Agares senses an unseen [Invisible Fiend]({{< ref "/creatures/invisible-fiend" >}}) in the house, and a short fight breaks out before it flees through a glass window.
+At [Wachterhaus]({{< ref "/locations/wachterhaus" >}}), the group is received by the butler [Halik]({{< ref "/npcs/halik" >}}) and witnesses [Stella Wachter]({{< ref "/npcs/stella-wachter" >}}) behaving strangely. Fiona speaks harshly of the Baron and Izek, claims the Vallakovich family holds dark secrets, and asks for outside help—especially regarding her daughter. Agares senses an unseen [Invisible Imp]({{< ref "/creatures/majesto" >}}) in the house, and a short fight breaks out before it flees through a glass window.
 
 ## Events
 
@@ -32,8 +32,8 @@ At Wachterhaus, Halik receives the party and offers to store their belongings. S
 
 Madame Wachter presents herself as a harsh matriarch determined to protect her children and keep Vallaki safe. She derides the Baron’s rules and festivals as pathetic, describes the Vallakovich family as long-time rulers with dark secrets, and claims Izek’s past and power are suspect. She seeks help from outsiders, believing her daughter’s condition may be magical.
 
-### The Fiend
-Agares detects an unseen fiend in the house, which follows him and Igga. When the fight begins, Igga marks the creature with red ink, Halik strikes it with a distinct dagger, and Agares heavily wounds it. The fiend throws itself through a glass window to escape, badly injured and frightened.
+### The Imp
+Agares detects an unseen imp in the house, which follows him and Igga. When the fight begins, Igga marks the creature with red ink, Halik strikes it with a distinct dagger, and Agares heavily wounds it. The imp throws itself through a glass window to escape, badly injured and frightened.
 
 ## Decisions & Consequences
 
@@ -42,7 +42,7 @@ Agares detects an unseen fiend in the house, which follows him and Igga. When th
 
 ## Loose Threads
 
-- What is the invisible fiend at Wachterhaus, and who sent it?
+- What is the invisible imp at Wachterhaus, and who sent it?
 - What “dark secrets” does Madame Wachter believe the Vallakovich family holds?
 - Is Stella’s condition a curse, magic, or something else?
 
