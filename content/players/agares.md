@@ -17,6 +17,13 @@ Agares is a member of the party and a cleric. He possesses divine sensitivities 
 
 ## Goals & Motivations
 
+Agares is bound by an oath with four tenets:
+
+- **Fight the Greater Evil.** Faced with a choice of fighting his sworn foes or combating a lesser evil, he chooses the greater evil.
+- **No Mercy for the Wicked.** Ordinary foes might win his mercy, but his sworn enemies do not.
+- **By Any Means Necessary.** His qualms cannot get in the way of exterminating his foes.
+- **Restitution.** If his foes wreak ruin on the world, it is because he failed to stop them. He must help those harmed by their misdeeds.
+
 ## Connections
 
 - The party: [Jimmy Slit]({{< ref "/players/jimmy-slit" >}}), [Pepino Falstaff]({{< ref "/players/pepino-falstaff" >}}), [Monel]({{< ref "/players/monel" >}})
