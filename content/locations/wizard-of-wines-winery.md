@@ -23,11 +23,27 @@ He suspects druids and corrupted creatures may be involved, possibly under the i
 - **Storage room** — has a door, but no known entry route.
 - **East-side door** — described as being near poles.
 - **South-side door** — described as being on the lowest floor.
+- **Basement** — contains a hidden chamber concealed behind a movable bookshelf. Within this chamber is evidence of captivity and a magical portal.
+- **Hidden chamber** — accessed by moving a bookshelf in the basement; contains signs of Swigas' captivity and a magical portal.
 
 ## Key NPCs
 
 - [Urwin Martikov]({{< ref "/npcs/urwin-martikov" >}}) — requested help
 - [Davian Martikov]({{< ref "/npcs/davian-martikov" >}}) — patriarch (letter of introduction offered)
+
+### Hostile Forces at the Winery
+
+### NPCs & Captives
+
+- [The Winery Druid]({{< ref "/npcs/the-winery-druid" >}}) — encountered in the winery; incapacitated
+- [Swigas]({{< ref "/npcs/swigas" >}}) — mysterious captive being forced to search for "the book"
+- [Rahadin]({{< ref "/npcs/rahadin" >}}) — a voice heard monitoring/intercepting communications at the winery
+
+### Creatures
+
+- [Vine Blights]({{< ref "/creatures/vine-blight" >}}) — plant creatures attacking the vineyard
+- [Forest Humanoids (Winery)]({{< ref "/creatures/forest-humanoids-winery" >}}) — speaking a strange language; associated with the blights
+- **Twilight elves** — spotted briefly by the party near the hidden chamber (Session 45)
 
 ## Key Events and Discoveries
 
@@ -48,3 +64,6 @@ On the way to the winery, the party is guided from Uncle Billy’s Orchard to a 
 
 ### Session 44
 At the hidden camp, Adrian briefs the party: the winery is overrun by plant creatures (including vine blights) and forest humanoids. He also claims that a group carrying a [green gem]({{< ref "/lore/three-gems" >}}) and a staff came from the Berez swamp and may have ties to Baba Lysaga, and asks the party to capture at least one of the green-gem carriers for interrogation. The camp shares reconnaissance notes about entrances/exits and plans to use Isha for an aerial sweep to help the party approach quietly. Appears in [Session 44]({{< ref "/sessions/session-44" >}}).
+
+### Session 45
+The party encounters [the winery druid]({{< ref "/npcs/the-winery-druid" >}}) and incapacitates them. While exploring the basement, [Jimmy Slit]({{< ref "/players/jimmy-slit" >}}) discovers a hidden chamber concealed behind a movable bookshelf. Within, the party overhears a magical conversation about [Swigas]({{< ref "/npcs/swigas" >}}), a mysterious captive being forced to search for "the book." A magical portal opens and closes, allowing [Igga Bevneros]({{< ref "/players/igga-bevneros" >}}) and [Monel]({{< ref "/players/monel" >}}) to enter while the rest of the party remains behind. The location and nature of the portal's destination remain unknown. Appears in [Session 45]({{< ref "/sessions/session-45" >}}).
