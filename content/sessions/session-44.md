@@ -12,7 +12,7 @@ players_present: ["Jimmy Slit", "Agares", "Vedas", "Monel", "Igga Bevneros"]
 
 At the hidden Martikov camp near [Uncle Billy’s Orchard]({{< ref "/locations/uncle-billy-orchard" >}}), the party is welcomed with wine and food as preparations are made to receive them. The presence of children lifts the mood, even as [Davian Martikov]({{< ref "/npcs/davian-martikov" >}}) and [Muriel Winchov]({{< ref "/npcs/muriel-winchov" >}}) appear to be discussing something serious.
 
-[Adrian Martikov]({{< ref "/npcs/adrian-martikov" >}}) explains why [Krezk]({{< ref "/locations/krezk" >}}) no longer supports them, outlines the threats inside the [Wizard of Wines Winery]({{< ref "/locations/wizard-of-wines-winery" >}}), and reveals details about a [green gem]({{< ref "/lore/three-gems >}}) powering the attackers. The party also learns that the Martikovs maintain a raven-based spy network and can offer it as part of the mission reward.
+[Adrian Martikov]({{< ref "/npcs/adrian-martikov" >}}) explains why [Krezk]({{< ref "/locations/krezk" >}}) no longer supports them, outlines the threats inside the [Wizard of Wines Winery]({{< ref "/locations/wizard-of-wines-winery" >}}), and reveals details about a [green gem]({{< ref "/lore/three-gems" >}}) powering the attackers. The party also learns that the Martikovs maintain a raven-based spy network and can offer it as part of the mission reward.
 
 With the winery reconnaissance mapped out—including entrances, likely dangers, and the best route to avoid vine blights—Vedas’ owl [Isha]({{< ref "/creatures/isha" >}}) completes an aerial sweep, giving the party an edge for infiltration.
 
