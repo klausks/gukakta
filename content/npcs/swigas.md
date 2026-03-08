@@ -12,7 +12,7 @@ summary_box: |
 
 ## Overview
 
-Swigas is a mysterious figure held captive at the [Wizard of Wines Winery]({{< ref "/locations/wizard-of-wines-winery" >}}). The party overheard a conversation in which Swigas was being compelled to search for something on behalf of an unknown lord. When the party called out to Swigas, they responded with an urgent exclamation: "THE BOOK!" before being silenced, presumably gagged or restrained.
+Swigas is a figure held at [Castle Ravenloft]({{< ref "/locations/castle-ravenloft" >}}), under the watch of [Rahadin]({{< ref "/npcs/rahadin" >}}) and [Strahd von Zarovich]({{< ref "/npcs/strahd-von-zarovich" >}}). The party first overheard her name in a magical conversation at the winery where she was being compelled to search for something. When seen in person at Ravenloft, she appeared healthy and calm — and gave the impression of being there at least partly by her own will, despite her captive status. The only urgent message she managed to communicate before being silenced was a reference to "the book."
 
 ## Personality
 

@@ -16,7 +16,7 @@ players_present: ["Igga Bevneros", "Monel"]
 
 ### Waking at the Banquet
 
-The pair awoke disoriented in the castle's dining hall, faced with a grand banquet. In the room stood a pipe organ decorated with human skulls and bones. A pale-handed figure was seated at it, playing a melancholic piece. Strahd then arrived and welcomed them:
+The pair awoke disoriented in the castle's dining hall, faced with a grand banquet. [Strahd]({{< ref "/npcs/strahd-von-zarovich" >}}) was seated at a pipe organ decorated with human skulls and bones, playing an absurdly melancholic piece. He then rose and welcomed them:
 
 > "Welcome to Castle Ravenloft. I hope your visit is comfortable."
 
@@ -28,15 +28,15 @@ When Monel asked why Strahd did not simply retrieve it himself, Strahd replied t
 
 ### Swigas' Appearance
 
-Igga asked to see Swigas. Strahd had her brought in, escorted by [Rahadin]({{< ref "/npcs/rahadin" >}}), confirmed here as a trusted confidant of Strahd. Swigas appeared to be in good health and indicated she was fine.
+Igga asked to see Swigas. Strahd had her brought in, escorted by [Rahadin]({{< ref "/npcs/rahadin" >}}), confirmed here as a trusted confidant of Strahd. Swigas appeared to be in good health and indicated she was fine. Notably, despite being described as a captive, she gave the impression of being there at least partly by her own choice.
 
-The party had no clock. When they mentioned this, Swigas offered them her pocket watch — and was promptly slapped on the hand by Rahadin for doing so.
+Monel had no clock and asked Swigas for help. She offered him her pocket watch — and was promptly slapped on the hand by Rahadin for doing so.
 
 ### One Question Each
 
 Strahd offered each of them one question:
 
-- **Igga** asked why the people of Barovia are so sad. Strahd answered that it is connected to his exploitation of the region.
+- **Igga** asked why the people of Barovia are so sad. Strahd answered that Barovia reflects the nature of its leader — and that he himself is a somber and miserable person.
 - **Monel** asked what the green gem is for. Strahd said it is precious to him and of little importance to the party. He claimed it is needed to **resurrect his mother**, who died in an accident. The party sensed he appeared to be telling the truth.
 
 ### Freedom to Explore
@@ -60,6 +60,6 @@ Strahd permitted the party to freely explore the **first floor** of the castle u
 
 - What is behind the two mirrors in the dining hall?
 - Is Strahd's claim about his mother true? What would resurrection of his mother entail?
-- Who is the pale-handed figure at the pipe organ?
 - What is on the second floor and in the crypt?
 - How did Igga and Monel get to Castle Ravenloft, and how do they return to the others?
+- Why does Swigas appear to be at the castle willingly despite being a captive?
