@@ -13,15 +13,15 @@ $c-border:       #3d1a1d;        // dried-blood border
 $c-border-glow:  #8b0000;        // deep crimson glow
 
 $c-text:         #e8ddd5;        // aged bone / parchment
-$c-text-muted:   #9a7572;        // dusty rose ash
-$c-text-dim:     #5c3235;        // dim crimson shadow
+$c-text-muted:   #b08e8b;        // dusty rose ash — ~6:1 on card bg (was #9a7572, ~4.6:1)
+$c-text-dim:     #704246;        // dim crimson shadow — tertiary/decorative (was #5c3235)
 
 $c-accent:       #9b1b1b;        // blood red
-$c-accent-light: #c0392b;        // bright crimson
+$c-accent-light: #d44e42;        // bright crimson — ~5:1 on dark bg (was #c0392b, ~3.9:1)
 $c-gold:         #b8956a;        // tarnished aristocratic gold
 $c-gold-light:   #d4b07a;        // candlelight gold
 $c-blood:        #6b0f0f;        // darkest blood
-$c-blood-light:  #a01515;        // fresh crimson
+$c-blood-light:  #b82020;        // fresh crimson — decorative glyph (was #a01515)
 $c-mist:         rgba(139, 27, 27, 0.05);
 
 $font-display: 'Cinzel Decorative', 'Cinzel', serif;
