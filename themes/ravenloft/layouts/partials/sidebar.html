@@ -5,13 +5,13 @@
   <ul class="sidebar-list">
     {{- range $sections }}
     <li class="sidebar-item">
-      <a href="{{ .Permalink }}" class="sidebar-link {{ if ($.IsDescendant .) }}sidebar-link--active{{ end }}">
+      <a href="{{ .Permalink }}" class="sidebar-link {{ if or ($.IsDescendant .) ($.Eq .) }}sidebar-link--active{{ end }}">
         {{ .Title }}
         <span class="sidebar-count">({{ .Pages.Len }})</span>
       </a>
-      {{- if ($.IsDescendant .) }}
+      {{- if and (or ($.IsDescendant .) ($.Eq .)) (ne .Section "sessions") }}
       <ul class="sidebar-sublist">
-        {{- range .Pages }}
+        {{- range .Pages.ByTitle }}
         <li class="sidebar-subitem">
           <a href="{{ .Permalink }}" class="sidebar-sublink{{ if $.Eq . }} sidebar-sublink--current{{ end }}">{{ .Title }}</a>
         </li>
