@@ -5,7 +5,9 @@ date: 2026-03-07
 draft: false
 tags: ["location", "orchard"]
 summary_box: |
-  **Region:** Barovia
+  **Region:** Barovia  
+  **Near:** [Wizard of Wines Winery]({{< ref "/locations/wizard-of-wines-winery" >}}) (approach road)  
+  **First Encountered:** [Session 43]({{< ref "/sessions/session-43" >}})
 ---
 
 ## Overview

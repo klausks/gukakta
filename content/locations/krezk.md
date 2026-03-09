@@ -4,6 +4,10 @@ subtitle: "Destination of an Open Mission"
 date: 2026-03-07
 draft: false
 tags: ["location"]
+summary_box: |
+  **Region:** Barovia (western)  
+  **Status:** Walled settlement; closed to outsiders  
+  **Notable:** [Abbey of Saint Markovia]({{< ref "/locations/abbey-of-saint-markovia" >}})
 ---
 
 ## Overview

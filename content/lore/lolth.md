@@ -3,6 +3,10 @@ title: "Lolth"
 date: 2026-03-07
 draft: false
 tags: ["lore"]
+summary_box: |
+  **Type:** Dark deity  
+  **Worshipper:** Igga Bevneros (formerly)  
+  **Relevance:** Revealed during secret bargain with Vasili
 ---
 
 ## Background

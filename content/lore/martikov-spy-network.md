@@ -3,6 +3,10 @@ title: "Martikov Spy Network"
 date: 2026-03-07
 draft: false
 tags: ["lore"]
+summary_box: |
+  **Structure:** Ravens as fast spies  
+  **Secret:** Martikov family are lycanthropes with hybrid forms  
+  **Scope:** Network reaches throughout Barovia
 ---
 
 ## Background

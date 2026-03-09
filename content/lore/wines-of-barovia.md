@@ -4,6 +4,10 @@ subtitle: "A book containing viniculture lore and the portal poem"
 date: 2026-03-08
 draft: false
 tags: ["lore", "book", "portal", "wizard-of-wines-winery"]
+summary_box: |
+  **Type:** Magical book with portal poem  
+  **Function:** Poem activates dimensional portal  
+  **Variable:** Destination changes—Castle Ravenloft vs. Baron's Mansion
 ---
 
 ## Overview

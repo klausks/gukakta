@@ -3,6 +3,10 @@ title: "St. Andral"
 date: 2026-03-07
 draft: false
 tags: ["lore", "vallaki", "faith"]
+summary_box: |
+    **Type:** Venerated saint with holy relics  
+    **Location:** St. Andral's Church, Vallaki  
+    **Power:** Saint's bones described as powerful holy relic
 ---
 
 ## Background

@@ -3,6 +3,10 @@ title: "War with Duke Gundar"
 date: 2026-03-06
 draft: false
 tags: ["lore", "history", "strahd"]
+summary_box: |
+  **Event:** Strahd's ancient war beyond his domain  
+  **Duration:** Hianag served ~300 years under Strahd  
+  **Method:** Strahd weaponizes hope and obligation alongside force
 related: ["/npcs/strahd-von-zarovich", "/npcs/hianag-darastrix"]
 ---
 

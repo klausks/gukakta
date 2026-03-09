@@ -5,7 +5,9 @@ date: 2026-03-07
 draft: false
 tags: ["location"]
 summary_box: |
-  **Region:** Barovia
+  **Region:** Barovia  
+  **Near:** [Raven River]({{< ref "/locations/raven-river" >}}) crossroads  
+  **First Encountered:** [Session 40]({{< ref "/sessions/session-40" >}})
 ---
 
 ## Overview

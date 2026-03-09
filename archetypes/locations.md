@@ -4,12 +4,13 @@ subtitle: ""
 date: {{ .Date }}
 draft: true
 tags: ["location"]
-# summary_box: |
-#   **Region:**  
-#   **Ruler:**  
-#   **Population:**
-# image: ""
-# related: []
+ summary_box: |
+   **Region:**  
+   **Ruler:**  
+   **Population:**
+   **Known For:**
+ image: ""
+ related: []
 ---
 
 ## Overview

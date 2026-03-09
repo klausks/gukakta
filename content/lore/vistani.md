@@ -3,6 +3,10 @@ title: "The Vistani"
 date: 2026-03-05
 draft: false
 tags: ["lore", "vistani", "supernatural"]
+summary_box: |
+  **Type:** Supernatural race with innate powers  
+  **Ability:** Each Vistani can curse uniquely  
+  **Law:** Only the placer can remove their own curse
 related: ["/npcs/thork", "/npcs/madame-iva", "/npcs/esdras", "/locations/svalich-forest"]
 ---
 

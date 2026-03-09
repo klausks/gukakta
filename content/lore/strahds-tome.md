@@ -3,6 +3,10 @@ title: "Strahd's Tome"
 date: 2026-03-07
 draft: false
 tags: ["lore", "artifact", "strahd"]
+summary_box: |
+  **Type:** Magical artifact—Strahd's childhood diary  
+  **Status:** Hidden, dangerous, kept secret  
+  **Impact:** Reading caused Pepino's identity crisis → became Vedas
 related: ["/npcs/strahd-von-zarovich", "/lore/tarot-reading"]
 ---
 

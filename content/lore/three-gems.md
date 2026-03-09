@@ -3,6 +3,10 @@ title: "Three Gems"
 date: 2026-03-08
 draft: false
 tags: ["lore", "artifact", "wizard-of-wines-winery", "berez"]
+summary_box: |
+  **Type:** Three magical gems (Wizard of Wines source)  
+  **Current:** Green gem stolen, empowering winery invaders  
+  **Stakes:** Strahd claims it needed to resurrect his mother
 related: ["/locations/wizard-of-wines-winery", "/locations/berez", "/npcs/baba-lysaga", "/npcs/adrian-martikov"]
 ---
 

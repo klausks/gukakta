@@ -4,6 +4,10 @@ subtitle: "Member of the Martikov camp"
 date: 2026-03-07
 draft: false
 tags: ["npc"]
+summary_box: |
+    **Role:** Martikov camp member  
+    **Location:** [Martikov camp]({{< ref "/locations/uncle-billy-orchard" >}})  
+    **Status:** Unknown
 ---
 
 ## Overview

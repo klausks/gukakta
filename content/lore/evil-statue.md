@@ -3,6 +3,10 @@ title: "The Evil Statue"
 date: 2026-03-05
 draft: false
 tags: ["lore", "durst", "evil"]
+summary_box: |
+    **Type:** Malevolent artifact  
+    **Located:** Durst House, south basement  
+    **Danger:** Instant death on contact
 related: ["/npcs/agares", "/players/jimmy-slit", "/locations/durst-house"]
 ---
 

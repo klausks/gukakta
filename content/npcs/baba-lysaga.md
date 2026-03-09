@@ -4,6 +4,10 @@ subtitle: "An ancient swamp witch (as described)"
 date: 2026-03-07
 draft: false
 tags: ["npc"]
+summary_box: |
+    **Role:** Ancient swamp witch  
+    **Location:** [Berez]({{< ref "/locations/berez" >}}) swamp
+    **Alignment:** Ally of [Strahd von Zarovich]({{< ref "/npcs/strahd-von-zarovich" >}})
 ---
 
 ## Overview

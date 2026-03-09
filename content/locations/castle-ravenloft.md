@@ -7,7 +7,7 @@ summary_box: |
   **Region:** Central Barovia  
   **Ruler:** Count Strahd von Zarovich  
   **Danger Level:** Extreme  
-  **First Visited:** *(session TBD)*
+  **First Visited:** [Session 46]({{< ref "/sessions/session-46" >}})
 ---
 
 ## Overview

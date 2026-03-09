@@ -3,6 +3,10 @@ title: "Horned Silver Pendant"
 date: 2026-03-07
 draft: false
 tags: ["lore"]
+summary_box: |
+  **Symbol:** Silver horned-creature with gemstone  
+  **Purpose:** Mercenary group identifier  
+  **Affiliation:** Possible "Lords of the Silver Dragon"
 ---
 
 ## Background

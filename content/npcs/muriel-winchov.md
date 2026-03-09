@@ -4,6 +4,10 @@ subtitle: "A crow that became a woman"
 date: 2026-03-07
 draft: false
 tags: ["npc"]
+summary_box: |
+    **Race:** Shapeshifter (crow/human)  
+    **Role:** Martikov family  
+    **Location:** [Martikov camp]({{< ref "/locations/uncle-billy-orchard" >}})
 ---
 
 ## Overview

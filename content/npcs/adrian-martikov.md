@@ -4,6 +4,10 @@ subtitle: "Spokesman at the hidden camp"
 date: 2026-03-07
 draft: false
 tags: ["npc"]
+summary_box: |
+  **Role:** Martikov family spokesman  
+  **Location:** [Martikov camp]({{< ref "/locations/uncle-billy-orchard" >}})  
+  **Status:** Active
 ---
 
 ## Overview

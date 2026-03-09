@@ -4,14 +4,15 @@ subtitle: ""
 date: {{ .Date }}
 draft: true
 tags: ["npc"]
-# summary_box: |
-#   **Race:**  
-#   **Class:**  
-#   **Alignment:**  
-#   **Location:**  
-#   **Relationship:**
-# image: ""
-# related: []
+ summary_box: |
+   **Race:**  
+   **Class:**  
+   **Alignment:**  
+   **Location:**  
+   **Relationship:**
+   **Status/Condition:**
+ image: ""
+ related: []
 ---
 
 ## Overview

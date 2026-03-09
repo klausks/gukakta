@@ -55,7 +55,7 @@ The party is told the following:
 - Muriel is attempting to charm one of them to learn more about their origins.
 - The staff is considered the most important objective; taking it would be a strong affront to [Baba Lysaga]({{< ref "/npcs/baba-lysaga" >}}), described as an ancient old woman who lives in the swamp and is an ally of Strahd.
 - The party is expected to **interrogate** one of the forest humanoids to understand their relationship to Strahd.
-- A **dawn elf** adventurer-merchant is said to be trapped inside the winery. See: [Dawn Elf Merchant]({{< ref "/npcs/dawn-elf-merchant" >}}).
+- A **dawn elf** adventurer-merchant is said to be trapped inside the winery. See: [Swigas]({{< ref "/npcs/swigas" >}}).
 
 ### Rewards and Reconnaissance
 The Martikovs offer:

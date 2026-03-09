@@ -3,6 +3,10 @@ title: "Lords of the Silver Dragon"
 date: 2026-03-07
 draft: false
 tags: ["lore"]
+summary_box: |
+  **Type:** Mercenary organization  
+  **Identifier:** Horned silver pendants  
+  **Status:** Encountered on road, allegiance unknown
 ---
 
 ## Background

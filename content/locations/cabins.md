@@ -5,7 +5,9 @@ date: 2026-03-07
 draft: false
 tags: ["location"]
 summary_box: |
-  **Region:** Barovia
+  **Region:** Barovia  
+  **Near:** Road fork (exact location unknown)  
+  **Status:** Unvisited
 ---
 
 ## Overview

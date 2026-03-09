@@ -5,7 +5,10 @@ date: 2026-03-07
 draft: false
 tags: ["location", "forest"]
 summary_box: |
-  **Region:** Barovia
+  **Region:** Barovia  
+  **Near:** [Svalich Road]({{< ref "/locations/svalich-road" >}})  
+  **Known For:** Dense mist, swampy wildlife  
+  **First Encountered:** [Session 41]({{< ref "/sessions/session-41" >}})
 ---
 
 ## Overview

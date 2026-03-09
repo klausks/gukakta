@@ -4,13 +4,11 @@ subtitle: ""
 date: {{ .Date }}
 draft: true
 tags: ["creature"]
-# summary_box: |
-#   **Type:**  
-#   **CR:**  
-#   **Habitat:**  
-#   **Alignment:**
-# image: ""
-# related: []
+ summary_box: |
+   **Type:**  
+   **Habitat:**  
+ image: ""
+ related: []
 ---
 
 ## Overview

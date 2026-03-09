@@ -5,7 +5,9 @@ date: 2026-03-07
 draft: false
 tags: ["location", "road"]
 summary_box: |
-  **Region:** Barovia
+  **Region:** Barovia  
+  **Known For:** Main road connecting Barovia's settlements  
+  **First Documented:** [Session 41]({{< ref "/sessions/session-41" >}})
 ---
 
 ## Overview

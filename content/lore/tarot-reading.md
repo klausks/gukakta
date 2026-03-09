@@ -3,6 +3,10 @@ title: "Tarot Reading"
 date: 2026-03-05
 draft: false
 tags: ["lore", "prophecy", "madame-iva", "destiny"]
+summary_box: |
+  **Source:** Madame Iva's five-card prophecy  
+  **Theme:** Party's destiny unfolds in sequence  
+  **Climax:** Final confrontation at Castle Ravenloft
 related: ["/npcs/madame-iva", "/locations/castle-ravenloft", "/npcs/strahd-von-zarovich"]
 ---
 

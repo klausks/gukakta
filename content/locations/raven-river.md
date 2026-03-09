@@ -5,7 +5,9 @@ date: 2026-03-07
 draft: false
 tags: ["location"]
 summary_box: |
-  **Region:** Barovia
+  **Region:** Barovia  
+  **Known For:** Crossroads landmark; site of a troll attack  
+  **First Encountered:** [Session 40]({{< ref "/sessions/session-40" >}})
 ---
 
 ## Overview

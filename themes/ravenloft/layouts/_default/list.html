@@ -21,7 +21,7 @@
           <h2 class="entry-card__title">{{ .Title }}</h2>
           {{- with .Params.subtitle }}<p class="entry-card__subtitle">{{ . }}</p>{{- end }}
           {{- if .Params.summary_box }}
-          {{- $sb := .Params.summary_box | replaceRE `\[([^\]]+)\]\(\{\{<[^>]+>\}\}\)` `$1` }}
+          {{- $sb := .Params.summary_box | replaceRE `\[([^\]]+)\]\({{<[^>]+>}}\)` `$1` }}
           <div class="entry-card__summary entry-card__summary--stat">{{ $sb | markdownify }}</div>
           {{- else if .Summary }}
           <p class="entry-card__summary">{{ .Summary }}</p>

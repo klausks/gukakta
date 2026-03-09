@@ -5,7 +5,10 @@ date: 2026-03-07
 draft: false
 tags: ["location"]
 summary_box: |
-  **Region:** Barovia
+  **Region:** Barovia  
+  **Near:** South along the [Svalich Road]({{< ref "/locations/svalich-road" >}}) crossroads  
+  **Known For:** Swamp settlement; suspected home of [Baba Lysaga]({{< ref "/npcs/baba-lysaga" >}})  
+  **First Encountered:** [Session 41]({{< ref "/sessions/session-41" >}})
 ---
 
 ## Overview
