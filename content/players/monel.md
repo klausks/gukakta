@@ -2,6 +2,7 @@
 title: "Monel"
 date: 2026-03-05
 draft: false
+image: "/images/players/monel.jpeg"
 tags: ["player", "character"]
 summary_box: |
   **Player:** Monel  

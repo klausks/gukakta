@@ -2,6 +2,7 @@
 title: "Vedas"
 date: 2026-03-07
 draft: false
+image: "/images/players/vedas.jpeg"
 tags: ["player", "character"]
 summary_box: |
   **Race:** Unknown  
