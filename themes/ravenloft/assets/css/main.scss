@@ -25,6 +25,7 @@ $c-blood-light:  #b82020;        // fresh crimson — decorative glyph (was #a01
 $c-mist:         rgba(139, 27, 27, 0.05);
 
 $font-display: 'Cinzel Decorative', 'Cinzel', serif;
+$font-brand:   'UnifrakturMaguntia', 'Cinzel Decorative', serif;
 $font-heading: 'Cinzel', serif;
 $font-body:    'IM Fell English', 'Georgia', serif;
 $font-mono:    'Fira Code', 'Consolas', monospace;
@@ -51,6 +52,7 @@ $fs-giant: 6rem;                      // 404 error code
 $sidebar-w: 260px;
 $header-h:  90px;
 
+$bp-sm: 480px;
 $bp-md: 768px;
 $bp-lg: 1100px;
 
@@ -265,17 +267,40 @@ hr {
 .site-title {
   display: flex;
   align-items: center;
-  gap: 0.5rem;
-  font-family: $font-display;
-  font-size: $fs-md;
+  gap: 0.6rem;
+  font-family: $font-brand;
+  font-size: 1.2rem;
+  font-weight: 200;
   color: $c-gold-light;
-  letter-spacing: 0.06em;
-  text-shadow: 0 0 12px rgba($c-gold, 0.5);
-  line-height: 1.3;
+  letter-spacing: 0.04em;
+  text-shadow:
+    0 0 18px rgba($c-gold, 0.55),
+    0 2px 8px rgba(0, 0, 0, 0.8);
+  line-height: 1.2;
 
-  .title-crest { color: $c-blood-light; font-size: $fs-base; }
+  .title-crest {
+    color: $c-blood-light;
+    font-family: serif;          // keep the ⚜ glyph from the serif stack
+    font-size: 2rem;
+    line-height: 1;
+    flex-shrink: 0;
+    text-shadow:
+      0 0 14px rgba($c-accent, 0.8),
+      0 0 28px rgba($c-blood, 0.5);
+  }
 
-  &:hover { color: $c-gold-light; text-shadow: 0 0 20px rgba($c-gold, 0.7); }
+  &:hover {
+    color: $c-gold-light;
+    text-shadow:
+      0 0 28px rgba($c-gold, 0.75),
+      0 2px 8px rgba(0, 0, 0, 0.8);
+
+    .title-crest {
+      text-shadow:
+        0 0 20px rgba($c-accent, 1),
+        0 0 40px rgba($c-blood, 0.7);
+    }
+  }
 }
 
 .site-tagline {
@@ -471,7 +496,7 @@ hr {
 
 .article-title {
   margin-bottom: 0.4rem;
-  font-size: $fs-2xl;
+  font-size: clamp(1.5rem, 6vw, $fs-2xl);
 }
 
 .article-subtitle {
@@ -586,7 +611,7 @@ hr {
 }
 
 .section-title {
-  font-size: $fs-2xl;
+  font-size: clamp(1.3rem, 5vw, $fs-2xl);
 }
 
 .section-intro {
@@ -1160,4 +1185,144 @@ hr {
 .callout--danger {
   border-color: $c-blood;
   background: rgba($c-blood, 0.05);
+}
+
+// -----------------------------------------------------------
+// 16. Responsive / Mobile
+// -----------------------------------------------------------
+
+// Reduce base font on phones
+@media (max-width: $bp-sm) {
+  html { font-size: 15px; }
+}
+
+// Compact header on mobile
+@media (max-width: $bp-md) {
+  .site-header { height: 60px; }
+
+  .header-inner {
+    padding: 0 1rem;
+    gap: 0.75rem;
+  }
+
+  .site-tagline { display: none; }
+
+  .site-title { font-size: 1.1rem; }
+  .site-title .title-crest { font-size: 1.5rem; }
+}
+
+// Tighten main content padding on small phones
+@media (max-width: $bp-sm) {
+  .main-content { padding: 1.5rem 0.85rem 2rem; }
+}
+
+// Fluid base headings on mobile
+@media (max-width: $bp-md) {
+  h1 { font-size: 1.7rem; }
+  h2 { font-size: 1.35rem; }
+  h3 { font-size: 1.1rem; }
+}
+
+// Scrollable tables — prevent horizontal blowout
+.article-body table,
+.wiki-article table {
+  display: block;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  width: 100%;
+}
+
+// Single-column entry cards on phones
+@media (max-width: $bp-sm) {
+  .entry-list {
+    grid-template-columns: 1fr;
+  }
+}
+
+// Stack journal entries on phones
+@media (max-width: $bp-sm) {
+  .journal-entry {
+    flex-direction: column;
+    gap: 0.2rem;
+  }
+
+  .journal-entry__link {
+    flex-direction: column;
+    gap: 0.1rem;
+  }
+
+  .journal-entry__date {
+    margin-left: 0;
+    white-space: normal;
+  }
+
+  .journal-entry__players { padding-left: 0; }
+}
+
+// Minimum 44 px touch targets for nav controls
+@media (max-width: $bp-md) {
+  .nav-link {
+    min-height: 44px;
+    display: flex;
+    align-items: center;
+  }
+
+  .nav-toggle {
+    min-height: 44px;
+    min-width: 44px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+}
+
+// Mobile Table of Contents (inline collapsible, desktop-hidden)
+.mobile-toc {
+  display: none;
+
+  @media (max-width: $bp-md) {
+    display: block;
+    margin-bottom: 1.75rem;
+    border: 1px solid $c-border;
+    border-radius: $radius-md;
+    overflow: hidden;
+  }
+}
+
+.mobile-toc__toggle {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  width: 100%;
+  padding: 0.75rem 1rem;
+  background: $c-bg-raised;
+  cursor: pointer;
+  font-family: $font-heading;
+  font-size: 0.8rem;
+  letter-spacing: 0.07em;
+  text-transform: uppercase;
+  color: $c-text-muted;
+  user-select: none;
+  list-style: none;
+  border: none;
+  outline: none;
+  transition: background 0.2s, color 0.2s;
+
+  &::before {
+    content: '▸';
+    color: $c-accent-light;
+    transition: transform 0.2s;
+  }
+
+  &:hover { background: $c-bg-card; color: $c-gold-light; }
+
+  details[open] > &::before { content: '▾'; }
+}
+
+.mobile-toc__body {
+  padding: 0.6rem 0.75rem;
+  border-top: 1px solid $c-border;
+  background: $c-bg;
+
+  #TableOfContents { padding: 0; font-size: 0.85rem; }
 }

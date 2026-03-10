@@ -36,6 +36,15 @@
   </aside>
   {{- end }}
 
+  {{- if .Page.TableOfContents }}
+  <details class="mobile-toc">
+    <summary class="mobile-toc__toggle">On This Page</summary>
+    <div class="mobile-toc__body">
+      {{ .Page.TableOfContents }}
+    </div>
+  </details>
+  {{- end }}
+
   <div class="article-body">
     {{ .Content }}
   </div>
