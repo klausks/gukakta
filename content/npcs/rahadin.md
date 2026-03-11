@@ -4,7 +4,7 @@ subtitle: "Trusted attendant of Strahd von Zarovich"
 date: 2026-03-08
 draft: false
 tags: ["npc", "castle-ravenloft", "strahd"]
-image: "/images/npcs/rahadin.jpeg"
+image: "images/npcs/rahadin.jpeg"
 summary_box: |
   **Status:** Active
   **Location:** [Castle Ravenloft]({{< ref "/locations/castle-ravenloft" >}})

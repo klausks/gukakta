@@ -4,7 +4,7 @@ subtitle: "Son of the Baron of Vallaki"
 date: 2026-03-07
 draft: false
 tags: ["npc", "vallaki", "vallakovich"]
-image: "/images/npcs/viktor_vallakovich.jpeg"
+image: "images/npcs/viktor_vallakovich.jpeg"
 summary_box: |
   **Location:** [Vallaki]({{< ref "/locations/vallaki" >}})  
   **Relationship:** Unknown  

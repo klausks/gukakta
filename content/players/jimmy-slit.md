@@ -2,7 +2,7 @@
 title: "Jimmy Slit"
 date: 2026-03-05
 draft: false
-image: "/images/players/jimmy_slit.png"
+image: "images/players/jimmy_slit.png"
 tags: ["player", "character"]
 summary_box: |
   **Player:** Jimmy  

@@ -3,7 +3,7 @@ title: "Ireena Kolyana"
 subtitle: "The Eternal Tatyana"
 date: 2026-03-04
 tags: ["npc", "ally", "key-figure"]
-image: "/images/npcs/ireena_kolyana.jpeg"
+image: "images/npcs/ireena_kolyana.jpeg"
 summary_box: |
   **Race:** Human  
   **Alignment:** Neutral Good  
