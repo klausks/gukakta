@@ -14,7 +14,7 @@
       <a href="{{ .Permalink }}" class="entry-card__link">
         {{- with .Params.image }}
         <div class="entry-card__image">
-          <img src="{{ . }}" alt="{{ $.Title }}" loading="lazy" />
+          <img src="{{ . | relURL }}" alt="{{ $.Title }}" loading="lazy" />
         </div>
         {{- end }}
         <div class="entry-card__body">
