@@ -2,7 +2,7 @@
 title: "Session 53 - The Missing Girl of the Lake"
 date: 2026-03-08
 draft: false
-tags: ["session", "vallaki", "vistani", "lake-zarovich"]
+tags: ["session", "vallaki", "vistani", "lake-zarovich", "st-andral", "wachter", "cult"]
 session_number: 53
 session_date: "05/03/2026"
 players_present: ["Igga Bevneros", "Monel", "Jimmy Slit", "Vedas", "Agares", "Pepino Falstaff"]
@@ -12,7 +12,25 @@ players_present: ["Igga Bevneros", "Monel", "Jimmy Slit", "Vedas", "Agares", "Pe
 
 [Jimmy Slit]({{< ref "/players/jimmy-slit" >}}) and [Monel]({{< ref "/players/monel" >}}) return to the [Vistani camp near Vallaki]({{< ref "/locations/vistani-camp-vallaki" >}}) and meet [Arrigal]({{< ref "/npcs/arrigal" >}}), the camp leader, whose niece [Arabelle]({{< ref "/npcs/arabelle" >}}) has been missing for a day and a half. The party tracks her to [Lake Zarovich]({{< ref "/locations/lake-zarovich" >}}), where a fisherman named [Bluto]({{< ref "/npcs/bluto" >}}) had been keeping her locked in a sack. Arabelle is recovered and returned to her father [Louvash]({{< ref "/npcs/louvash" >}}). The camp rewards the party with a detailed map and invites them to their feast, during which Arrigal shares valuable intelligence about Vallaki, Krezk, and the abbey.
 
+Elsewhere in Vallaki, [Vedas]({{< ref "/players/vedas" >}}) persuades [Izek Stravni]({{< ref "/npcs/izek" >}}) to let him speak with [Udo Rikalova]({{< ref "/npcs/udo-rikalova" >}}), a young prisoner accused of publicly challenging the Baron's rule while dressed in cult-like garments. Vedas feigns interest and uses charm to extract details about a pro-Strahd cult in Vallaki, then forcibly takes Udo's cult medallion.
+
+[Igga Bevneros]({{< ref "/players/igga-bevneros" >}}) and [Agares]({{< ref "/players/agares" >}}) speak with [Urwin Martikov]({{< ref "/npcs/urwin-martikov" >}}) about the theft of [St. Andral's]({{< ref "/lore/st-andral" >}}) bones. Urwin finds [Henrich Van der Hood]({{< ref "/npcs/henrich-van-der-voort" >}})'s involvement strange and the party suspects [Fiona Wachter]({{< ref "/npcs/fiona-wachter" >}}) may be behind the plot.
+
 ## Key Events
+
+### Vedas, Izek, and Udo Rikalova
+
+[Vedas]({{< ref "/players/vedas" >}}) convinces [Izek Stravni]({{< ref "/npcs/izek" >}}) to allow him to speak with [Udo Rikalova]({{< ref "/npcs/udo-rikalova" >}}), a young man imprisoned for making a public scene challenging the Baron's rule while dressed in a robe — suggesting cult involvement.
+
+Vedas fakes interest in the cult and charms Udo into talking. Udo reveals the group is a **pro-Strahd cult** led by [Fiona Wachter]({{< ref "/npcs/fiona-wachter" >}}), allegedly founded by **Lovina Wachter** generations ago. Each member wears a specific medallion and dons a robe and mask.
+
+When Vedas asks to borrow Udo's medallion to infiltrate the cult, Udo refuses. Vedas takes it by force, leaving Udo sobbing in despair as he claims the medallion — and rejoining the cult — is his only hope.
+
+### Urwin and the Stolen Bones
+
+[Igga Bevneros]({{< ref "/players/igga-bevneros" >}}) and [Agares]({{< ref "/players/agares" >}}) speak to [Urwin Martikov]({{< ref "/npcs/urwin-martikov" >}}) about the discovered theft of [St. Andral's]({{< ref "/lore/st-andral" >}}) bones and [Henrich Van der Hood]({{< ref "/npcs/henrich-van-der-voort" >}})'s involvement. Urwin finds Henrich's role strange, as Henrich has always seemed straightforward with no obvious signs of character deviation.
+
+The party suspects [Fiona Wachter]({{< ref "/npcs/fiona-wachter" >}}) may be behind the plot — potentially through a spell or blackmail — or that Henrich may have an occult reason to participate.
 
 ### Meeting Arrigal
 
@@ -48,9 +66,14 @@ Before departing, Jimmy and Monel asked the camp leaders several questions:
 - Krezk's burgomaster is described as notably saner than Baron Vallakovich. Krezk and Vallaki trade covertly, primarily in wine.
 - No one in Vallaki is genuinely happy, according to the Vistani — the festival culture is not organic.
 - The Vistani know the Wachter family but maintain no active relationship with them.
+- Udo claimed there is a pro-Strahd cult in Vallaki led by Fiona Wachter, allegedly founded by Lovina Wachter generations ago; members wear a specific medallion and don robe and mask.
+- Vedas forcibly took Udo's cult medallion, gaining a possible means of infiltration.
+- Urwin finds Henrich Van der Hood's involvement in the St. Andral bones theft strange, suggesting an outside influence or hidden motive.
 
 ## Decisions & Consequences
 
 - The party now possesses a detailed regional map acquired as a reward from the Vistani.
 - Jimmy has a confirmed destination for hand restoration: the Abbey of Saint Markovia in Krezk.
 - The party left the feast early due to Isha's summons — the nature of that call is unresolved.
+- Vedas now holds a cult medallion taken from Udo, at the cost of making an enemy of a desperate cultist.
+- The party's suspicion intensifies around Fiona Wachter and the theft of St. Andral's bones.

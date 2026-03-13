@@ -8,7 +8,7 @@ summary_box: |
   **Location:** [Vallaki]({{< ref "/locations/vallaki" >}}) (Baron's custody)  
   **Role:** Prisoner  
   **Status:** Alive (imprisoned)  
-  **Relationship:** Unknown
+  **Relationship:** Hostile to the party (robbed of his medallion)
 ---
 
 ## Overview
@@ -17,7 +17,7 @@ Udo Rikalova is the son of [Willemina Rikalova]({{< ref "/npcs/willemina-rikalov
 
 ## Personality
 
-Unknown.
+Desperate and decadent.
 
 ## Goals and Motivations
 
@@ -33,3 +33,8 @@ Unknown.
 
 ### Session 50 (referenced)
 His mother Willemina approached the party asking for his rescue. Referenced in [Session 50]({{< ref "/sessions/session-50" >}}).
+
+### Session 53
+Questioned by [Vedas]({{< ref "/players/vedas" >}}) under Izek's watch. Vedas feigned interest and charmed Udo into describing a pro-Strahd cult in Vallaki that Udo claimed is led by [Fiona Wachter]({{< ref "/npcs/fiona-wachter" >}}), allegedly founded by Lovina Wachter generations ago. Udo said members wear a specific medallion and don robe and mask.
+
+When Vedas asked to borrow Udo's medallion to infiltrate the cult, Udo refused. Vedas then took the medallion by force, leaving Udo sobbing in despair as he claimed the medallion and rejoining the cult were his only hope. Appears in [Session 53]({{< ref "/sessions/session-53" >}}).

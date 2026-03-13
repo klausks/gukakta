@@ -65,3 +65,6 @@ During the party’s attempts to interrogate Majesto under truth magic, Fiona’
 
 ### Session 51 (referenced)
 [Baron Vallakovich]({{< ref "/npcs/baron-vallakovich" >}}) tasked the party with investigating Fiona Wachter during their breakfast meeting. Her imp familiar, [Majesto]({{< ref "/creatures/majesto" >}}), was spotted by [Agares]({{< ref "/players/agares" >}}) watching the meeting through a window — suggesting she may already be aware of the Baron's move against her. Referenced in [Session 51]({{< ref "/sessions/session-51" >}}).
+
+### Session 53
+[Udo Rikalova]({{< ref "/npcs/udo-rikalova" >}}), while imprisoned and questioned by Vedas, claimed there is a pro-Strahd cult in Vallaki led by Fiona Wachter, allegedly founded by Lovina Wachter generations ago. He described members as wearing a specific medallion and donning robe and mask. The accuracy of Udo's account is unverified. Appears in [Session 53]({{< ref "/sessions/session-53" >}}).

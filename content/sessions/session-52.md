@@ -2,7 +2,7 @@
 title: "Session 52 - Before the Festival"
 date: 2026-03-08
 draft: false
-tags: ["session", "vallaki", "vistani", "jimmy", "monel"]
+tags: ["session", "vallaki", "vistani", "jimmy", "monel", "st-andral", "isha"]
 session_number: 52
 session_date: "25/02/2026"
 players_present: ["Igga Bevneros", "Monel", "Jimmy Slit", "Vedas", "Agares", "Pepino Falstaff"]
@@ -10,9 +10,15 @@ players_present: ["Igga Bevneros", "Monel", "Jimmy Slit", "Vedas", "Agares", "Pe
 
 ## Summary
 
-The day before [Vallaki]({{< ref "/locations/vallaki" >}})'s festival, the party splits to handle individual errands. [Jimmy Slit]({{< ref "/players/jimmy-slit" >}}) and [Monel]({{< ref "/players/monel" >}}) travel to a nearby Vistani camp to collect an item that had been promised to Monel and to seek out solutions for Jimmy's missing right hand.
+The day before [Vallaki]({{< ref "/locations/vallaki" >}})'s festival, the party splits to handle individual errands. [Jimmy Slit]({{< ref "/players/jimmy-slit" >}}) and [Monel]({{< ref "/players/monel" >}}) travel to a nearby Vistani camp to collect an item promised to Monel and to seek solutions for Jimmy's missing hand. Meanwhile, [Igga Bevneros]({{< ref "/players/igga-bevneros" >}}) and [Agares]({{< ref "/players/agares" >}}) visit [St. Andral's Church]({{< ref "/locations/st-andrals-church" >}}), where they uncover a troubling theft that may threaten the entire festival.
 
 ## Key Events
+
+### The Church and the Stolen Bones
+
+[Igga Bevneros]({{< ref "/players/igga-bevneros" >}}) and [Agares]({{< ref "/players/agares" >}}) visit [St. Andral's Church]({{< ref "/locations/st-andrals-church" >}}), where the priest informs them that the bones of [St. Andral]({{< ref "/lore/st-andral" >}}) have been stolen from the crypt beneath the church. As the two leave, they spot [Milivoj]({{< ref "/npcs/milivoj" >}}), the young gravekeeper, in the yard and press him for information. Milivoj proves to be a poor liar and quickly confesses: he accepted a deal for **10 gold pieces** — 5 gp to deliver the skull of St. Andral to **[Henrich Van der Hood]({{< ref "/npcs/henrich-van-der-voort" >}})**, the town's coffin maker, and a further 5 gp to bury **5 coffins** that will be delivered to him that night at 10 PM.
+
+Suspecting a larger scheme — possibly to sabotage the festival or unleash chaos in Vallaki — Igga and Agares send [Isha]({{< ref "/creatures/isha" >}}) to recall Jimmy and Monel from the Vistani camp for an urgent meeting.
 
 ### The Vistani Camp
 
@@ -30,11 +36,14 @@ Tolmul directs Jimmy and Monel to **[Arrigal]({{< ref "/npcs/arrigal" >}})**, th
 
 ## Discoveries & Clues
 
-- A unique map — possibly made by or once belonging to Rudolph van Richten — was recently sold by Tolmul to an unknown adventurer. Its current whereabouts are unknown.
+- The bones of [St. Andral]({{< ref "/lore/st-andral" >}}) have been stolen from the church crypt. [Milivoj]({{< ref "/npcs/milivoj" >}}) confessed to taking them and delivering the skull to [Henrich Van der Hood]({{< ref "/npcs/henrich-van-der-voort" >}}), Vallaki's coffin maker.
+- Milivoj was also paid to bury 5 coffins to be delivered to him at 10 PM the same night — the eve of the festival.
+- A unique map — possibly made by or once belonging to [Rudolph van Richten]({{< ref "/npcs/rudolph-van-richten" >}}) — was recently sold by Tolmul to an unknown adventurer. Its current whereabouts are unknown.
 - [Arrigal]({{< ref "/npcs/arrigal" >}}), the Vistani camp leader near Vallaki, may have information or resources related to restoring Jimmy's lost hand.
 
 ## Decisions & Consequences
 
+- The bones of St. Andral are in the hands of [Henrich Van der Hood]({{< ref "/npcs/henrich-van-der-voort" >}}). The party suspects a major threat to Vallaki is imminent on the night of the festival.
 - Jimmy now wields a retractable armblade in place of his severed right hand, restoring his combat effectiveness.
 - Monel has upgraded his armor.
 - The party has a lead on the Van Richten map, but it has already been sold to an unknown buyer.

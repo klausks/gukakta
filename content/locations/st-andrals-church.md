@@ -7,12 +7,15 @@ tags: ["location", "vallaki", "church"]
 summary_box: |
   **Region:** [Vallaki]({{< ref "/locations/vallaki" >}})  
   **Ruler:** [Father Lucian Petrovich]({{< ref "/npcs/lucian-petrovich" >}})  
-  **Danger Level:** Low
+  **Holy Relic:** Bones of [St. Andral]({{< ref "/lore/st-andral" >}}) — **stolen** (as of Session 52)  
+  **Danger Level:** High (relic stolen; threat to the festival suspected)
 ---
 
 ## Overview
 
-St. Andral's Church is a place of worship in Vallaki, presided over by [Father Lucian Petrovich]({{< ref "/npcs/lucian-petrovich" >}}). It appears to offer a degree of sanctuary to those who seek it. The church hosts an annual feast in Saint Andral's honor, which coincides with Vallaki's festival day.
+St. Andral's Church is a place of worship in [Vallaki]({{< ref "/locations/vallaki" >}}), presided over by [Father Lucian Petrovich]({{< ref "/npcs/lucian-petrovich" >}}). It appears to offer a degree of sanctuary to those who seek it. The church hosts an annual feast in [St. Andral's]({{< ref "/lore/st-andral" >}}) honor, which coincides with Vallaki's festival day.
+
+Beneath the altar lies a crypt housing the bones of [St. Andral]({{< ref "/lore/st-andral" >}}), a powerful holy relic said to consecrate and protect the church and those within it. The bones are the source of the church's sanctified status. On the eve of the festival, the bones were discovered to have been stolen from the crypt — taken by the gravekeeper [Milivoj]({{< ref "/npcs/milivoj" >}}), who sold the skull to [Henrich Van der Hood]({{< ref "/npcs/henrich-van-der-voort" >}}), Vallaki's coffin maker. Without the relic, the church's protective sanctity may be compromised.
 
 ## Notable Locations
 
@@ -21,6 +24,7 @@ St. Andral's Church is a place of worship in Vallaki, presided over by [Father L
 ## Key NPCs
 
 - [Father Lucian Petrovich]({{< ref "/npcs/lucian-petrovich" >}}) — the presiding priest; his sister is [Lydia Petrovna]({{< ref "/npcs/lydia-petrovna" >}}), who is married to [Baron Vallakovich]({{< ref "/npcs/baron-vallakovich" >}})
+- [Milivoj]({{< ref "/npcs/milivoj" >}}) — the young gravekeeper; confessed to stealing St. Andral's bones
 
 ## Key Events and Discoveries
 
@@ -32,3 +36,6 @@ Monel and Agares visited the church and found Ireena sheltering here. Father Luc
 
 ### Session 51
 [Jimmy Slit]({{< ref "/players/jimmy-slit" >}}) underwent an exorcism in the crypt, performed by Father Lucian using the Iron Vigil rite. Jimmy severed his own right hand to expel [the demon]({{< ref "/creatures/jimmys-demon" >}}), which escaped in partial physical form and broke the crypt gate from its axis as it fled. The crypt's gate remains damaged. Appears in [Session 51]({{< ref "/sessions/session-51" >}}).
+
+### Session 52
+The priest informed [Igga Bevneros]({{< ref "/players/igga-bevneros" >}}) and [Agares]({{< ref "/players/agares" >}}) that the bones of [St. Andral]({{< ref "/lore/st-andral" >}}) had been stolen from the crypt. The party confronted gravekeeper [Milivoj]({{< ref "/npcs/milivoj" >}}) in the churchyard and obtained a confession: he had sold the skull to [Henrich Van der Hood]({{< ref "/npcs/henrich-van-der-voort" >}}), Vallaki's coffin maker, and agreed to bury 5 coffins to be delivered that night at 10 PM. Appears in [Session 52]({{< ref "/sessions/session-52" >}}).
