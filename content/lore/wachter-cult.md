@@ -4,10 +4,10 @@ date: 2026-03-13
 draft: false
 tags: ["lore", "vallaki", "cult", "strahd", "wachter"]
 summary_box: |
-	**Type:** Pro-Strahd cult (reported)  
-	**Location:** [Vallaki]({{< ref "/locations/vallaki" >}})  
-	**Leader (claimed):** [Fiona Wachter]({{< ref "/npcs/fiona-wachter" >}})  
-	**Identifiers:** Medallion; robe and mask
+    **Type:** Pro-Strahd cult (reported)  
+    **Location:** [Vallaki]({{< ref "/locations/vallaki" >}})  
+    **Leader (claimed):** [Fiona Wachter]({{< ref "/npcs/fiona-wachter" >}})  
+    **Identifiers:** Medallion; robe and mask
 ---
 
 ## Background

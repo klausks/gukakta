@@ -5,10 +5,10 @@ date: 2026-03-13
 draft: false
 tags: ["npc", "vallaki", "cult"]
 summary_box: |
-	**Location:** [Vallaki]({{< ref "/locations/vallaki" >}})  
-	**Role:** Suspected cult visitor  
-	**Status:** Alive (observed)  
-	**Relationship:** Unknown
+    **Location:** [Vallaki]({{< ref "/locations/vallaki" >}})  
+    **Role:** Suspected cult visitor  
+    **Status:** Alive (observed)  
+    **Relationship:** Unknown
 ---
 
 ## Overview

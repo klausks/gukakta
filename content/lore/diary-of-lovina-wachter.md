@@ -4,10 +4,10 @@ date: 2026-03-13
 draft: false
 tags: ["lore", "vallaki", "book", "wachter", "cult"]
 summary_box: |
-	**Type:** Diary / book (observed)  
-	**Location:** [Wachterhaus]({{< ref "/locations/wachterhaus" >}}) (library)  
-	**Associated Name:** Lovina Wachter  
-	**Noted Property:** Connected to a secret-door mechanism
+    **Type:** Diary / book (observed)  
+    **Location:** [Wachterhaus]({{< ref "/locations/wachterhaus" >}}) (library)  
+    **Associated Name:** Lovina Wachter
+    **Noted Property:** Connected to a secret-door mechanism
 ---
 
 ## Background

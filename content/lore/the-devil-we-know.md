@@ -4,9 +4,9 @@ date: 2026-03-13
 draft: false
 tags: ["lore", "vallaki", "book", "wachter"]
 summary_box: |
-	**Type:** Book (observed)  
-	**Location:** [Wachterhaus]({{< ref "/locations/wachterhaus" >}}) (library)  
-	**Relevance:** Unknown
+    **Type:** Book (observed)  
+    **Location:** [Wachterhaus]({{< ref "/locations/wachterhaus" >}}) (library)  
+    **Relevance:** Unknown
 ---
 
 ## Background
