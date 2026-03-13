@@ -4,9 +4,10 @@ subtitle: "The Lyre Player"
 date: 2026-03-05
 draft: false
 tags: ["player", "character"]
+image: "images/players/igga_bevneros.jpeg"
 summary_box: |
-  **Race:** Unknown (possibly Drow)  
-  **Class:** Unknown  
+  **Race:** Drow 
+  **Class:** Bard 
   **Background:** Unknown
 ---
 

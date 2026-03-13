@@ -7,6 +7,7 @@ tags: ["location", "vallaki", "baron-vallakovich"]
 summary_box: |
   **Region:** [Vallaki]({{< ref "/locations/vallaki" >}})
   **Owner:** [Baron Vargas Vallakovich]({{< ref "/npcs/baron-vallakovich" >}})
+
 ---
 
 ## Overview

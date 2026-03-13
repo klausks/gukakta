@@ -7,27 +7,38 @@ tags: ["npc", "vallaki"]
 summary_box: |
   **Race:** Human  
   **Location:** [Vallaki]({{< ref "/locations/vallaki" >}})  
-  **Role:** Blue Water Inn representative  
+  **Role:** Blue Water Inn representative / Martikov contact  
   **Status:** Alive  
-  **Relationship:** Unknown
+  **Relationship:** Ally / information broker
 ---
 
 ## Overview
 
 Urwin Martikov is associated with the Blue Water Inn in Vallaki. Danika describes him as usually being in the kitchen.
 
+In practice, Urwin has served as the party’s main point of contact for Martikov-related information and requests in Vallaki: he has tasked the group with investigating the troubles at the [Wizard of Wines Winery]({{< ref "/locations/wizard-of-wines-winery" >}}), provided payment and directions, and supplied intelligence about Vallaki’s politics and the upcoming festival.
+
+Urwin also provided the party with a trained crow, [Kiki]({{< ref "/npcs/kiki" >}}), as a communication and distress link to the Martikov spy network.
+
 ## Personality
 
-Unknown.
+Discreet and pragmatic. He shares information selectively, speaks in terms of practical risks, and appears politically alert.
 
 ## Goals and Motivations
 
-Unknown.
+- Restore wine deliveries from the [Wizard of Wines Winery]({{< ref "/locations/wizard-of-wines-winery" >}})
+- Keep the party informed about shifting dangers and politics in Vallaki
+- Maintain a controlled, intentional link to the Martikov spy network (via Kiki)
 
 ## Connections
 
 - [Danika Martikov]({{< ref "/npcs/danika-martikov" >}}) — his wife
+- [Davian Martikov]({{< ref "/npcs/davian-martikov" >}}) — his father
 - [Kiki]({{< ref "/npcs/kiki" >}}) — crow given to the party as a communication link to the Martikov spy network
+- [Wizard of Wines Winery]({{< ref "/locations/wizard-of-wines-winery" >}}) — requested the party investigate the failure of wine deliveries
+- [Fiona Wachter]({{< ref "/npcs/fiona-wachter" >}}) — made a political remark to Urwin that he interpreted as a loyalty test
+- [Mr. Ernst]({{< ref "/npcs/mr-ernst" >}}) — Urwin warned the party he cannot be trusted (suspected loyalty to Fiona)
+- [Henrich Van der Voort]({{< ref "/npcs/henrich-van-der-voort" >}}) — Urwin found his alleged involvement in the St. Andral bones theft strange
 
 ## Key Events
 
@@ -52,4 +63,6 @@ Informed the party upon their return to the Blue Water Inn that [Ireena Kolyana]
 Delivered the rewards from the winery mission: two bottles of Champagne Du le Stomp and the staff the party had left behind. Confirmed the party's understanding of Vallaki's politics. Mentioned that [Izek]({{< ref "/npcs/izek" >}}) had passed through the inn asking about a redheaded woman — which Urwin found unusual — and that Izek appears romantically interested in [Rosemary]({{< ref "/npcs/rosemary" >}}), though the feeling is not returned. After Agares stated the party's goal of defeating Strahd and all his allies, Urwin appeared moved but unsettled. Gave the party a trained crow — [Kiki]({{< ref "/npcs/kiki" >}}) — as a communication and distress tool and explained that Martikovs must consciously focus on a crow to see through it, and do not do so passively. Also mentioned that Fiona Wachter had once told him at a dinner that she would *"rather trust the devil than the baron"*, which he interpreted as a test of his political loyalties. Described the upcoming Vallaki festival: theatrical performances, children both laughing and terrified, public humiliations of prisoners in crates, dances, and a speech from the Baron. Appears in [Session 49]({{< ref "/sessions/session-49" >}}).
 
 ### Session 53
-Spoke with Igga and Agares about the theft of [St. Andral's]({{< ref "/lore/st-andral" >}}) bones and [Henrich Van der Hood]({{< ref "/npcs/henrich-van-der-voort" >}})'s involvement. Urwin found Henrich's role strange given Henrich's usual straightforward reputation, and suggested the coffin maker may be acting under outside influence or hidden motive. Appears in [Session 53]({{< ref "/sessions/session-53" >}}).
+Spoke with Igga and Agares about the theft of [St. Andral's]({{< ref "/lore/st-andral" >}}) bones and [Henrich Van der Voort]({{< ref "/npcs/henrich-van-der-voort" >}})'s involvement. Urwin found Henrich's role strange given Henrich's usual straightforward reputation, and suggested the coffin maker may be acting under outside influence or hidden motive.
+
+In the same context, Urwin warned the party that [Mr. Ernst]({{< ref "/npcs/mr-ernst" >}}) cannot be trusted and may be loyal to [Fiona Wachter]({{< ref "/npcs/fiona-wachter" >}}). Appears in [Session 53]({{< ref "/sessions/session-53" >}}).
