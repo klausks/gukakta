@@ -17,6 +17,9 @@ Wachterhaus is the residence of Fiona Wachter, a noble figure in Vallaki. The pa
 
 - Guest rooms prepared for visitors (including a room said to belong to Nikolai Wachter)
 - Area where the captured imp is kept (secured)
+- Basement rooms with old beds and signs of recent use (within the last few months)
+- A secret ritual chamber behind a hidden door in the basement wall
+- Library containing occult-political books, including one titled "The Devil we know" and the Diary of Lovina Wachter (linked to a secret-door mechanism)
 
 ## Key NPCs
 
@@ -43,3 +46,8 @@ The party learns that the captured imp Majesto is a familiar tied to the Wachter
 
 ### Session 40
 Agares hears Halik’s whispered warning to stop investigating for the night. By morning, Fiona is not seen, and household staff are gathered in the guest quarters with Igga before the party departs Vallaki. Appears in [Session 40]({{< ref "/sessions/session-40" >}}).
+
+### Session 54
+The party staged a two-pronged operation at Wachterhaus: Agares, Vedas, and Igga met Fiona under the pretense of helping Stella, while Jimmy infiltrated the basement under invisibility magic. Fiona refused outside intervention with Stella for the moment and demanded proof of loyalty, implying that Izek must fall for the Baron to fall.
+
+Jimmy discovered signs of recent occupation in basement rooms (beds, clothes, and a Blinksy doll) and uncovered a hidden ritual chamber with a pentagram marked by a faint red magical aura and an apparent item-slot at its center. Vedas’ familiar Isha, in spider form, searched the library and found a book titled "The Devil we know" and the Diary of Lovina Wachter, which was tied to a secret-door mechanism. Four suspected cult visitors (Dorian, Milan, Orloff, and Valeska) arrived and were called inside by Halik. Appears in [Session 54]({{< ref "/sessions/session-54" >}}).

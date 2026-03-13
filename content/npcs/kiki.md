@@ -33,3 +33,6 @@ N/A.
 
 ### Session 49
 Presented to the party by Urwin Martikov as a communication and emergency tool. Named **Kiki** by the party. [Vedas]({{< ref "/players/vedas" >}}) raised concern about potential surveillance; Urwin clarified the Martikovs only see through a crow when they intentionally focus on it, and that the party may request privacy at any time. Appears in [Session 49]({{< ref "/sessions/session-49" >}}).
+
+### Session 54
+Assigned to observe [Henrich Van der Voort]({{< ref "/npcs/henrich-van-der-voort" >}}) as part of the party’s plan to investigate the St. Andral bones theft. Appears in [Session 54]({{< ref "/sessions/session-54" >}}).

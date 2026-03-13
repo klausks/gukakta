@@ -43,3 +43,6 @@ The party returned to his shop to recover Agares' armor and look for platinum ri
 
 ### Session 39
 Sold a pearl to [Vedas]({{< ref "/players/vedas" >}}). Appears in [Session 39]({{< ref "/sessions/session-39" >}}).
+
+### Session 54
+Mentioned by suspected cult visitors outside Wachterhaus as a source for foreign tobacco. Appears in [Session 54]({{< ref "/sessions/session-54" >}}).

@@ -49,3 +49,6 @@ The party attempts to interrogate Majesto under truth magic while trying to keep
 
 ### Session 40
 Agares hears Halik’s voice through whispers warning the party to leave and stop investigating for the night: *"Go away. You are still raw. It will not be tonight that things happen."* In the morning, Halik simply bids the party farewell as they depart. Appears in [Session 40]({{< ref "/sessions/session-40" >}}).
+
+### Session 54
+Received Agares, Vedas, and Igga at Wachterhaus and told them Fiona was at afternoon tea. When Fiona came downstairs, Halik was instructed to bring her best wine. Later, Halik called four waiting visitors (Dorian, Milan, Orloff, and Valeska) into the mansion. Appears in [Session 54]({{< ref "/sessions/session-54" >}}).

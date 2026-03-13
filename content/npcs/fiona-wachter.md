@@ -68,3 +68,8 @@ During the party’s attempts to interrogate Majesto under truth magic, Fiona’
 
 ### Session 53
 [Udo Rikalova]({{< ref "/npcs/udo-rikalova" >}}), while imprisoned and questioned by Vedas, claimed there is a pro-Strahd cult in Vallaki led by Fiona Wachter, allegedly founded by Lovina Wachter generations ago. He described members as wearing a specific medallion and donning robe and mask. The accuracy of Udo's account is unverified. Appears in [Session 53]({{< ref "/sessions/session-53" >}}).
+
+### Session 54
+Received Agares, Vedas, and Igga at Wachterhaus for afternoon tea. She dismissed the party’s offer to intervene with Stella, saying Stella is improving slowly and receives daily prayers, and that she does not want interventions for now.
+
+Fiona pressed the party on politics, claiming she did not feel they supported her — only the Baron. She demanded evidence of loyalty and asserted that Izek must fall for the Baron to fall as well, insinuating that the party could eliminate Izek to prove their allegiance. Appears in [Session 54]({{< ref "/sessions/session-54" >}}).

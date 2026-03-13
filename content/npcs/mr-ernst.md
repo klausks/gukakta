@@ -38,3 +38,6 @@ Knocked on the door of the party's room at the Blue Water Inn and asked how the 
 
 ### Session 50
 A Vistani made contact with Ernst, informing him they had something to deliver to [Monel]({{< ref "/players/monel" >}}). In the same exchange, Monel lent Ernst her copy of Von Richten's book. Appears in [Session 50]({{< ref "/sessions/session-50" >}}).
+
+### Session 54
+Appeared outside Wachterhaus and greeted Monel as a group of suspected cult visitors approached the mansion. Ernst did not join the group. Appears in [Session 54]({{< ref "/sessions/session-54" >}}).

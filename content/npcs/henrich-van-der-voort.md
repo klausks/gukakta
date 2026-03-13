@@ -14,7 +14,7 @@ summary_box: |
 
 ## Overview
 
-Henrich Van der Hood is Vallaki's coffin maker. He is the suspected orchestrator of a plot to steal the bones of [St. Andral]({{< ref "/lore/st-andral" >}}) on the eve of the town's festival.
+Henrich Van der Voort is Vallaki's coffin maker. He is the suspected orchestrator of a plot to steal the bones of [St. Andral]({{< ref "/lore/st-andral" >}}) on the eve of the town's festival.
 
 ## Personality
 
@@ -32,3 +32,6 @@ Unknown. His motives for obtaining St. Andral's bones and arranging the burial o
 
 ### Session 52
 Identified by [Milivoj]({{< ref "/npcs/milivoj" >}}) as the person who paid him to steal the skull of [St. Andral]({{< ref "/lore/st-andral" >}}) from the church crypt (5 gp) and to bury 5 coffins to be delivered that night at 10 PM (5 gp). The party has not yet encountered him directly. Appears in [Session 52]({{< ref "/sessions/session-52" >}}).
+
+### Session 54
+Observed from a distance by [Kiki]({{< ref "/npcs/kiki" >}}) as the party prepared to infiltrate Wachterhaus and investigate the broader plot tied to St. Andral's bones. Appears in [Session 54]({{< ref "/sessions/session-54" >}}).

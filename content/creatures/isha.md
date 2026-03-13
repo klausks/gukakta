@@ -5,12 +5,12 @@ date: 2026-03-07
 draft: false
 tags: ["creature"]
 summary_box: |
-  **Type:** Summoned animal (owl)
+  **Type:** Summoned familiar (owl; later spider form)
 ---
 
 ## Overview
 
-Isha is an owl companion summoned by [Vedas]({{< ref "/players/vedas" >}}) and used for scouting.
+Isha is a summoned companion of [Vedas]({{< ref "/players/vedas" >}}) used for scouting.
 
 ## Abilities & Tactics
 
@@ -26,6 +26,9 @@ While scouting at a fork in the road, Isha helps identify an isolated castle wit
 
 ### Session 44
 Used for an aerial sweep of the winery approach, helping the party attempt a quieter entry. Appears in [Session 44]({{< ref "/sessions/session-44" >}}).
+
+### Session 54
+Took the form of a spider to scout rooms inside Wachterhaus and search the library. Found a book titled "The Devil we know" and later identified the Diary of Lovina Wachter as being tied to a secret-door mechanism. Appears in [Session 54]({{< ref "/sessions/session-54" >}}).
 
 ## Loot / Rewards
 

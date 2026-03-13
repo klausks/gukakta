@@ -23,3 +23,4 @@ If Udo's account is accurate, the cult represents an organised pro-Strahd factio
 ## References
 
 - Details reported by Udo during Vedas' interrogation in [Session 53]({{< ref "/sessions/session-53" >}}).
+- Suspected cult visitors (Dorian, Milan, Orloff, and Valeska) were admitted to Wachterhaus in [Session 54]({{< ref "/sessions/session-54" >}}).
