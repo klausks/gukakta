@@ -46,4 +46,4 @@ summary_box: |
 ```
 
 ### Creating/Editing Key Events Section
-- Keep events in the Key Events section concise and focused on the most important information. Avoid including minor details or side events that are not crucial to understanding the main storyline or character development. The goal is to provide an overview of the most significant events that occurred during the session, without overwhelming the reader with too much information. Try to limit each event to 2-3 sentences at most, and focus on the key actions, decisions, and consequences that drive the narrative forward.
+- Keep events in the Key Events section concise and focused on the most important information. The goal is to provide an overview of the most significant events that occurred during the session, without overwhelming the reader with too much information. Try to limit each event to 2-3 sentences at most, and focus on the key actions, decisions, and consequences that drive the narrative forward.
