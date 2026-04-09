@@ -17,7 +17,9 @@ summary_box: |
 
 ## History
 
-Much remains unknown. However, a letter attributed to [Hianag Darastrix]({{< ref "/npcs/hianag-darastrix" >}}) suggests [Strahd]({{< ref "/npcs/strahd-von-zarovich" >}}) waged a war against **Duke Gundar** and kept long-term servants or slaves under his banner, bound by promises of eventual freedom. See: [War with Duke Gundar]({{< ref "/lore/war-with-duke-gundar" >}}).
+Much remains unknown. The court history [Lords of Barovia]({{< ref "/lore/lords-of-barovia" >}}) records [Strahd]({{< ref "/npcs/strahd-von-zarovich" >}}) as born in **Y306** and as the commander who reconquered Barovia in **Y347** after the deaths of his father Barov and Count von Hapsburg during the Terg war.
+
+Separately, a letter attributed to [Hianag Darastrix]({{< ref "/npcs/hianag-darastrix" >}}) suggests [Strahd]({{< ref "/npcs/strahd-von-zarovich" >}}) later waged a war against **Duke Gundar** and kept long-term servants or slaves under his banner, bound by promises of eventual freedom. See: [War with Duke Gundar]({{< ref "/lore/war-with-duke-gundar" >}}).
 
 ## Motivations
 

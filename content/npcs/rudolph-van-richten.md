@@ -1,6 +1,6 @@
 ---
 title: "Rudolph van Richten"
-subtitle: "Monster-Hunter Referenced in a Book"
+subtitle: "Monster-Hunter and Author of a Field Handbook"
 date: 2026-03-07
 draft: false
 tags: ["npc"]
@@ -13,15 +13,15 @@ summary_box: |
 
 ## Overview
 
-Rudolph van Richten is referenced by the party in connection with a book about monsters and creatures that contains an attached note.
+Rudolph van Richten is a monster-hunter referenced by the party in connection with a book about monsters and creatures that contains an attached note. The foreword of the [Monster Hunter's Handbook]({{< ref "/lore/monster-hunters-handbook" >}}) also identifies him as the author of that field guide.
 
 ## Personality
 
-Unknown.
+His writing presents him as grim, practical, and deeply distrustful of monsters and anyone he believes serves them.
 
 ## Goals and Motivations
 
-Unknown.
+To hunt monsters before they can prey on innocents.
 
 ## Connections
 

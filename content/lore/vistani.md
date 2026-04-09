@@ -32,6 +32,10 @@ Vistani curses operate under strict laws:
 
 [Esdras]({{< ref "/npcs/esdras" >}}) demonstrated this firsthand in [Session 17]({{< ref "/sessions/session-17" >}}), placing a curse of vulnerability to cuts on [Agares]({{< ref "/players/agares" >}}). The curse is expected to last approximately 2 nights.
 
+### Van Richten's Portrayal
+
+The [Monster Hunter's Handbook]({{< ref "/lore/monster-hunters-handbook" >}}) presents an openly hostile view of the Vistani, describing them as charlatans, spies for Strahd, traffickers in false "elixirs of the mists," and wielders of the Evil Eye. It also claims that, if a deal must be struck, dealing with an elder is safest and notes that the encampment near the Tser Pool is more reasonable than most.
+
 ### Known Vistani
 
 #### Thork

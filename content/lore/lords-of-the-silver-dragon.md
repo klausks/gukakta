@@ -17,6 +17,8 @@ Unknown.
 
 Adrian claims that the mercenary group the party encountered on the road may belong to the "Lords of the Silver Dragon." The party previously noted the mercenaries wore horned silver pendants.
 
+The historical book [Lords of Barovia]({{< ref "/lore/lords-of-barovia" >}}) also names **Lord Argynvost and the knights of the Silver Dragon** as allies of Count Falkon von Hapsburg during the Terg invasion, including the fighting around **Tsolenka Pass** and **Berez**.
+
 ## References
 
 - [Vallakian Mercenaries]({{< ref "/npcs/vallakian-mercenaries" >}})
