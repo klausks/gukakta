@@ -8,12 +8,14 @@ summary_box: |
   **Location:** [Vallaki]({{< ref "/locations/vallaki" >}})  
   **Role:** Noble (observed)  
   **Status:** Alive (observed)  
-  **Relationship:** Unknown
+  **Relationship:** Untrusted (per [Urwin Martikov]({{< ref "/npcs/urwin-martikov" >}}))
 ---
 
 ## Overview
 
-Mr. Ernst is a well-dressed man seen in Vallaki. He carries himself with a notably rigid posture and greets others without waiting for a response.
+Mr. Ernst is a well-dressed man seen in Vallaki. He carries himself with a notably rigid posture and greets others without waiting for a response. He's often seen drunk and quiet at the Blue Water Inn.
+
+According to [Urwin Martikov]({{< ref "/npcs/urwin-martikov" >}}), Ernst cannot be trusted and may be loyal to [Fiona Wachter]({{< ref "/npcs/fiona-wachter" >}}). This has not been independently confirmed.
 
 ## Personality
 
@@ -24,6 +26,9 @@ Upright and socially assertive.
 Unknown.
 
 ## Connections
+
+- [Urwin Martikov]({{< ref "/npcs/urwin-martikov" >}}) — warned the party not to trust Ernst
+- [Fiona Wachter]({{< ref "/npcs/fiona-wachter" >}}) — suspected allegiance (unconfirmed)
 
 ## Key Events
 
@@ -41,3 +46,6 @@ A Vistani made contact with Ernst, informing him they had something to deliver t
 
 ### Session 54
 Appeared outside Wachterhaus and greeted Monel as a group of suspected cult visitors approached the mansion. Ernst did not join the group. Appears in [Session 54]({{< ref "/sessions/session-54" >}}).
+
+### Session 53 (reported)
+[Urwin Martikov]({{< ref "/npcs/urwin-martikov" >}}) warned the party that Ernst cannot be trusted and may be loyal to [Fiona Wachter]({{< ref "/npcs/fiona-wachter" >}}). Referenced in [Session 53]({{< ref "/sessions/session-53" >}}).
