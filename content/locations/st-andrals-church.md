@@ -7,7 +7,7 @@ tags: ["location", "vallaki", "church"]
 summary_box: |
   **Region:** [Vallaki]({{< ref "/locations/vallaki" >}})  
   **Ruler:** [Father Lucian Petrovich]({{< ref "/npcs/lucian-petrovich" >}})  
-  **Holy Relic:** Bones of [St. Andral]({{< ref "/lore/st-andral" >}}) — **stolen** (as of Session 52)  
+  **Holy Relic:** Bones of [St. Andral]({{< ref "/lore/st-andral" >}}) — recovered from Henrich's house, not yet confirmed restored to the crypt  
   **Danger Level:** High (relic stolen; threat to the festival suspected)
 ---
 
@@ -15,7 +15,9 @@ summary_box: |
 
 St. Andral's Church is a place of worship in [Vallaki]({{< ref "/locations/vallaki" >}}), presided over by [Father Lucian Petrovich]({{< ref "/npcs/lucian-petrovich" >}}). It appears to offer a degree of sanctuary to those who seek it. The church hosts an annual feast in [St. Andral's]({{< ref "/lore/st-andral" >}}) honor, which coincides with Vallaki's festival day.
 
-Beneath the altar lies a crypt housing the bones of [St. Andral]({{< ref "/lore/st-andral" >}}), a powerful holy relic said to consecrate and protect the church and those within it. The bones are the source of the church's sanctified status. On the eve of the festival, the bones were discovered to have been stolen from the crypt — taken by the gravekeeper [Milivoj]({{< ref "/npcs/milivoj" >}}), who sold the skull to [Henrich Van der Hood]({{< ref "/npcs/henrich-van-der-voort" >}}), Vallaki's coffin maker. Without the relic, the church's protective sanctity may be compromised.
+Beneath the altar lies a crypt housing the bones of [St. Andral]({{< ref "/lore/st-andral" >}}), a powerful holy relic said to consecrate and protect the church and those within it. The bones are the source of the church's sanctified status. On the eve of the festival, the bones were discovered to have been stolen from the crypt — taken by the gravekeeper [Milivoj]({{< ref "/npcs/milivoj" >}}), who sold the skull to [Henrich Van der Hood]({{< ref "/npcs/henrich-van-der-voort" >}}), Vallaki's coffin maker. In [Session 55]({{< ref "/sessions/session-55" >}}), the party recovered the relic from Henrich's house, but the notes do not yet confirm its return to the crypt.
+
+Father Lucian recounts that St. Andral once repelled Strahd from the sanctuary through faith after the Devil tried repeatedly to enter and take revenge on those sheltering there. As long as the saint remains in the sanctuary, Lucian believes those within remain free from evil.
 
 ## Notable Locations
 
@@ -39,3 +41,6 @@ Monel and Agares visited the church and found Ireena sheltering here. Father Luc
 
 ### Session 52
 The priest informed [Igga Bevneros]({{< ref "/players/igga-bevneros" >}}) and [Agares]({{< ref "/players/agares" >}}) that the bones of [St. Andral]({{< ref "/lore/st-andral" >}}) had been stolen from the crypt. The party confronted gravekeeper [Milivoj]({{< ref "/npcs/milivoj" >}}) in the churchyard and obtained a confession: he had sold the skull to [Henrich Van der Hood]({{< ref "/npcs/henrich-van-der-voort" >}}), Vallaki's coffin maker, and agreed to bury 5 coffins to be delivered that night at 10 PM. Appears in [Session 52]({{< ref "/sessions/session-52" >}}).
+
+### Session 55
+Father Lucian told the party that St. Andral had once driven Strahd from the sanctuary through the force of faith, and that the saint's presence protects those inside from evil. The party later recovered St. Andral's bones from [Henrich Van der Hood's]({{< ref "/npcs/henrich-van-der-voort" >}}) house, though the notes stop before the relic is restored to the church. Appears in [Session 55]({{< ref "/sessions/session-55" >}}).
