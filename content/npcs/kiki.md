@@ -36,3 +36,6 @@ Presented to the party by Urwin Martikov as a communication and emergency tool. 
 
 ### Session 54
 Assigned to observe [Henrich Van der Voort]({{< ref "/npcs/henrich-van-der-voort" >}}) as part of the party’s plan to investigate the St. Andral bones theft. Appears in [Session 54]({{< ref "/sessions/session-54" >}}).
+
+### Session 56
+Sent to ask the Martikovs for help during the vampire fight at [Henrich Van der Voort's]({{< ref "/npcs/henrich-van-der-voort" >}}) house. The party killed all five vampires before she returned with any aid. Appears in [Session 56]({{< ref "/sessions/session-56" >}}).

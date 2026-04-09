@@ -42,3 +42,6 @@ Used Isha to scout at a fork in the road, helping identify an isolated castle wi
 
 ### Session 44
 At the Martikov camp, Vedas prepares to use [Isha]({{< ref "/creatures/isha" >}}) for an aerial sweep to support a stealthier approach to the winery. Appears in [Session 44]({{< ref "/sessions/session-44" >}}).
+
+### Session 56
+Unleashed a volley of fireballs during the fight against the five vampires hidden in [Henrich Van der Voort's]({{< ref "/npcs/henrich-van-der-voort" >}}) attic. The blasts completely incinerated one vampire and badly wounded the others, doing the bulk of the work in the battle. In the middle of the destruction, Vedas rejoiced in how powerful he felt. Appears in [Session 56]({{< ref "/sessions/session-56" >}}).

@@ -44,3 +44,6 @@ Escorted [Jimmy Slit]({{< ref "/players/jimmy-slit" >}}) under a black hood and 
 
 ### Session 49 (referenced)
 Urwin Martikov told the party that Izek had passed through the Blue Water Inn asking about a redheaded woman — which Urwin considered unusual behavior. Urwin also revealed that Izek appears to have a romantic interest in the noble [Rosemary]({{< ref "/npcs/rosemary" >}}), though the feeling is not returned. Separately, [Ireena Kolyana]({{< ref "/npcs/ireena-kolyana" >}}) described recurring visions of enormous arms wreathed in flames towering over her; Father Lucian noted that Izek is known to project fire from his demonic arm. Referenced in [Session 49]({{< ref "/sessions/session-49" >}}).
+
+### Session 56
+Arrived out of breath with several guards outside [Henrich Van der Voort's]({{< ref "/npcs/henrich-van-der-voort" >}}) burning house after the party killed the five vampires hidden there. He demanded that the party explain the situation. Appears in [Session 56]({{< ref "/sessions/session-56" >}}).

@@ -8,7 +8,7 @@ summary_box: |
   **Race:** Unknown  
   **Location:** [Vallaki]({{< ref "/locations/vallaki" >}})  
   **Role:** Coffin maker  
-  **Status:** Unknown — under suspicion  
+  **Status:** Alive — under suspicion after the attic vampire ambush  
   **Relationship:** Hostile (suspected orchestrator of the bones theft)
 ---
 
@@ -42,3 +42,6 @@ Placed under charm by [Vedas]({{< ref "/players/vedas" >}}) and questioned direc
 He said Vistani had paid him **25 gp** for the coffin burial arrangement and had offered **50 gp** for **St. Andral's crown**. His description of the Vistani contact matched Jimmy's impression of [Arrigal]({{< ref "/npcs/arrigal" >}}), though this was not confirmed.
 
 Henrich then led the party to the attic, where the five supposed corpses in the coffins burst out as armed vampires. Appears in [Session 55]({{< ref "/sessions/session-55" >}}).
+
+### Session 56
+Survived the destruction of his house after the five vampires hidden in his attic were killed by the party. Before the flames fully consumed the building, the party dragged Henrich outside alive. Appears in [Session 56]({{< ref "/sessions/session-56" >}}).
