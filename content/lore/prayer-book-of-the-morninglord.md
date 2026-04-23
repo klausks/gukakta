@@ -24,7 +24,7 @@ Because the book includes both daily observances and crisis prayers, it appears 
 
 ## Attachment
 
-[Download the original PDF](/attachments/prayer-book-of-the-morninglord.pdf)
+{{< attachment file="prayer-book-of-the-morninglord.pdf" label="Download the original PDF" >}}
 
 ## References
 

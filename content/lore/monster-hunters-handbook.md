@@ -23,7 +23,7 @@ The manual organizes its guidance by monster type and mixes short descriptions w
 
 ## Attachment
 
-[Download the original PDF](/attachments/monster-hunters-handbook.pdf)
+{{< attachment file="monster-hunters-handbook.pdf" label="Download the original PDF" >}}
 
 ### Notable Guidance
 

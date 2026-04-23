@@ -1,0 +1,7 @@
+{{/* attachment shortcode
+  Usage: {{< attachment file="prayer-book-of-the-morninglord.pdf" label="Download the original PDF" >}}
+*/}}
+{{- $file := .Get "file" -}}
+{{- $label := .Get "label" | default $file -}}
+{{- $path := printf "attachments/%s" $file -}}
+<a href="{{ $path | relURL }}">{{ $label }}</a>

@@ -35,7 +35,7 @@ As a court-authenticated history held in Strahd's own archives, the volume is va
 
 ## Attachment
 
-[Download the original PDF](/attachments/lords-of-barovia.pdf)
+{{< attachment file="lords-of-barovia.pdf" label="Download the original PDF" >}}
 
 ## References
 

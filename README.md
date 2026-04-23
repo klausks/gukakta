@@ -66,6 +66,8 @@ The innkeeper is a wereraven.
 {{< quote attribution="Strahd von Zarovich" >}}
 I am the Ancient. I am the Land.
 {{< /quote >}}
+
+{{< attachment file="monster-hunters-handbook.pdf" label="Download the original PDF" >}}
 ```
 
 `callout` types: `info` (default), `warning`, `danger`, `lore`.
